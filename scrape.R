@@ -36,8 +36,36 @@ extract_listing_urls <- function(page_html) {
 # Extracts data from an individual job listing, collecting as much as possible,
 # returning as highly structured data as possible.
 extract_listing_data <- function(page_url) {
+
+    page_html <- read_html(page_url)
+    
+    # data <- xml_attr(page_html, 'ATTR')
+    title <- html_nodes(page_html, 'h3') %>% html_text()
+    
+    company <- html_nodes(page_html, '.icl-u-lg-mr--sm') %>% html_text
+    company_name <- company[1]
+    company_reviews <- company[2]
+    
+    description <- html_nodes(page_html, 
+                              '.jobsearch-JobComponent-description') %>% 
+        html_text
+    
+    time_posted <- html_nodes(page_html, '.jobsearch-JobMetadataFooter') %>%
+        html_text %>%
+        str_extract('\\d+ (days|weeks|months|day|week|month) ago')
+    
+    meta_data <- html_nodes(page_html, '.jobsearch-JobMetadataHeader-item') %>%
+        html_text
+    
+    return(list(title=title,
+                company_name=company_name,
+                company_score=company_reviews,
+                description=description,
+                time_posted=time_posted,
+                metadata=meta_data))
     
 }
+
 
 # Produces an output file path, given city and page
 create_output_filepath <- function(city, page, ext='tsv') {
