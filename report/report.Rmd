@@ -1,0 +1,67 @@
+---
+title: "DATA 607---Data Science Job Skills"
+author: "Joel & Ben"
+date: "October 14, 2018"
+output:
+  html_document:
+    toc: true
+---
+  
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries:
+
+```{r, warning=FALSE, message=FALSE}
+library(dplyr)
+library(rvest)
+library(stringr)
+```
+
+# Introduction
+
+
+
+
+
+# Data Collection
+
+Approximately 500 data scientist positions were scraped from Indeed.com, spread between five large American cities: New York City, San Francisco, Chicago, Washington, D.C., and Seattle.
+
+Indeed.com was chosen because of it's simple and clear query string method. _EXPAIN MORE_
+
+Although the individual job listings were not as structured as we would like, we were able to put some structure to it. Our final data frame had columns: url, job title, company name, Indeed users' score of the comapny, job description, how long the posting had been up, metadata (often salary information), the date of scraping, city, and page number of results. 
+
+The actual scrape algorithm is pretty simple blah blah blah:
+
+1.For each `city` in the list of `cities`:
+    1. Get some page of results, ` seq(0, 100, 10) = (0, 10, 20, ..., 100)`.
+    2. For each `page` in `pages`:
+        1. Assemble a URL of job results, e.g., ` https://www.indeed.com/jobs?q=data+scientist&l=Seattle%2C+WA&start=100`
+        2. Read the HTML of the resulting page: `read_html(results_url)`
+        3. Extract the approximately 15 links for job postings contained in the HTML: `extract_listing_urls(results_page_html)`
+        4. Use `sapply` to `extract_listing_data()` from each of these links
+        5. Transforming these results into a data.frame, save it to a TSV file
+        
+**GO INTO `extract_listing_urls()` and `extract_listing_data()` IN MORE DEPTH HERE** particularly noting the `tryCatch` wrapping technique
+
+
+
+# Data Cleaning
+
+
+
+
+# Data Storage
+
+(SQL etc.)
+
+
+
+
+# Analysis
+
+
+
+# Conclusion

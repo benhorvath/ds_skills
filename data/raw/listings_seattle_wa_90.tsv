@@ -1,0 +1,184 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=7c3c7e0c559d984f"	"Data Science Intern"	"Zillow Group"	"77 reviews"	"InternshipAbout the team
+Zillow Group's Decision Science team helps solve problems and derive insights for organizations across the company. Each team member focuses on a cross-section of the Zillow Group community. Our team structure is very flat and you will soon find yourself communicating directly with Senior Leadership. You'll work with them to make important, strategic decisions that influence the future of the company.
+Below are some of the areas in which our Data Science Interns focus their energy.Business. Create data-driven insights to fuel the future of each of Zillow Group’s businesses
+(e.g., Agent, Rentals, New Construction) by identifying opportunities for innovation and
+assessing performance of current initiatives.Marketing. Develop data-driven strategies for B2C and B2B marketing efforts through a wide
+range of marketing channels and measure their performance.Product. Analyze how our consumers are interacting with our web and app products to insure
+we are providing them with a delightful experience for all things home.Sales. Analyze the intersection of human behavior, incentive structures, and sales process to
+create a more efficient sales force that scales with Zillow Group’s ambition.Pricing. Develop and implement pricing strategies that deliver the best value possible for our
+clients (Premier Agents, Lenders, Landlords, etc).Tools. Create data-focused information products from billions of data points we collect each
+day for internal and external clients.About the role
+Once you are here you'll help architect, analyze, and report on data to improve our understanding of our marketplaces from multiple perspectives (e.g., product development, consumer behavior, monetization). More specifically:
+Dive into Zillow's internal and third party data (think Hive, Presto, SQL Server, Redshift, Python, Mode Analytics, Tableau, R) to identify opportunities for improvement (e.g., personalized user flows, segmented marketing audiences, more accurate pricing forecasts).
+Assist in the scoping and development of new product features and business initiatives, and compile and analyze data describing the performance of those initiatives (e.g., AB tests, pilots, incrementality tests).
+Coordinate with others on the team as well as engineers, product developers, and marketers to develop a common language and approach to analyzing and communicating information and insights.
+Work directly with teams across Zillow Group to develop, maintain, and document a robust set of important metrics to monitor day-to-day bug detection and long-term performance tracking.
+Tell stories that describe analytical results and insights in meetings of all sizes with diverse audiences.
+Consult with stakeholders and provide analytics-oriented thought leadership across a variety of non-technical audiences to ensure that all levels of Zillow Group make data-driven, rational decisions.
+Who you are
+You will not shy away from complexity or uncertainty. You will develop a solid understanding of our mission, business models, and personas. We want you to use that intuition you've developed (both in business and real life) to find opportunities for growth and develop insights from our massive data sets. These opportunities and insights allow the broader organization to meet its goals, improve its performance, and positively impact how our users navigate our marketplaces.
+We're looking for a seasoned data scientist that has:
+Problem solving expertise gained while working towards an undergraduate or Master's degree in a quantitative field (e.g. science, engineering, economics, finance, statistics, or similar) or demonstrable experience within data science and analytics.
+Experience involving quantitative data analysis and complex problem solving (preferably focused on consumer-facing internet products).
+Foundational analytical skills (solid understanding of SQL, total command of Excel, and experience using R and/or Python) and are a Tableau pro.
+Interest in working with multi-terabyte-sized data sets and are comfortable accessing those data (even if they're in JSON format) with Hive and Presto.
+An understanding of concepts, terminology, and issues related to web traffic.
+Strong written and verbal communication skills, and work well on teams of all sizes with representatives from a diverse set of technical backgrounds.
+The skill to ask the right questions, can push stakeholders to focus on realistic goals and projects, and concisely communicate in written, verbal, and visual formats in a way that provides context, offers insights, and minimizes misinterpretation.
+Get to know us
+Zillow Group houses a portfolio of the largest and most vibrant real estate and home-related brands on the web and mobile. Our mission is to build the largest, most trusted and vibrant home-related marketplace in the world.Zillow Group is owned, fueled and grown by innovators who help people make better, smarter decisions around all things home. We encourage one another at every level, and our efforts are supported by employee-driven, world-class benefits that enable us to enjoy our lives outside the office while building fulfilling careers that impact millions of individuals every day.
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know."	NA	"Internship"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=6666ed0efe8a18c7"	"Applied Scientist - Selection Monitoring Team"	"Amazon.com"	"27,831 reviews"	"Job Description
+Selection Monitoring team sits at the core of Amazon’s retail business, and our systems help Amazon stay ahead of the curve by providing the broadest set of products to satisfy our customers’ shopping needs.
+We build platforms, systems and tools for the retail business, create and take advantage of datasets that contains billions of records, use the latest data processing technologies land machine learning techniques All aiming to keep Amazon’s catalog comprehensive and competitively priced in order to maintain our position as the most customer-obsessed and innovative company in the world.
+As an experienced machine learning scientist you will lead investigations and set the direction for the team by applying techniques from machine learning, information retrieval and data mining to solve some challenging problems using the data from the Amazon catalog and other big data systems. We work on classifying problems and determining potential of new brands and products in the Amazon platform using the billions of items that are available in the Amazon catalog. The data we handle is sparse and there are large number of features to explore. You will get opportunity to determine the selection that is carried by Amazon and to impact the bottom line of the retail business.
+Basic Qualifications
+Advanced degree in Machine Learning, Computer Science, Statistics, Applied Mathematics, Physics or in another highly quantitative field
+3+ years of relevant experience
+Proficiency in object oriented programming in Java, Python or Scala programming in a Unix environment.
+Familiarity with Spark, MapReduce.Preferred Qualifications
+Experience in a highly scalable, distributed environment preferred.
+Results oriented person with a delivery focus.
+Ability to handle multiple competing priorities in a fast-paced environment.
+Domain expertise in ONE OR MORE of the following fields:Big data and Distributed processing (Spark, MapReduce)
+Information Retrieval
+Data Mining
+Machine Learning
+Ranking and ForecastingAmazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=096d3caf30fa3aeb"	"Senior Data Scientist"	"Microsoft"	"5,068 reviews"	"Are you someone with a passion for data, analytics, insights and technology? Do you want to work on one of the largest data science teams at Microsoft, lighting up actionable insights that drive the key business decisions for the entire Office365 organization?
+The Microsoft 365 Insights, Data Engineering & Analytics team (IDEAs), is the newly formed central data science team for Office365 engineering and marketing. The team is looking for a passionate, creative, analytical and experienced data scientist who loves big data, are curious to explore and that wants to impact business decisions.
+Our team plays a key role in providing data and analytics for Office365 and owns the end to end decision sciences charter that includes:
+Bringing the relevant data into a central system to create the single version of truth
+Creating key metrics, reports and dashboards to support business health
+Opportunity analysis and hypothesis generation for stages throughout the end-to-end user lifecycle
+Building advanced analytical models (behavior segmentation, churn prediction, purchase propensity, recommendation engine, etc.) that spans engineering, marketing, partners and finance
+User centric ML models that drive new experiences in the Office applications and services
+To be successful in this role, you must be driven, self-directed, entrepreneurial and focused on delivering the right results. You also need to have strong skills in written and oral communications, a can-do attitude and the willingness to tackle hard problems in innovative ways. You also thrive in a team environment that values cross team collaboration and building on the success of others.
+Responsibilities
+Design, prototype, implement and test descriptive and predictive analytics models
+Work with data engineers to architect and develop operational models that run at scale
+Partner with teams to identify and explore opportunities for the application of machine learning and predictive analysis
+Communicates well with technical and non-technical audiences, and contributing modeling expertise as a team player
+Qualifications
+Master’s degree or higher in Statistics/Math/Computer Science or related field
+5+ years of industry work experience in SQL, R, Python to implement statistical models, machine learning, and analysis (Recommenders, Prediction, Classification, Clustering, etc.) in big data environment
+Experience on large scale computing systems like COSMOS, Hadoop, MapReduce and/or similar systems preferred
+Experience with programming skills, e.g. Java, C# is a plus
+Familiarity with deep learning toolkits, e.g. CNTK, TensorFlow, etc. is a plus
+Exceptional written and verbal communication to educate and work with cross functional teams
+Be self-driven, and show ability to deliver on ambiguous projects with incomplete or dirty data
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work."	"3 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=1fac0691d423749c"	"Data Scientist"	"Harman International"	"469 reviews"	"TECHNICAL SKILLS
+Overall 08– 10 years of professional experience;
+Able to create / develop a compelling story to answer business questions using analytics outcomes;
+Hands on programming experience in R (Mandatory); Python and PySpark (Desirable);
+Should have worked on data heavy projects on Natural Language Processing(NLP), risk scoring, Propensity / Classification Modeling, Segmentation, Promotion Analytics, Campaign Optimization, recommender engines, fraud analytics, etc.
+Great analytical skills, with expertise in Deep Learning, Machine Learning methods such as CNN, RNN, Autoencoder, SVM, Naïve Bayes Classifier, Decision Trees, Random Forest, PCA etc. is MUST;
+Experience in Artificial Intelligence / Cognitive Computing / OpenCV highly desirable.CLIENT MANAGEMENT SKILLS
+Must possess good client facing experience with the ability to facilitate requirements sessions and lead teams and present analysis in business terms;
+Must have led / managed / executed Machine Learning driven project through the complete life-cycle of the project;
+Any demonstrable experience in cross-selling / up-selling / farming existing clients will be a big plus;DESIRED EDUCATIONAL BACKGROUND
+Masters or Ph.D. in Statistics / Econometrics / Operations Research / Artificial Intelligence;OTHER DESIRED ATTRIBUTES
+Confident and self-starter;
+Must possess a detail-oriented approach;
+Ability to adapt and thrive in the fast-paced environment;
+Good written and oral/ presentation skills;
+Willing to travel and adapt to different client environment"	"27 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=d345d7352f88e2d3"	"Event and Logistics Specialist, Customer Relations"	"BOEING"	"5,793 reviews"	"Seattle,Washington,United States KADSN2
+The Boeing Company is looking for an Event and Logistics Customer Relations Specialist to join our team. We have two positions available, one based in Renton (Longacres) and the other out of the Seattle Delivery Center.
+With guidance this position is responsible for integrating and fulfilling all logistical requirements on behalf of customers moving through the airplane delivery process. You may also create the Boeing Commercial Airplanes (BCA) Sales customer visit agendas in coordination with a senior Customer Relations Specialist and Sales hosts.
+In addition, this role will perform (but not be limited to) the following duties:Makes recommendations and revisions during agenda preparation and maintenance process (i.e., venues and timing), in order to suit the guest and event requirements.Prepares the agenda drafts and final versions.Executes agenda logistics including guest badging, transportation arrangements, catering, restaurant, car rental, hotel reservations, and tours.Ensures that the administrative tasks associated with coordinating these visits, including posting all the invoice-related information is completed.Assisting with logistics for off-site and on-site business meetings and customer events.May be requested to track reservation data for these activities and provide status reports.Partners with BCA Customer Relations team members at the Everett, Seattle and Charleston delivery centers to fulfill customer-associated logistics.Provides account coverage for peers who are out of the office for various lengths of time.Monitors accounts when a senior Customer Relations Specialist requests assistance, either for the remainder of the day or per the manager's discretion.Implement logistics in accordance with company policies and procedures, and business courtesies, protocol and U.S. and foreign government guidelines.Develops plans with appropriate supervision (e.g., site inspections, planning meetings and solicits information on venues).Establishes and maintains relationships with internal and external customers/suppliers.Uses knowledge of company resources and vendor services to execute plans.Document and share results and suggested improvements to enhance quality of ongoing customer support and consistent services.Limited domestic and international travel, and overtime to be expected on some weekends, holidays, and evenings
+These positions will sit in Seattle and/or Renton and do not offer relocation benefits. Applicants must live in the immediate area or be willing to relocate at their own expense.
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world.Employer will not sponsor applicants for employment visa status.
+Required Qualifications:Experience utilizing Microsoft Word, Excel and Outlook
+Ability to travel domestically as well as internationally
+Flexibility to work outside of standard business hours (evenings, weekends, and holidays)
+Experience in a customer facing role engaging with internal and external customers
+Preferred Qualifications:
+Bachelor’s degree
+Experience in organizing, planning and facilitating large scale events
+Typical Education / Experience:
+Bachelor's degree and typically 3 or more years' related work experience, a Master's degree and typically 1 or more years' related work experience or an equivalent combination of education and experience. Yes, 10 % of the Time BCA Sales & Customer Support Individual Contributor No No Standard United States; The Boeing Company Renton;Washington;United States~"	"3 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=96e9a821b412fc8d"	"Data Scientist (Commercial Analytics)"	"Terex Corporation"	"469 reviews"	"Responsibilities and Scope:
+The data scientist- Commercial Analytics will support our commercial team with insights gained from internal and external data sources. The data scientist – commercial analytics will develop methods to analyze & optimize the current commercial and operational constraints to meet annual financial goals. The ideal candidate will be intricately involved in running analytical experiments in a methodical manner, and will regularly evaluate alternate models via theoretical approaches. The ideal candidate must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, creating algorithms and running simulations. Must have a proven ability to drive business results with their analytical insights. The position would require working closely with cross-functional teams and senior leadership.
+Essential Duties and Responsibilities
+Work with key stakeholders throughout the commercial organization to identify opportunities for leveraging company data to drive business solution and support operational and strategic decision-making.
+Mine and analyze data from company databases and third party sources to develop market intelligence framework for organization.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to internal and external data sources.
+Provide expertise in predictive modeling to develop and make strategic business decision recommendations focused on but not limited to short term and long term demand forecasting.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Basic Qualification:
+Minimum 4 years of data scientist or related experience
+Bachelor's Degree in Computer Science, Math, Engineering, Statistics or other technical fields.
+Preferred Qualifications:
+Experience querying databases and using statistical computer languages: R, Python, SQL, etc. to manipulate data and draw insights from large data sets.
+Experience with data visualization tools such as Tableau, Qlik, Shiny, etc.
+Self-starter with strong analytical, critical thinking and problem solving skills; able to work independently as well as in fast-paced, cross-functional teams. Must have good time and project management skills and attention to detail.
+Independent learner with a strong interest in broadening the competencies of the organization as well as extending his/her business acumen with drive to learn and master new technologies and techniques.
+Proven ability to handle multiple priorities in a continuously changing environment.
+Strong written and verbal communication skills for presenting complex concepts to senior managers.
+Experience in working with multiple ERP systems, in particular Oracle.
+Proficient with variety of machine learning techniques and their real-world advantages and drawbacks.
+Experience creating and using advanced machine learning algorithms and statistics: Linear regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Demonstrated high respect for people as individuals and as members of the company team.
+Master’s or PhD Degree in Computer Science, Math, Engineering, Statistics or other technical fields.
+TRSR1234
+Location: US-WA Redmond-B33 (HUB) HR
+Department: Administration
+Job ID: 329
+Terex Overview:
+Terex Corporation is a $4.5 billion, publicly traded global manufacturer of lifting and material processing products and services. The company is passionate about producing equipment that improves the lives of people around the world. Terex operations are global, yet each office or factory is a close-knit community. Terex provides team members with a rewarding career and the opportunity to make an impact. The company values diversity and inclusion, safety, integrity, respect, servant leadership, courage and citizenship. It encourages continuous improvement and offers free courses available through Terex University. Women@Terex provides a supportive network for Terex women in their jobs and careers. It’s an exciting time to be part of the expanding manufacturing sector. Terex is a place where you can work and grow. Come talk to us!
+Additional Information:
+It is the policy of the company to attract and retain the best qualified employees. We are committed to providing employment opportunities to the most qualified internal or external candidate based on work-related factors and without regard to non work-related factors including race, color, religion, national origin, gender, sexual orientation, gender identity, age, disability, or veteran status as a special disabled veteran, Vietnam Era Veteran, or other qualifying veteran.
+The Company offers competitive salaries, advancement opportunities, and a full range of benefits, including paid vacation, 401(k), medical, dental, and vision.
+Terex Corporation is an Equal Opportunity Employer and Affirmative Action Employer M/F/D/V."	"10 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=0be51df787f069fa"	"Intern: Yield Analytics - Grower Data Modeling"	"The Climate Corporation"	"11 reviews"	"InternshipPosition Overview:
+As the industry leader in connected acres, The Climate Corporation has a unique opportunity to help growers understand what factors most influence yield outcome by analyzing data across many thousands of fields and farm operations. From exploratory data analysis aimed at identifying and describing patterns of yield at various scales, to building models for diagnosing and predicting yield outcomes, the opportunity to leverage these datasets for advanced insights is at the core to our business.
+We are looking for a intern to join a cross-functional group of data scientists and researchers to help drive analyses and build models that advance our understanding of crop performance at various scales of observation by leveraging on-farm data that include grower experiments, to better understand the value of agricultural input decisions at scale. This position will involve working with diverse datasets and a broad range of modeling approaches, ranging from simple statistical models to advanced machine learning approaches about economics/econometrics, along with other science disciplines, for their course of study.
+What You Will Do:
+Explore, munge, and model large and diverse datasets to solve business problems that deal with improving crop performance.
+Research new methods of analyzing large and highly complicated data sets.
+Combine traditional econometric tools with cutting edge machine learning techniques.
+Implement and test algorithms and techniques relevant to achieving project objectives.
+Summarize findings, make recommendations and effectively communicate the results of the analysis and the impact of the results on for the business.
+Basic Qualifications:
+Enrolled in a PhD or Masters Program in Statistics, Computer Science, Mathematics, or other physical science involving computationally intensive research during the duration of the internship
+Skilled in the use of Python or R for research
+Experience with exploratory data analysis and modeling using technologies such as Hadoop, MapReduce, or Spark
+Understanding of basic econometrics and machine learning algorithms and their proper application to big data.
+Preferred Qualifications:
+Experience with agriculture or agricultural data.
+Strong analytical, written and verbal communication skills.
+What We Offer:
+Our environment is extremely engaging and fast-paced, with a diverse set of top engineers, agronomists, and statisticians working together to provide the best possible products and experiences for our customers.
+We offer competitive pay and perks.
+We provide meals and a large assortment of snacks and drinks to get you through the day.
+You’ll get 1:1 mentoring from a talented and motivated employee on your team.
+You’ll have the opportunity to work on real projects with experienced employees and have a direct impact on the company. (Our internships are not summer camp!)
+You’ll have the amazing opportunity to participate in one of our Biotechnology Tours where you get out of the office and into the field (literally) with agents and farmers.
+You’ll work in an award-winning office with smart designs, large common areas and open floor plans that fuel collaboration.
+You’ll attend various events, activities, and off-sites - we make sure interns are having fun!
+We regularly host meet-up groups and tech-talks and encourage participation in relevant workshops and conferences
+You’ll have the opportunity to interact with key executives and leaders.
+Learn more about our team and our mission:
+The Climate Corporation - The Technology Behind Making A Difference
+https://youtu.be/c5TgbpE9UBI
+#LI-DNP"	NA	"Internship"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=3854d5f4ef6e3149"	"Data Scientist, Fire TV Product Management"	"Amazon.com"	"27,831 reviews"	"Job Description
+Fire TV is the #1 best-selling streaming media player in the U.S. As we grow our product selection, we are looking for a Senior Data Scientist to work in a data-driven product management team, helping define the user experience for our new Amazon Fire TV product line. In this role, you will have the opportunity to drive our user behavior analysis to help develop better methods for measuring business success and steering product vision. You will study user behavior in depth to validate critical features and user experiences. The role is inherently cross-functional: You will work closely with a high-energy team consisting of software engineering, data analytics, user experience, device marketing, customer service, and executive team members. This role is a good fit for someone who is creative yet highly data-driven and who has strong customer focus and ‘product sense’, combined with an established track record in user behavior analysis.
+Key Responsibilities:Define and implement our user behavior analysis methodology and roadmapDevelop a reporting workflow for our product innovationInform our AB testing experimentation for product innovationBasic Qualifications
+5+ years of work experience in deep data analysis and/or data science in consumer behavior at scale5+ years experience in consumer Internet technologies
+- Deep statistical skills - ideally utilized in A/B testingExperience with distributed processing analytics tools (such as Hadoop, Hive, MapReduce, Spark)Experience working with product teams to inform product choicesExperience in user behavior analysisCustomer obsessed and highly curiousPreferred Qualifications
+Experience in media entertainment user behaviorStrong strategic aptitude; ability to define and measure success of a product or feature based on user behavior analysis on large data setsExcellent customer experience intuition; demonstrated success in inventing innovative and user-friendly productsAt your best in a dynamic and rapidly changing environmentStrong programming skillsPassion for home entertainment
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=3a9e6d662a59e2e6"	"Data Scientist (Neural Networks)"	"Neal Analytics"	"-"	"ContractJob SummaryData ScientistDo you like working with amazing people and cutting-edge technology? Do you want to work on the frontier of Data Analysis, Neural Networks, Machine/deep learning, and image, audio, and textual analytics? Then we have the perfect project for you!Responsibilities and DutiesNeal Analytics is a Gold partner to Microsoft and a leading Data Science and Analytics firm in the Northwest seeking a Data Scientist who has commercial client experience with voice, image, and video analytics.The ideal candidate will have a strong data science background and follow established processes to develop models and statistical analysis while effectively working in a collaborative team environment.Required Experience, Skills and QualificationsQualification Requirements:* Building models using first principals, e.g., CNN, RNN, NN* Training models with terabit (or larger) size data sets* Experience with TensorFlow and CNTK* Worked with digital signal processing approaches* Solid experience with text analytics, OCR, elastic search* Work with Software Development Engineers, Data Engineers, and Application developers to execute tasks/projectsEducation:* PhD level competency in math, stats, or computer science* Proven track record developing advanced analytical tools* Work experience in a consulting setting is a plusJob Type: ContractExperience:TensorFlow: 6 years (Required)Microsoft Cognitive Toolkit (CNTK): 6 years (Required)Artificial neural network: 6 years (Required)recurrent neural networks (RNN or RecNet): 5 years (Required)neural network frameworks: 6 years (Required)convolutional neural network (CNN, or ConvNet): 5 years (Required)Location:Redmond, WA (Required)Work authorization:United States (Required)"	NA	"Contract"	2018-10-15	"Seattle%2C+WA"	90
+"https://www.indeed.com/viewjob?jk=83bd1bf148eb5e0f"	"Data Analyst"	"RedCloud Consulting"	"-"	"RedCloud is looking for a Data Analyst to join our team! The scope of this role includes understanding, monitoring and reporting key metrics and ongoing analyses, to inform overall strategy for acquisition, usage, and retention of users. It also includes stakeholder engagement and close collaboration with and leveraging efforts of data scientists, data engineers and other data analysts on the team.
+RedCloud Consulting is a business and IT consulting company with local Puget Sound Enterprise and Mid-sized clients. We were recently recognized by Seattle Business Magazine as #1 “Best Companies to Work for in Washington” for Mid-Sized Businesses, awarded #1 Fastest Growing Company on the Washington by Puget Sound Business Journal and named on the Inc. 500/5000 list.
+Responsibilities:Partner with specific functions / domains of the campaigns teams and develop a deep understanding of those areasProvide actionable insights on acquisition and engagement efforts for the areas supportedConnect findings and recommendations to business initiatives and collaborate with key stakeholders at various management levels to drive actions maximizing revenueDeliver in depth analysis on business performance (trends, funnels) and drivers, as well as forecasts and targetsDefine, track and report key metrics to assess overall business health and support monthly reporting for campaigns and solution monthly business reviewsAutomate reporting through refreshable excel templates, power point slides, and Power BI dashboardsPartner with analytics, data science, and data engineering partners for data structures, data availability, and model developmentRequired Education & Experience:3-6 years of hands on experience as a Data AnalystMaster’s or bachelors’ degree in Statistics/Math/Computer Science/Economics/Business or EngineeringAdvanced working knowledge of large data manipulation and data miningDemonstrated experience using Weighted ModelsCan leverage SQL to pull together any conformed data and add business logic to create measures or answer questions at hand.Can use SQL to build out the data foundation for any non-cube reportingPower User experience with ExcelAttention to detail and quality assuranceDefine appropriate formats for the necessary outcomes
+We are considering local candidates, currently residing in the Seattle, WA market area, who are US citizens or permanent residents, available & eligible to work for any employer. We are not offering Visa sponsorship.
+About Us:
+RedCloud is a boutique Management Consulting firm founded in 1995, based in Bellevue, WA with a primary goal of empowering businesses to realize their potential and reach peak performance. Everything we do is executed with a complete and unwavering focus on accountability, dependability and results. We can achieve this by providing a broad array of both Business and IT consulting in addition to staffing solutions to Enterprise clients. Our professional services include Strategic Planning, Process Improvement, Project and IT Product Management, Sales and Marketing, and Business Intelligence Services.
+Learn more about us at redcloudconsulting.com"	"11 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	90

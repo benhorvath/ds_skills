@@ -1,0 +1,472 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=NA"	"NA"	"NA"	"NA"	"NA"	"NA"	"NA"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=cddbdc70a46df75d"	"2019 PhD Data Scientist Internship - UberEverything - New York"	"Uber"	"548 reviews"	"InternshipAt Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+About the Role
+Are you interested in working at the intersection of applied quantitative research, engineering development, and data science? Do you have interest in applying quantitative solutions to the uniquely challenging problems related to Uber’s on-demand delivery marketplace? If so, then this is the opportunity for you.
+What You’ll Do
+Develop models for user behavior and marketplace dynamics
+Design optimization algorithms to improve marketplace efficiency
+Apply machine learning for recommendation, prediction, and forecasting
+Conduct experiments to inform product decisions
+What You’ll Need
+Strong quantitative background
+Research, data science modeling, or engineering experience
+Familiarity with technical tools for analysis - Python (with Pandas, etc.), R, SQL, etc.
+Research mindset with bias towards action - able to structure a project from idea to experimentation to prototype to implementation
+Independence, great communication, and amazing follow-through - you aggressively tackle your work and love the responsibility of being individually empowered
+Bonus Points For
+Background in Machine Learning, Statistics, Operations Research, Operations Management, Econometrics, or similar
+Experience in software engineering
+About the Team
+Uber Everything Data Scientists help solve the most challenging problems related to Uber's ambitious and rapidly expanding on-demand delivery businesses, such as Uber Eats. These fascinating and challenging problems include: demand prediction, menu ranking and recommendation, delivery time estimation, batching, scheduling, routing, dynamic pricing, supply positioning, and much more."	"24 days ago"	"Internship"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=5bbb0e5e08de5ecd"	"Data Scientist"	"Hearts and Science"	"-"	"Description:
+Hearts & Science has been inspired by confident marketers seeking business advantage in a world of personalized digital marketing, where CRM and addressable channels converge, and decisions must be made in real time to aggregate effective reach and deliver the right message at the right time.
+Designed to inform brand strategies with real-time insights, Hearts & Science is a data-driven marketing agency with expert media planning and buying capabilities, among other services that include shopper marketing, marketing innovation and content activation.
+As every CMO knows, employing technology, data and analytics to business challenges is the cost of entry, not a nice-to-have. Unlocking the value of consumer data can deliver growth, revenue and ROI, and create differentiation to stay on top. Real-time action is instrumental in driving results within a highly fragmented marketplace. Hearts & Science’s Marketing Science solutions are built to deliver insightful results with speed, accuracy and a single version of the truth. In leveraging the DNA of a marketing agency with a talent pool of developers, data scientists and Ph.Ds, we hold a unique position in the increasingly crowded ad tech and consulting space. As a Data Scientist on our Marketing Science team, you will:
+Explore experiment with a large number of datasets to draw insights and search for stories
+Model and build algorithms on top of our vast number of datasets
+Assist in designing tech infrastructure and data pipelines (ETL, data automation, data querying, etc.)
+Build tools to process, visualize, and analyze data
+Design and build data-driven software products
+Deploy scalable solutions to a cloud-based infrastructure
+Desired Qualifications
+1-3 years developing analytics projects
+Strong written and verbal communication skills; thrive in a rapidly-evolving environment
+Industry experience with predictive modeling, databases, computational simulation, clustering, machine learning, and remote computing, e.g., Amazon AWS
+Experience with Python (numpy, scikit, matplotlib, and pandas packages), SQL, bash, R, and other similar statistical computational environments
+Exposure to Javascript, HTML/CSS, XML, Hadoop, and parallel processing
+Masters degree in quantitative, computation-focused research, or equivalent work experience
+Good understanding of advertising technology and landscape, including external data providers and data management platforms"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=f3b2bab7bba76688"	"Machine Learning Data Scientist"	"Murmuration"	"-"	"Machine Learning Data Scientist
+
+Who We Are
+
+Murmuration is an organization dedicated to sustainable policy change in the U.S., and we believe that the path to real change in America’s education system is through political activism and participation. Together with our partners, we develop shared infrastructure and coordinated support for organizations on the ground to massively improve outcomes for all children. We do this by working directly with local schools and organizations to amplify the voices of parents and families as key stakeholders in setting education policy.
+
+As part of our work, Murmuration has developed a technology product called “m{insights” that seeks to aggregate data from a combination of sources including member data from partner organizations, publicly available data, consumer data, voter file data, and more. The compiled data are then used to build a variety of analytic models and tools that enable Murmuration’s partner organizations to activate, expand, and mobilize their supporter bases effectively for sustained political change.
+
+About the Position
+
+We are looking for a creative and endlessly inquisitive Data Scientist, with a machine learning emphasis, to join our team. You will be working hand-in-hand with our Senior Data Engineer and Senior Data Scientist to develop highly optimized predictive models from a large volume of regularly updated data. In addition, you will be a key contributor to our Python analytics code base to build and automate custom analytics to help analyze our partners’ work in the political and advocacy spheres. You will be working in a small but dedicated, detail-oriented team that is committed to our mission. The Murmuration work environment is friendly, driven, and non-corporate but professional.
+
+The Machine Learning Data Scientist will:
+Create predictive analytics using the latest machine learning algorithms on relatively “big” data (hundreds of features on > 100 million records)
+Provide analytic insights for partners throughout the lifecycle of their campaign(s); build, review, and recommend custom models; provide real-time visualizations and analysis of campaign work; and produce post-campaign analytics to help our partners constantly learn from their efforts
+Work with Senior Data Engineer to help build and optimize our predictive analytics pipeline to perform well on large datasets stored in Amazon Web Services (AWS)
+Help develop and maintain Python analytics code base to build and automate custom analytic products
+Analyze the performance of our production machine-learning models
+Work closely with the data engineering team to analyze and augment our data
+Candidate Profile
+
+Murmuration attracts employees with distinctive and diverse backgrounds and accomplishments. Integrity, creativity, flexibility, and drive are key attributes of competitive candidates. The Data and Analytics teams are highly collaborative, friendly and hard-working, and we are looking for a Machine Learning Data Scientist who embodies those values.
+The ideal candidate will have:
+PhD in political science, sociology, mathematics, statistics or other related field or 4-5 years of experience building production level machine learning models on large datasets
+Excellent general data science skills (data cleaning, munging, data visualization)
+Excellent Python skills (with additional experience in R desired)
+Experience with Amazon Web Services, in particular applying analytics in that setting
+Experience identifying appropriate statistical techniques and applying them to a variety of real-world datasets
+Strong problem-solving skills as well as the ability to manage several tasks/projects concurrently and prioritize work effectively
+Experience with databases and knowledge of SQL preferred
+Interest in politics and/or educational policy
+Location
+
+This position will be based in New York, NY, and requires occasional travel.
+
+Compensation
+
+The Machine Learning Data Scientist position is a full-time, salaried position with a comprehensive benefits package. Compensation for this position is commensurate with experience.
+
+An Equal-Opportunity Employer with a Commitment to Diversity
+
+Murmuration is proud to be an equal opportunity employer, and as an organization committed to diversity and the perspective of all voices, we consider applicants equally of race, gender, color, sexual orientation, religion, marital status, disability, political affiliation and national origin. We reasonably accommodate staff members and/or applicants with disabilities, provided they are otherwise able to perform the essential functions of the job."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=553df36b7ebc646c"	"Data Scientist (NYC)"	"DonorsChoose.org"	"5 reviews"	"DonorsChoose.org engages the public in public schools by giving people a simple, accountable, and personal way to address educational inequity. In this clip, board member Stephen Colbert tells the organization's story.
+Since its launch in 2000, more than 3 million \"citizen philanthropists\" have donated to classroom projects on DonorsChoose.org, channeling books, field trips, technology, and other resources to more than 28 million students in public schools, overwhelmingly from low-income households. Along the way, the organization helped to pioneer the field of crowdfunding and is now making an impact beyond school supplies.
+Thanks to its dedicated team and culture, DonorsChoose.org earned recognition as the #1 \"Best Nonprofit to Work For\" by the Nonprofit Times.
+The Team
+This role is on the Data Science & Analytics Team in our Product & Engineering group. The Data team supports DonorsChoose.org’s data-driven philosophy by building and maintaining an analytics-centric data warehouse that holds the single source of truth for all areas of the business. Using this structured data, we combine business analytics with data science to understand user behavior, build machine learning products, and inform business strategy across marketing, operations, and product. We are also dedicated to using our data to understand classroom trends across the nation and to engage the public with our insights.
+The Role
+DonorsChoose.org is a technology non-profit that is serious about data. We are seeking a Data Scientist who is eager to play a key technical role on a results-oriented two-person team that delivers critical work for teams across the organization. A typical week may involve writing a custom data transformation script, creating a new reporting dashboard, and building a machine learning model.
+You will:
+Lead the end-to-end development and deployment of machine learning products (think user-facing recommendation engines, back-end automations, etc.); from deeply understanding the data, to building and tuning the model, to scaling it in production, you’re in charge
+Perform analyses on large sets of data to extract actionable insights that will help drive business decisions across our marketing, operations, and product teams
+Continuously test and improve our current machine learning products
+Mine our rich data for insights about evolving classroom needs
+Help maintain and continuously improve our existing business intelligence (BI) tools and underlying data infrastructure
+Support ad hoc reporting needs
+This position is right for you if you:
+Have 1-2 years of experience working on data analysis and modeling in a professional or academic setting
+Have a strong ability to code in Python
+Have a strong grasp of SQL and database concepts (we use Redshift and Postgres)
+Have experience utilizing applied statistics or machine learning on large, complex, noisy datasets to solve real-world challenges and business problems
+Love data munging (or at the very least have a love-hate relationship with it)
+Are eager to expand your data science toolbox; you’re comfortable learning new tools and experimenting with new methods
+Have the ability to distill ill-defined problems into clear and tractable ones
+Operate with a high sense of urgency and enjoy working in a fast-paced environment
+Bonus points if you have experience with any of the following:
+AWS infrastructure (specifically Redshift, EC2, and Lambda)
+Scaling and turning models into production-ready applications, such as recommender systems
+Web analytics and event data
+BI and reporting platforms (we use Looker)
+A/B testing
+Natural language processing
+Compensation and Benefits
+DonorsChoose.org offers a competitive salary and benefits package that includes 100% employer paid health, dental, and vision coverage; a matching 401k plan (up to 5% of your salary); an annual professional development stipend; and 5 weeks paid vacation plus national holidays. To learn more about what it's like to work for DonorsChoose.org, visit the careers page.
+To Apply
+Please submit your application online. In your cover letter, tell us a little bit about your favorite teacher! Applications will be accepted on a rolling basis until this position is filled.
+A Final Note
+The DonorsChoose.org team works toward a nation where students in every community have the resources needed for an excellent education. To do this, we hire and support a diverse team of the best and the brightest talent available.
+We are an organization increasingly representative of the varied races and ethnicities, genders and sexual orientations, religious and political beliefs, and abilities that comprise our nation. DonorsChoose.org focuses on attracting, retaining, and advancing diverse talent because it makes us more effective, high-performing, creative, and resilient.
+If you are passionate about our mission, highly skilled in your field, and looking for a place where you can bring all of yourself to work, we want you."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=6ec986ea957fb091"	"Data Analyst"	"Cota"	"66 reviews"	"POSITION: DATA ANALYST
+
+OVERVIEW
+Cota is seeking an early-career data scientist who is naturally curious, has familiarity with various analytic tools, and enjoys solving new problems. In addition, you should be able to continually unearth and present interesting trends that have clinical and business importance for our customers and oncology patients at large. You will be joining a friendly, high performing and diverse data science team with backgrounds in finance, health economics, biology, and statistics.
+
+RESPONSIBILITIES
+Develop real-world-data analytic products for the oncology space
+Partner with the operations, engineering, and clinical teams to define analytic requirements, enhance data quality, and deliver publication-caliber analysis
+Ramp-up on oncology domain knowledge and healthcare analytic techniques within the first 3 months of the job
+Become an expert on our data model; confidently representing our data capabilities to other teams as well as external partners. In time, suggest & implement improvements to our data model based on business needs and client feedback
+
+QUALIFICATIONS
+Masters degree in computer science, statistics, applied math, econometrics or similar quantitative field with prior research/internship experience
+Bachelor degree in computer science, statistics, applied math, econometrics or similar quantitative field with 2 years of analytic work experience in a rigorous environment
+Must be curious and intellectually humble. “Know what you don’t know” and ask for help from others with more domain expertise
+Solid foundational knowledge of descriptive and predictive statistics
+Working knowledge of statistical programming (we primarily use R but are open to training Python users), SQL, version control, data maintenance, and other relevant computational techniques and processes
+Passionate about data quality and able to clearly communicate and evangelize its importance to internal and external partners
+Collaborative self-starter. Cota is a startup environment and you will be working cross-functionally daily with data scientists, engineers, medical professionals, and business professionals.
+
+BONUS POINTS
+Medical school student with demonstrated data science interest seeking a career change
+Research experience with oncology, genomics or bioinformatics
+"	"5 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=3457cfd45aee0e4b"	"Data Scientist"	"Discovery Communications, LLC"	"318 reviews"	"$145,000 - $185,000 a year (Indeed Est.) Position Summary
+This leadership role involves close collaboration with the Digital team, Data Science community, key decision makers within the product offerings, ad sales research teams and maintaining relationships with Global Technology Group’s engineering and data team.
+This role ranges from deep science thought leader / mentor, consultative business facilitator, leading discussions, to research experimentalist to technology innovator. The individual must be comfortable partnering with core data infrastructure teams such as big data infrastructure, software, and data warehousing, as well as product and engineering management driving the business.
+Responsibilities
+1. Lead and create a small team of data scientists
+2. Applies machine learning techniques to solve complex questions or fuel new business opportunities
+3. Delivers breakthrough benefits to Discovery users/customers across small business & consumer products using individual, enriched, and aggregated data
+4. Provides leadership in advanced engineering, data science and analytics in the development of current or future products or technologies
+5. Provides technical leadership across multiple teams, by understanding a key technology space deeply enough to help guide strategy
+6. Provide/inspire data science innovations that fuel the growth of Intuit as a whole
+7. Understands and teaches proven methods and hacking skills in working with divergent data types at scale, to explore and extrapolate data-driven insights using advanced, predictive statistical modeling and testing applied to data acquired and cleansed from a range of sources
+8. Provides to business stakeholders the entrepreneurial guidance essential for appropriately interpreting and building on findings, and fully exploiting the insights revealed through the research
+9. Other duties as assigned
+Requirements
+BS, MS, or PhD in an appropriate technology field (Computer Science, Statistics, Applied Math, Econometrics, Operations Research, etc.)5+ years experience leading data science and/or software engineering teamsAble to effectively communicate a vision and inspire others to innovateInnovative and disruptive technology leader solving long term strategic outcomesExpert command of machine learning, statistical modeling, state-of-the-art tools, and engineering best practicesExperience in leading teams who have expertise in data mining algorithms and statistical modeling techniques such as clustering, classification, regression, decision trees, neural nets, support vector machines, genetic algorithms, anomaly detection, recommender systems, and natural language processing.Knowledge and understanding of the media/digital media industry a plusImpeccable attention to detail and strong ability to convert complex data into insights and action plansStrategic thinker, flexible problem solver, great listener and team orientationMust have Legal right to work in the United States
+New York, New York City, NYC, NY"	NA	"$145,000 - $185,000 a year (Indeed Est.) "	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=241e369bcf72e28c"	"Data Scientist (EFT Analytics)"	"KOCH MINERALS"	"5 reviews"	"Learn more by visiting our website here!
+
+EFT Analytics, Inc. is looking for a Data Scientist to join our team in New York City! The Data Scientist will have the opportunity to work with a dynamic team to optimize and expand our advanced analytics platform. The successful candidate will be able to enhance and expand machine learning capabilities in the platform.
+Strong written and verbal communication skills are required.
+A Day In The Life Typically Includes:
+Root Cause Analysis for process control and manufacturing environments
+Application of advanced analytics and optimization data and software tool sets
+Consulting with internal customers and team (process engineers, production leaders, operators, and reliability/energy optimization roles)
+Process model development - replication of customer process controls in simulation environments
+Use industry technologies, tools, and data mining frameworks for data analytics including data visualization for analyzing, optimizing, developing hypotheses, and drawing conclusionsWhat You Will Need:
+Basic Qualifications:
+Knowledge of Bayesian statistics, SVM, and deep learning
+Deep understanding of Bayesian belief network inference, back propagation and other algorithms appropriate to Bayesian statistics, SVM, and deep learning
+Knowledge of supervised and unsupervised algorithms
+Experience with statistical analysis
+Bachelor's degree from an accredited institutionWhat Will Put You Ahead?
+Preferred Qualifications:Bachelor's or Master's degree in Data Science, Mathematics, or Statistics from an accredited institution
+C#, VB.Net, or Java coding experienceAdditional Information:
+Ability to travel for work up to 15% of the time, by plane, car, etc.Want to learn more about EFT Analytics?
+Twenty years ago, EFT Analytics set out to deliver real-time, data-driven insights. Today, Industry 4.0 is the advent of Internet of Things, smart manufacturing and industrial stewardship. Insights and results earn your data a seat in the boardroom. EFT is a subsidiary of Koch Industries, one of the largest private companies in the U.S. Koch has delivered results using its unique management philosophy across dozens of industries and hundreds of sites for decades. EFT strives daily to bring those time-tested fundamentals to how we operate and what we deliver.
+Our people and culture are just like you, totally unique. We come from vastly diverse backgrounds. We’ve taken our own paths. When there wasn’t a path, we blazed trails. Trails that led us here. Where we find ourselves unified around one mission: to be the best data analytics company on the planet. And we won’t stop until we get there.
+Salary and benefits commensurate with experience.This role is not eligible for work visa sponsorship.
+
+We are an equal opportunity employer. Minority/Female/Disabled/VeteranExcept where prohibited by state law, all offers of employment are conditioned upon successfully passing a drug test."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=2ddc548ea3f366de"	"Google AI Resident, 2019 Start (Fixed-Term Employee)"	"Google"	"2,617 reviews"	"Application Timeline:
+We are accepting applications until January 28, 2019.
+Our team will review applications on a rolling basis and interviews will begin in November 2018. It is in your best interest to submit your application early.
+The Google AI Residency Program will have 3 start dates over the course of 5 months, from June to October 2019. Exact dates are yet to be determined.
+Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA; Cambridge, MA, USA; Seattle, WA, USA
+About the Program:
+The Google AI Residency Program (formerly known as the Google Brain Residency Program) is a 12-month role designed to advance your career in machine learning research. The goal of the residency is to help residents become productive and successful AI researchers.
+As part of this program, Residents collaborate with distinguished scientists from various Google AI teams working on machine learning applications and problems. Residents have the opportunity to do everything from conducting fundamental research to contributing to products and services used by billions of people. We also encourage our Residents to publish their work externally. Take a look at the impactful research done by earlier cohorts.
+The AI Residency Program will continue to be based out of the Bay Area (Mountain View and San Francisco), as well as New York City, Cambridge (Massachusetts), Montreal and Toronto, Canada. In 2019, we will see the program expand to Seattle (Washington State), Accra (Ghana), Tel Aviv (Israel) and Zurich (Switzerland). Residents are placed based on interest, project fit, location preference and team needs. All are expected to work on site.
+We encourage candidates from all over the world to apply. You may have research experience in another field (e.g. human-computer interaction, mathematics, physics, bioinformatics, etc.) and want to apply machine learning to this area, or have limited research experience but a strong desire to learn more. Current students will need to graduate from their degree program (BS/MS/PhD) before the residency begins. If a candidate requires work authorization for a location, Google will explore the available options on a case-by-case basis.
+Your application should show evidence of proficiency in programming and in prerequisite courses (e.g., machine learning, user-centered interfaces or applications, data science, mathematical analysis). This can be demonstrated through links to open-source projects, notable performances in competitions, publications and blog posts, or projects that showcase implementation of one or more novel learning algorithms.
+To start the application process, click on the “Apply” button on this page and provide the required materials in the appropriate sections (PDFs preferred):
+1. In the “Resume Section:” attach an updated CV or resume.2. In the “Cover letter/other notes Section:” Copy and paste a cover letter which must include answers to the following questions:
+What are your primary research interests and why do you think they are important?
+How would participating in the AI Residency help you to explore your research interests and achieve your goals?
+Give an example of an open-ended research question or project you’ve worked on. What made it challenging and how did you overcome those challenges? Alternatively, summarize and critique a machine learning paper you have read that you found interesting.**Although cover letters are optional for most job applications at Google (as noted on the website), it is a mandatory component for this application. Complete applications (cover letters included) will be prioritized for review over incomplete applications.
+3. In the “Education Section:” attach a current or recent unofficial or official transcript in English if you have graduated in the last three years.
+Under “Degree Status,” select “Now attending” to upload a transcript.Questions? See our FAQs at g.co/airesidency/faqs
+There is always more information out there, and the Research and Machine Intelligence team has a never-ending quest to find it and make it accessible. We're constantly refining our signature search engine to provide better results, and developing offerings like Google Instant, Google Voice Search and Google Image Search to make it faster and more engaging. We're providing users around the world with great search results every day, but at Google, great just isn't good enough. We're just getting started.
+Responsibilities
+Work with research mentors to formulate research project(s) and/or novel application(s) of machine learning.
+Conduct research and publish it in competitive venues.
+Implement algorithms, experiments and/or human-computer interfaces using frameworks such as TensorFlow.
+Learn and understand a large body of research in machine learning algorithms.
+Qualifications
+Minimum qualifications:BS degree or equivalent practical experience in a STEM field such as Computer Science, Mathematics, or Statistics.
+Completed coursework in statistics, algorithms, calculus, linear algebra, or probability (or their equivalent).
+Experience with one or more general purpose programming languages, including but not limited to: Python or C/C++
+Experience with machine learning; or applications of machine learning to NLP, human-computer interaction, computer vision, speech, computer systems, robotics, algorithms, optimization, on-device learning, social networks, economics, information retrieval, journalism, or health care.
+
+Preferred qualifications:Research experience in machine learning or deep learning (e.g. links to open-source work or link to novel learning algorithms).
+Open-source project experience that demonstrates programming, mathematical, and machine learning abilities and interests.
+At Google, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees or any other company location. Google is not responsible for any fees related to unsolicited resumes."	"5 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=8045ff529f06bf82"	"c(\"Data Scientist\", \"Requirements:\")"	"Thomas Publishing Company LLC"	"6 reviews"	"Thomas is looking for a Data Scientist to help build a world-class data team that will support and guide Thomas’ business strategy and operations. The right candidate will be a problem solver who is obsessive about all things data, and is enthusiastic about working with cutting-edge techniques, technologies and applications.
+
+The Thomas Data Analytics team uses data-driven insights to fuel strategic growth for clients. You will apply your knowledge and skills in driving insights across our product platforms to come up with data powered solutions for our clients. We believe that our data should be put to work to bring the best ideas and stories to our clients!
+
+You’ll solve complex marketing and business challenges – from cross-channel media and customer experience optimization, targeting and business strategy – by accessing, integrating, manipulating, mining, modeling a wide array of data sources.
+
+This is an opportunity to work with a newly assembled team of data analysts, engineers and architects to establish best practices and processes as we transition to a data-focused organization, and will involve working with petabyte-scale data across a diverse set of data platforms. A key goal in the near future is creation of a data lake across our industry platforms to facilitate deeper analysis and bring sophisticated data tools and methods to bear in order to more effectively anticipate industry trends and events.
+Requirements:
+Technical
+Bachelor’s or Master’s Degree preferably in Computer Science, Information Systems, Statistical Analysis or Economics
+Familiarity with statistical analysis/modeling, data science and/or data design and development of actionable advanced analytical solutions that provide insights to decision makers
+Hands-on experience mining data for decision focused insights
+Ability to design complex systems and translate user requirements into business solutions
+Background in predictive modeling and machine learning
+2 years of experience with open source machine learning or statistical analysis tools
+Experienced in at least one programming language (Java, Python, Scala, R)
+Guru level experience with query tools and languages including SQL
+Experience with NoSQL databases and related tools
+Experience with Amazon AWS big data and machine learning technologies a plus (RedShift, Sagemaker, Comprehend etc.)
+Non-technical
+Strong communication skills – oral and written
+Ability to guide and lead a data analytics team of 5 – collaborate with both technical and non-technical colleagues in product management and executive leadership groups
+Ability to gauge the complexity of machine learning problems and a willingness to execute simple approaches for quick effective solutions as appropriate
+Sharing knowledge, debating techniques, and conducting research to advance collective knowledge and skills of our practices
+Demonstrated self-starter who thrives in a fast paced environment"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=221ea7b5608dcacc"	"Data Scientist with Python"	"Kaiser Tech Inc"	"-"	"$50 - $65 an hourContractDuties include:·Develop decision support tools to help solve business problems·Interfacing with internal customers to understand the business and identify opportunities for improvement·Identifying solution techniques and implementing them independently, with external vendors, through academic alliances, or with BNSF Technology Services teams·Interfacing with BNSF Technology Services personnel to understand existing data structures and IT processes·Working with end-users to validate and enhance the tools·Identifying and initiating new projects part of technology initiatives·Communicating status and findings to senior management and key stakeholders·Extracting and cleaning large volumes of data to derive insights that can be used for process improvements.The duties and responsibilities in this posting are representative categories to be used in deciding whether to apply for the position. These general categories do not necessarily constitute an exhaustive list of duties of the position.QUALIFICATIONS:·Ph.D. or Master’s degree in Operations Research, Industrial Engineering, Applied Mathematics, Computer Science or a related field·Ph.D is preferred but Master’s degree with experience will be considered·Strong programing skills in R, Python, Hadoop·Practical experience applying quantitative techniques to solve real-world problems·Excellent written, verbal, and interpersonal communication skills·Ability to identify underlying problems and appropriate techniques for solving them·Ability to manipulate and extract information from very large, complex data setsCandidates must be able to work C2C or 1099Job Type: ContractSalary: $50.00 to $65.00 /hourExperience:Data Science: 7 years (Preferred)Education:Doctorate (Preferred)"	"30 days ago"	"c(\"$50 - $65 an hour\", \"Contract\")"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=7d4403b3248ed396"	"AI Research Scientist"	"Bloomberg"	"665 reviews"	"News and social media move financial markets. Bloomberg is one of the largest producers of news in the world and ingests over 70,000 external news feeds and social media like Twitter each day. This data keeps our clients informed, and our team's insights help make sense of it for our customers.
+Who are we? Bloomberg's Artificial Intelligence (AI) group: researchers and engineers who have a passion for solving complex problems. Our charter: to extract relevant, meaningful, tradable, and actionable information (pricings, earnings, recommendations and major events) from data (news, web, social media, and structured data) in real-time. Since our customers rely on this information to make swift financial decisions, we guarantee precision, accuracy and latency beyond most academic and industry standards.
+
+We aren't just building products. The infrastructure and algorithms we develop are used across the company by data scientists. We publish papers, attend conferences and contribute back to the larger data science community whenever we can (bloomberg.com/company/d4gx/).
+
+Who are you? A research scientist who wants to work in the areas of machine learning, natural language processing, information extraction, reinforcement learning, graphical models, recommender systems and knowledge graphs. You want to join a close-knit group and make a big impact.
+We'll trust you to:Work with researchers in our Engineering AI group on live systems
+Publish research findings in leading academic venues and represent Bloomberg at industry conferences
+Write, test and maintain production-quality code
+Design, experiment and evaluate models
+You'll need to have:A PhD in AI, NLP, ML, Optimization, or equivalent experience in related fields
+5+ years of experience programming in C++, Python or Java
+3+ publications in top-tier conferences or journals (such as ACL, AAAI, SIGIR, KDD, EMNLP, ICML, NIPS or equivalent)
+We'd love to see:A quantitative background (Probability, Statistics, Linear Algebra, etc.)
+Experience with distributed computational frameworks (YARN, Spark, Hadoop)
+
+If this sounds like you, apply! We are hiring for our NYC and London offices.
+
+Check out our blog, TechAtBloomberg.com, to learn more about our publications and projects in data science. We just got back from NAACL! Read about a paper our team presented here: https://www.techatbloomberg.com/blog/bloombergs-advances-natural-language-processing-allow-improved-tagging-tweets-news/
+
+Apply Now
+
+AI Research ScientistNew York, NY
+
+Posted Oct 5, 2017 - Requisition No. 62503
+
+Apply Now
+
+News and social media move financial markets. Bloomberg is one of the largest producers of news in the world and ingests over 70,000 external news feeds and social media like Twitter each day. This data keeps our clients informed, and our team's insights help make sense of it for our customers.
+Who are we? Bloomberg's Artificial Intelligence (AI) group: researchers and engineers who have a passion for solving complex problems. Our charter: to extract relevant, meaningful, tradable, and actionable information (pricings, earnings, recommendations and major events) from data (news, web, social media, and structured data) in real-time. Since our customers rely on this information to make swift financial decisions, we guarantee precision, accuracy and latency beyond most academic and industry standards.
+
+We aren't just building products. The infrastructure and algorithms we develop are used across the company by data scientists. We publish papers, attend conferences and contribute back to the larger data science community whenever we can (bloomberg.com/company/d4gx/).
+
+Who are you? A research scientist who wants to work in the areas of machine learning, natural language processing, information extraction, reinforcement learning, graphical models, recommender systems and knowledge graphs. You want to join a close-knit group and make a big impact.
+We'll trust you to:Work with researchers in our Engineering AI group on live systems
+Publish research findings in leading academic venues and represent Bloomberg at industry conferences
+Write, test and maintain production-quality code
+Design, experiment and evaluate models
+You'll need to have:A PhD in AI, NLP, ML, Optimization, or equivalent experience in related fields
+5+ years of experience programming in C++, Python or Java
+3+ publications in top-tier conferences or journals (such as ACL, AAAI, SIGIR, KDD, EMNLP, ICML, NIPS or equivalent)
+We'd love to see:A quantitative background (Probability, Statistics, Linear Algebra, etc.)
+Experience with distributed computational frameworks (YARN, Spark, Hadoop)
+
+If this sounds like you, apply! We are hiring for our NYC and London offices.
+
+Check out our blog, TechAtBloomberg.com, to learn more about our publications and projects in data science. We just got back from NAACL! Read about a paper our team presented here: https://www.techatbloomberg.com/blog/bloombergs-advances-natural-language-processing-allow-improved-tagging-tweets-news/"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=0f28dc0aafb427e0"	"Data Scientist"	"National Debt Relief"	"99 reviews"	"We are seeking an innovative and passionate Data Scientist to join our growing team to help promote our analytical culture, while leveraging data to maximize marketing performance and deliver a best-in-class experience for the clients we serve.
+The ideal candidate will apply analytical rigor and data driven reasoning to guide the development and execution of marketing strategies and experiential initiatives across the organization. This individual will bring a sense of curiosity to seek out opportunities for improvement through internally and externally sourced data. This person will play a critical role in providing thought leadership, building statistical models to understand consumer behavior and intent, and identifying optimization opportunities across programs.
+This is an opportunity to grow with a diverse team and have a measurable impact on a rapidly growing organization. It is a great fit for an entrepreneurial professional with a strong background in statistical modeling and a passion for translating data into actionable insight. Principle Duties and Responsibilities:Develop and implement advanced statistical models to guide business strategy and deliver incremental growth and value throughout the company.
+Perform analysis of structured and unstructured data to solve complex business problems.
+Use statistical techniques to build marketing segments, evaluate scenarios, predict future outcomes, and optimize performance.
+Lead complex research and analytics projects across teams.
+Research, test, and validate new modeling techniques as appropriate for specific solutions.
+Present and depict recommendations so that stakeholders can make data-informed decisions.
+Qualifications:
+5+ years of experience as a data scientist conducting data mining and building and implementing complex models in a fast-paced, marketing-driven environment.
+Experience working with large internal and external data sets covering new and existing client programs to include direct mail, TV, radio, search engine marketing and email preferred.
+Undergraduate degree in a quantitative discipline (i.e. Statistics, Mathematics, Computer Science or equivalent quantitative discipline), advanced degree is preferred.
+Expert knowledge of SAS, R/Python and SQL or similar industry standard tools use for large-scale data analysis and modeling.
+Experience linking multiple data platforms with data visualization tools is a plus.
+In-depth knowledge and experience in data mining and statistical modeling techniques (regression, decision tree, time series, etc. Knowledge of optimization theory and statistical model application are also preferred.
+Strong analytical and problem-solving skills with the ability to interpret large amounts of data with business insight to support growth.
+Strong consultative acumen with responsibility for analytical project design, management, and presentation of results to internal and external stakeholders.
+Ability to clearly present statistical solutions to non-statistical people, articulating value and insights to the business.
+Strong project management skills with a proven ability to set clear goals and design detailed plan against tight timelines. Evidence of self-motivated initiatives, high productivity, and good team work is desired.
+What We Offer:
+We believe in a team-first culture, full of rewards and recognition for our employees. We are dedicated to our employees’ success and growth within the company, through our employee mentorship and leadership programs.
+Our extensive benefits package includes:
+Medical, Dental, and Vision Benefits
+401(k) Match
+Paid Holidays, Sick Days, and Vacation
+6 Weeks Paid Parental Leave
+Pre-tax Transit Benefits
+Discounted Gym Membership
+No-cost Life Insurance Benefits"	"24 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=aea9fe0330576ef8"	"Data Scientist"	"Fora Financial LLC"	"20 reviews"	"Fora Financial, located in NYC, is a leading financial services company providing working capital to small and mid-size businesses nationwide.
+Established in 2008, we support small businesses in need of financing to sustain or grow their enterprise by providing innovative, customized, and flexible working capital solutions. We operate through a consultative approach, listening to customers and providing what best meets their needs in an ever-changing financial market. To date, Fora Financial has funded over 22,000 individual transactions to more than 15,000 unique customers. The company has funded over $750 million in working capital solutions for small businesses since its inception.
+A Day in the Life of a Data Scientist:
+Build predictive models including but not limited to credit risk. fraud, response, and offer acceptance propensity
+Perform through testing and validation of models and support various aspects of the business with data analytics
+Identify new data sources/patterns that add significant lift to predictive modeling capabilities
+Conduct analysis and turn insights into actionable changes for predictive models or policies
+Develop analytics and advanced visualization to assist with portfolio surveillance. Typical functions are loss forecasting, mix management, risk appetite management, collections strategy, and reporting related to KPIs that affect portfolio surveillance such as non-performance, loss rates and loss severity
+Partner with IT to integrate and productionize new data sources for modeling use
+What You Have:
+B.S. degree or higher in Statistics, Applied Math, Computer Science, Engineering or other quantitative program
+3 years minimum experience with credit risk modeling; 5 years minimum preferred
+Proven track record of building new models and improving existing models
+Deep understanding of consumer credit report variables/attributes at both summary and tradeline level
+Experience with small business lending and portfolio management is a plus
+Passionate about solving problems with data and high level of intellectual curiosity
+Thorough understanding of statistical modeling techniques
+Proficiency in at least one of the following languages: R, SAS, SQL, Python
+Highly motivated to work on multiple projects in parallel and team player with a start up spirit
+Solid written and oral communication skills and ability to share findings with non-technical audienceThe Benefits of Working for Fora Financial:
+A good work/life balance
+Medical, Dental, Vision Coverage
+401K Match
+Life Insurance at No Cost to Employees
+Generous Time Off Plan Including Rollover Vacation Days
+Commuter Benefits
+Health Care and Dependent Care Flexible Spending"	"27 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=ce9a1cbf356bd4dc"	"Data Scientist, Group Benefits and Middle Market P&C"	"The Hartford"	"-"	"Overview of the Position
+The Hartford seeks energetic and passionate Data Scientists to focus on designing, developing and implementing solutions that will make an impact on our business. This role will focus on developing solutions in support of our Middle Market and Group Benefits business. In addition the Data Scientist will participate in a variety of ad hoc projects.
+Our Data Scientists play a significant role by both leading and partnering with the business and data teams for a better understanding of the customer journey across multiple lines of business. As a Data Scientist you will focus on research for deliverables that support the long term plan to evolve the department’s capabilities to further develop and deliver impactful products to drive outcomes for both the business and clients.
+Solutions that are developed will support a wide range of business areas which include underwriting, claims, operations, risk engineering, and digital analytics. As a Data Scientist you will focus on developing analytic and predictive modeling solutions that feature engineering assets, experimental design, as well as modeling techniques and abilities. Our Data Scientist toolbox consists of but not limited to predictive Modeling Techniques, Machine Learning, Cognitive Computing, Unsupervised learning, and Augmented intelligence. As a Data Scientist you will support and explore those assets overtime through customer adoption and establishing a rhythm within the data science community.
+Responsibilities:
+Collaborate and partner with business stakeholders in a way that supports the vision and sustains a culture that treats analytics as a corporate asset.
+Participate in reviewing work with partners on an ongoing basis to calibrate deliverables against expectations
+Help identify long term opportunities within the customer journey through the creation of algorithms and machine learning techniques to achieve financial objectives and solve problems.
+Participate in the creation and deployment of long term tools to continually evolve the business.
+Assist in identifying and assessing the value of new data sources and analytical techniques to ensure ongoing competitive advantage
+Contribute to the successful implementation of strategies to achieve targeted business objectives.
+Accountable for short term ownership and evolution of models developed
+Support the processes used to develop and enhance our business needs
+Support a high-performance collaborative culture
+Develop knowledge of The Hartford's formal and informal structures, business processes, and data sources in your area of expertise
+Remain current on research techniques and become familiar with state of the art tools applicable to your function
+Present complex modeling to Senior Data Scientists that maximizes the bottom-line impact of modeling results
+Provide economic, qualitative, and statistical support to ensure accuracy of characteristics and metrics being applied to business decisions.
+Assist in estimating the economic impact of operational decisions
+Promote analytics opportunities of the company with customers and business partners.
+As requested, provide timely feedback and opportunities for your colleagues.
+Suggest and participate in training opportunities for research staff and others in the organization
+Qualifications
+Experience & Skills
+Master’s or Ph.D. in Statistics, Applied Mathematics, Actuarial Science, Quantitative Economics or other similar analytical field
+2+ years of relevant experience in Research Function in Insurance or Financial Services or related field.
+Experience in large scale operations environments (Claim Centers, Call Centers, Manufacturing) a plus.
+Technical/Functional Skills
+Experience modeling data and analytical capability.
+Advanced coding skills in various languages e.g. R, Python etc.
+Developed verbal/written communication skills.
+Ability to translate complex technical topics into business solutions and strategies, including visualization.
+Exposure to executing change to core business processes through the innovative use of quantitative techniques.
+Competencies
+Drive and commitment to what is necessary to get the job done efficiently, thoroughly, and professionally.
+Innovative. Seeks new and creative ways to approach analytical exercises and development projects.
+Results-oriented. Demonstrates a sense of urgency and accountability for business issues.
+Customer focused. Builds effective relationships within the data science community
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age
+** NO AGENCIES PLEASE **Job Function
+: Data Science
+Primary Location
+: United States-New York
+Other Locations
+: United States-Connecticut-Hartford
+Schedule
+: Full-time
+Job Level
+: Individual Contributor
+Education Level
+: Master's Degree (±18 years)
+Job Type
+: Standard
+Shift
+: Day Job
+Employee Status
+: Regular
+Overtime Status
+: Exempt
+Travel
+: No
+Job Posting
+: Oct 8, 2018, 7:37:49 PM
+Remote Worker Option : No"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60
+"https://www.indeed.com/viewjob?jk=3f1d872cbc2ffbf0"	"Data Services Software Engineer - Data & Analytics Platform Team"	"Bloomberg"	"665 reviews"	"Engineering Data Services group is responsible for core data and analytics services that are used across Bloomberg's application teams. Our service stack currently runs on over 900 machines and serves over 120 billion requests a day. With ever increasing data volumes and growth of Bloomberg's Enterprise products this footprint has been growing at a rapid pace year over year. Our team also provides multiple foundational services such as meta data and id master for Bloomberg Query Language (BQL), the next generation analytics and screening engine for financial datasets.
+
+We are building out a suite of tools that help developers support and optimize implementation of Bloomberg reference data and analytics. One such tool, the reference data integrity, is required to verify 50 billion unique data points daily to detect anomalies. This immense scale requires the use of Hadoop and Spark analytics framework. We are developing a set of brand new services for metadata, security & entity relationships and entitlement. Due to the large volume and explosive growth of underlying data we are looking to leverage Hadoop based storage for these services. We are also building new tools to manage our server farm more efficiently and leverage analytics to ensure high availability, efficient load balancing and fair scheduling.
+
+We are looking for strong C++/Java software engineers who can design and develop low latency, high performance distributed systems. If you have strong programming skills, the ability to work collaboratively and a proven track record of delivering quality engineering solutions to real world problems, you'll fit right in.
+
+Our team is comprised of a small group of technologists passionate about data and pushing the boundaries of technology to deliver innovative solutions. We expect you to be proactive, able to work independently and take ownership in driving the vision and execution of the product.
+We'll trust you to:Design, implement and own critical applications and components of our services stack
+Participate in the full SDLC (Software Development Life Cycle) of various components and systems that are required to be highly efficient, robust and scalable
+Enhance our infrastructure to fulfill mission critical SLAs, whether low latency or high throughput data retrieval
+Get to know development teams across Bloomberg, understand their application requirements and data access patterns
+You need to have:3+ years of C++ or Java on UNIX/Linux environment
+Solid understanding of algorithms and data structures, knowledge of object-oriented design and multi-threading
+Excellent problem solving and communication skills, and ability to thrive in a highly collaborative and dynamic work environment
+Experience with high volume, high availability distributed systems
+Experience working in a test-driven development and agile environment
+BA, BS, MS, PhD in Computer Science, Engineering or related technology field
+We'd love to see:Knowledge of low-level Linux, UNIX networking and C system calls for high performance computing and debugging
+Experience with systems level Java or Scala
+Experience with Hadoop and/or using a distributed analytics infrastructure like Apache Spark
+
+Explore the diversity of experiences, backgrounds and perspectives on our team that made it possible to create our deep learning-based platform:
+
+https://www.techatbloomberg.com/blog/female-engineers-data-scientists-drive-innovation-bloomberg-title-change/
+
+If this sounds like you, apply and we'll get in touch to arrange a technical phone interview if we think you're a match.
+
+Apply Now
+
+Data Services Software Engineer - Data & Analytics Platform TeamNew York, NY
+
+Posted Sep 18, 2018 - Requisition No. 67233
+
+Apply Now
+
+Engineering Data Services group is responsible for core data and analytics services that are used across Bloomberg's application teams. Our service stack currently runs on over 900 machines and serves over 120 billion requests a day. With ever increasing data volumes and growth of Bloomberg's Enterprise products this footprint has been growing at a rapid pace year over year. Our team also provides multiple foundational services such as meta data and id master for Bloomberg Query Language (BQL), the next generation analytics and screening engine for financial datasets.
+
+We are building out a suite of tools that help developers support and optimize implementation of Bloomberg reference data and analytics. One such tool, the reference data integrity, is required to verify 50 billion unique data points daily to detect anomalies. This immense scale requires the use of Hadoop and Spark analytics framework. We are developing a set of brand new services for metadata, security & entity relationships and entitlement. Due to the large volume and explosive growth of underlying data we are looking to leverage Hadoop based storage for these services. We are also building new tools to manage our server farm more efficiently and leverage analytics to ensure high availability, efficient load balancing and fair scheduling.
+
+We are looking for strong C++/Java software engineers who can design and develop low latency, high performance distributed systems. If you have strong programming skills, the ability to work collaboratively and a proven track record of delivering quality engineering solutions to real world problems, you'll fit right in.
+
+Our team is comprised of a small group of technologists passionate about data and pushing the boundaries of technology to deliver innovative solutions. We expect you to be proactive, able to work independently and take ownership in driving the vision and execution of the product.
+We'll trust you to:Design, implement and own critical applications and components of our services stack
+Participate in the full SDLC (Software Development Life Cycle) of various components and systems that are required to be highly efficient, robust and scalable
+Enhance our infrastructure to fulfill mission critical SLAs, whether low latency or high throughput data retrieval
+Get to know development teams across Bloomberg, understand their application requirements and data access patterns
+You need to have:3+ years of C++ or Java on UNIX/Linux environment
+Solid understanding of algorithms and data structures, knowledge of object-oriented design and multi-threading
+Excellent problem solving and communication skills, and ability to thrive in a highly collaborative and dynamic work environment
+Experience with high volume, high availability distributed systems
+Experience working in a test-driven development and agile environment
+BA, BS, MS, PhD in Computer Science, Engineering or related technology field
+We'd love to see:Knowledge of low-level Linux, UNIX networking and C system calls for high performance computing and debugging
+Experience with systems level Java or Scala
+Experience with Hadoop and/or using a distributed analytics infrastructure like Apache Spark
+
+Explore the diversity of experiences, backgrounds and perspectives on our team that made it possible to create our deep learning-based platform:
+
+https://www.techatbloomberg.com/blog/female-engineers-data-scientists-drive-innovation-bloomberg-title-change/
+
+If this sounds like you, apply and we'll get in touch to arrange a technical phone interview if we think you're a match."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	60

@@ -1,0 +1,312 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=NA"	"NA"	"NA"	"NA"	"NA"	"NA"	"NA"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=30db1c21b2866bba"	"Data Scientist"	"1-800 Radiator & A/C"	"4 reviews"	"Employer Description: 1-800 Radiator & A/C is seeking a professional and motivated individual with analytical and business intelligence capabilities to join our Analytics team as a Data Scientist. This is a full-time position with comprehensive benefits based at our Corporate Headquarters in Benicia, CA.Job Description: This is a key position within a rapidly growing enterprise. High performers in this role have an opportunity to quickly assume additional responsibilities, develop their knowledge and understanding of our business model, and have preferred access to promotional opportunities! The position is based at our corporate headquarters in Benicia, CA, less than one hour from 3 major airports and the Napa/Sonoma region of Northern California.Responsibilities: Work with stakeholders throughout the organization (Operations/Supply Chain, Sales/Marketing, Finance, etc.) to identify opportunities for leveraging company data to drive business solutionsDevelop scalable statistical, machine learning or mathematical solutions for complex business problems such as Pricing, Inventory Reordering, and Demand ForecastingPerform analytical studies and generate actionable recommendations. Use statistical techniques and hypothesis testing to validate your findingsIdeal Candidate: 2-5 years of experience in leveraging data for business impactA deep understanding of statistical analysis (e.g. hypothesis testing, experimentation, regressions) and machine learning algorithms (supervised and unsupervised models)Demonstrated programming experience with at least one analytic tool (R, Python, Scala, etc.).Ability to write and optimize complex SQL queries.Experience in building and deploying cloud-based data pipelines and applications (GCP, AWS) is a plusAbility to communicate clearly and effectively to cross-functional partners of varying technical levelsAbility to work independently and proactively as well as collaborating in a teamA good sense of humor is always a big plus!Job Type: Full-timeExperience:Scala: 1 year (Preferred)AWS: 1 year (Preferred)Python: 1 year (Preferred)SQL: 1 year (Preferred)R: 1 year (Preferred)Location:Benicia, CA (Required)"	"12 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=777e8861ec85b673"	"character(0)"	NA	NA	"character(0)"	"character(0)"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=2f76ed653d68c233"	"Hiring Senior Data Scientist @ San Francisco"	"Factspan Inc"	"-"	"Job SummaryResponsibilities: Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advancedanalytical methods as needed. Conduct end-to-end analysis that includes data gathering from variousdata storage platforms and requirements specification, processing, analysis, ongoing deliverables, andpresentations. Hands on expertise in Machine Learning models using R/Python, SQL, well versed in statisticalmethodology including deep expertise and experience with statistical data analysis Build and prototype analysis pipelines iteratively to provide insights at scale. Develop complex research projects. This includes determining appropriate methodologies and approach,coordinating the work of others, complex data analysis, preparing presentations and properlydocumenting the project work. Leading large-scale projects from start to finish and deriving insights not just analysis for what thecompany should do. Create cutting edge analytical solutions for clients.Responsibilities and DutiesSkills: 8+ years of experience Bachelor’s/Master’s Degree in Engineering, Statistics, Mathematics. Excellent hands-on working knowledge in R, Python, advanced predictive modelling, SQL.Required Experience, Skills and QualificationsBehavioural Attributes: Analytical thinking Excellent Verbal/Written communication Excellent Interpersonal & Presentation skills Willingness to go beyond the textbook while applying statistics in a business situation which typicallyentails less than ideal data quality/quantityJob Type: Full-timeEducation:Bachelor's (Preferred)"	"16 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=4503a4ad2f1a6634"	"c(\"Data Scientist\", \"Responsibilities\", \"Requirements\")"	"Castle Global"	"-"	"About Hive
+Hive is a full-stack deep learning platform helping to bring companies into the AI era. We take complex visual challenges and build custom machine learning models to solve them. For AI to work, companies need large volumes of high quality training data. We generate this data through Hive Data, our proprietary data labeling platform with over 500,000 globally distributed workers, generating millions of high quality pieces of data per day. We then use this training data to build machine learning models for verticals such as Media, Autonomous Driving, Security, and Retail. Today, we work with some of the largest companies in the world to redefine how they think about unstructured visual data. Together, we build solutions that incorporate AI into their businesses to completely transform industries.
+We are fortunate that investors like Peter Thiel (Founders Fund), General Catalyst, 8VC, and others see Hive’s potential to be groundbreaking in AI business solutions. We have over 100 rock stars globally in our San Francisco and Delhi offices. Please reach out if you are interested in joining the AI revolution!
+Data Scientist Role
+In order to execute our vision, we are looking to expand our team of data scientists. We generate an enormous amount of valuable proprietary data in a number of verticals, and we are building a team dedicated to deriving insights from this data. This team will bridge the gap between the \"tagged\" data that our machine learning team builds and the product team in delivering business insights. Our ideal candidate has experience working with massive data sets (think 10B+ rows of data) and is comfortable with both statistics and engineering.
+Responsibilities
+Everything involved in analyzing a production data set, including:
+Writing code to transform massive raw data output into a structured, usable form
+Leveraging more traditional machine learning techniques to uncover hidden relationships in our data sets
+Conducting statistical analysis of results to prove / disprove hypotheses, and
+Write up reports that our other team members can use to deliver in a product
+Interface closely with the Product, Business Development, and Sales teams to answer questions about our data sets that our customers and partners are seeking solutions for
+Requirements
+You have an undergraduate or graduate degree in computer science or similar technical field, with significant coursework in mathematics or statistics
+You have 1-2 years of industry data science experience
+You have successfully worked with complex data sets and are familiar with Hadoop / Spark
+You know the ins and outs of Python, especially as it applies to the above data processing frameworks
+You are capable of quickly coding and prototyping data pipelines involving any combination of Python, Node, bash, and linux command-line tools, especially when applied to large data sets consisting of millions of files
+You have a working knowledge of the following technologies, or are not afraid of picking them up on the fly: C++, Scala / Spark, R, Matlab, SQL, Cassandra, Docker
+You are comfortable with running and interpreting common statistical tests, and also with common data science techniques including dimensionality reduction and supervised and unsupervised learning
+You have great communication skills and ability to work with others
+You are a strong team player, with a do-whatever-it-takes attitude
+What We Offer You
+We are a group of young and ambitious individuals passionate about creating a revolutionary machine learning company. At Hive, you will have a significant career development opportunity and a chance to contribute to one of the fastest growing AI startups in San Francisco. The work you will do here will have a noticeable and direct impact on the development of Hive.
+Our benefits include competitive pay, equity, health / vision / dental insurance, catered lunch and dinner, and a corporate gym membership.
+Thank you for your interest in Hive."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=033d38ae8ead33ee"	"Data Scientist- AI/ML"	"Etsy"	"32 reviews"	"We are hiring at all levels (Jr. Sr. Staff).
+Etsy is looking for a Data Scientist to join our Data Science team and to have the opportunity to make core algorithmic advances and apply their ideas in the dynamic world of E-commerce in strengthening Etsy’s global marketplace.
+Etsy is committed to advancing the fields related to E-commerce related fields by building technologies that help Etsy buyers and sellers discover and celebrate handmade goods from all over the world. We are seeking individuals passionate in areas such as Machine Learning, Data Mining, Recommender Systems, Information Retrieval, Natural Language Processing, Computational Advertising, Deep Learning and Computer Vision. Etsy's Data scientists can publish their innovations at top tier conferences such as KDD, NIPS, ICML, ICLR, CVPR, ICCV, WWW, WSDM, SIGIR and etc.
+We are motivated by curiosity and humility. We are dedicated to learning and constantly improving in a blameless environment and have a natural drive to figure out how everything works. We believe in keeping it real. Etsy’s mission and values are a part of everything we do. We care about how our work affects real people in the community and enjoy opportunities to meet them. We are motivated by this mission every day.
+This is a full-time role located in San Francisco.
+About the Role
+Recommendation and Personalization
+Natural Language Processing and Query Understanding
+Deep Learning
+Image Processing and Understanding
+Text Understanding
+Learning to Ranking for Search and Ads
+Fraud and Abuse Detection
+Large-scale Machine Learning
+About You
+You share our values (below) and are looking for a company that has a solid mission.
+You have strong analytical and quantitative skills.
+You are familiar with techniques in Machine Learning, Data Mining, Recommender Systems, Information Retrieval, Natural Language Processing, Computational Advertising, Deep Learning and Computer Vision or related fields.
+You have a Ph.D. degree in Machine Learning, Data Mining, Recommender Systems, Information Retrieval, Natural Language Processing, Computational Advertising, Deep Learning and Computer Vision or related fields.
+You have strong technical and programming skills.
+You are familiar with relevant technologies and languages (e.g. Python, Java, C++ and etc.).
+You have experience in or desire to learn Hadoop/Spark related Big Data technologies.
+You have demonstrated the capability to review and write technical papers.
+You can contribute to research that can be applied to Etsy products.
+You have the ability to quickly prototype ideas and solve complex problems by adapting creative approaches.
+You are a strong collaborator and communicator and you make the engineers around you grow and learn.What’s Next
+Interested in working with us? Send us a cover letter and your resume explaining why you’d be great for the job. We value your unique talents and point of view, so feel free to tell us what you are all about. And if you write, draw, craft, or contribute to something you’re proud of, we’d love to hear about it.
+At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We welcome people from all backgrounds, ethnicities, cultures, and experiences. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status."	"25 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=0b481bd3c1915d27"	"Data Scientist / Data Engineer"	"Thunder"	"7 reviews"	"Data Scientist / Data Engineer (San Francisco, CA)
+Location: San Francisco, California, United States
+Full-time
+The New York Times describes Thunder as \"an ad engine to put Mad Men out of business.\" We're changing how digital ads are created and distributed by automating much of what people thought couldn't be done by computer. Our technology retrieves all relevant content about an advertiser across the web to intelligently design a beautiful set of ads for desktop, tablet, and mobile devices all in under a minute.
+THE JOB
+
+Thunder is looking for a talented Data Scientist with a track record working with Big Data and Distributed Systems to manage a cutting-edge infrastructure used by the world’s largest digital advertisers. We’re using Big Data in groundbreaking ways to uncover customer insights, personalize customer experiences and fix digital advertising. You will contribute as a key member of the Product Engineering team where you will be driving product and engineering innovation to better leverage Thunder's growing personal graph. We are looking for a self-starter who thrives with ambiguity and loves solving challenging problems.
+RESPONSIBILITIES
+Design and develop Big Data and real-time analytics solutions using industry standard technologies
+Collaborate with internal business and product teams to identify product features that can be powered by advanced data analytics
+Use various machine learning and statistical techniques to analyze data, build models and identify requirements for operationalizing those models into production services
+Work with external customers on challenging data analysis problemsQUALIFICATIONS
+
+Ideal candidates will have hands-on, operational experience building and operating large-scale data analytics services and thrive working in a fast-paced startup environment.
+5 -7 years of hands-on experience with using advanced statistics techniques and machine learning to build operational production services
+Strong understanding of machine learning, recommendation systems, predictive analytics, and multivariate analysis
+Strong computer science fundamentals including data structures, algorithms, distributed systems and common design patterns
+Strong database and data engineering experience with hands-on experience building services that leverage a variety of database systems including SQL, Redshift Spectrum, Druid, Hadoop, Hive, HBase, Spark, Kafka, AWS Kinesis, MongoDB
+B.S. or M.S. in Computer Science, Computer Engineering, Mathematics, Statistics, Applied Mathematics or related experience"	"3 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=93d5a3afcbef6e9b"	"c(\"Data Scientist (Big Data Analytics)\", \"Job role:\", \"What you get:\", \"How to apply:\", \"Locations\n\")"	"Ahrefs"	"-"	"Ahrefs.com is one of the leading brands in the industry of tools for Search Engine Optimization. We run an internet-scale bot that crawls the whole Web 24/7, storing huge volumes of information to be indexed and structured in a timely fashion. On top of that we're building various analytical services for our customers to play with all this data.
+Job role:
+We're looking for someone, who is proficient in working with large amounts of data to extract all kinds of insights and regularities from it.
+We're also building our own models of calculating the \"power\" of a web page and its likelihood of ranking high in search results.
+Requirements:
+good knowledge in a wide variety of advanced data analysis and machine learning techniques, and experience in developing solutions in response to real-world business problems;
+proficient with programming languages such as Python and R;
+good knowledge with NLP, and experience with open source NLP library such as Gensim;
+experience in Tensorflow, Theano, or other deep learning frameworks preferred;
+experience with Elasticsearch or similar DB, and ability to conduct independent research utilising large unstructured data sets;
+visualisation using open source tools.
+What you get:
+Competitive salary
+Informal and thriving atmosphere
+First-class workplace equipment (hardware, tools)
+Medical insurance
+Modern office in CBD (with amazing view)
+No dress code
+How to apply:
+Please send your applications to dmitry@ahrefs.com (cc to tim@ahrefs.com)
+The subject of the email should be \"Data Science\"
+Please tell briefly about yourself and your past work experience.
+Please specify which of our requirements you meet perfectly and which ones you're not very familiar with.
+Locations
+Remote
+Singapore, modern office in CBD
+USA, San Francisco downtown"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=d793b4ee5c9caa88"	"Data Scientist"	"Farmer's Business Network, Inc."	"-"	"THE COMPANY
+
+What do you get when you cross the best of Silicon Valley innovation with the agriculture economy? Farmer's Business Network, Inc.!
+
+We are proudly Farmers First℠. Created by farmers, for farmers, Farmers Business Network℠ (FBN℠) is an independent and unbiased farmer-to-farmer network of thousands of American farms. By enabling thousands of farmers to work together, anonymously and securely to democratize information, the FBN network is helping farmers level the playing field and put power back in farmers' hands.
+
+Farmers Business Network counts top VCs including Google Ventures, Kleiner Perkins, DBL Partners, and Acre Venture Partners, T Rowe Price and Temasek among its investors. We are a dynamic, and innovative company in AgTech that offers competitive compensation and benefits.
+
+THE ROLE
+
+How can we sustainably feed the world? With the population set to reach nine billion by 2050 and available farmland decreasing, the odds are stacked against us. This problem falls squarely on the shoulders of farmers, who are increasingly working harder for less. FBN helps farmers to solve these problems.
+
+Farmers are often forced to make key decisions in the face of significant uncertainty about their impact. FBN applies technology and data science to this challenge. We're building the world's largest agronomic dataset - made up of billions of datapoints, gathered from sophisticated sensors on farm equipment. The network effect of farmers sharing their data allows us to deliver unprecedented analyses that help farmers make data-driven decisions - we're not just building new technology, we're also making new agricultural scientific discoveries.
+
+We're looking for data scientists who are enthusiastic about applying big data to help farmers!
+
+Data science underlies every product that we build at FBN, so you'll see your work directly translate into new products for our farmers. The data science team at FBN:
+Explores one of the world's most unique, interesting, and diverse datasets.
+Furthers scientific understanding about what affects agricultural production.
+Uncovers insights that help farmers efficiently support a growing population.
+Makes meaningful improvements in the world by translating data science into products that help farmers increase yield and efficiency.
+
+Required Skills
+Deep understanding of statistical modeling concepts.
+Familiarity with machine learning algorithms.
+Excellent programming skills (R or Python preferred).
+Preferred: understanding of agricultural systems (soil chemistry, plant physiology, entomology, etc…).
+
+Required Experience
+MS or greater in statistics or related discipline, OR MS or greater in agronomy or related discipline with strong data analysis skills.
+
+Farmer's Business Network, Inc. is an equal opportunity employer and participates in U.S. Citizenship and Immigration's E-Verify program."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=07dc040c32e717b6"	"Senior Data Scientist"	"Instacart"	"563 reviews"	"Instacart is building the best way for people anywhere in the world to shop for groceries. Since Instacart started in 2012, we've launched same-day delivery in 200 US markets. We are laser focused on delivering groceries from your favorite stores right to your door. We now cover over 60% of US households and aim to have 80% coverage by the end 2018—that's 90 million households! From a technology point of view, the platform is complex, rapidly scaling and processing millions of transactions in real-time all of the time. Our technology coupled with operational expertise enables Instacart to deliver fresh groceries in as little as an hour. This is a difficult problem to master and we are making it happen. Every day, we solve incredibly hard problems to create an experience for our customers that is absolutely magical.
+
+You will be joining our growing data science team and you will have a chance to make a large impact at Instacart. You will be embedded within our data driven product team to identify key metrics, conduct deep and rigorous analysis, and deliver insights to the team to drive product improvement. You will be a trusted partner in the team tackling the toughest and most impactful analytical problems while making the data accessible to your teammates. More details on what you'll be doing:
+
+Responsibilities
+Conduct quantitative research and analysis of Instacart's data requiring complex data retrieval that results in actionable insights and recommendations
+Identify key questions, problems, and KPIs to improve the experience of our customers using your sharp business acumen and judgment
+Help develop effective and scalable data models in our production environment and develop, build, and maintain a user friendly version our production data in our data warehouse
+Work daily with product managers and engineers to discover and guide the most impactful product investments
+Design and analyze rigorous A/B experiments
+Provide access to data through dashboards and other analytical tools to empower your team through self service. Look for opportunity to automate insights through alerting and anomaly detection
+
+Requirements
+Passion for, and a track record of leveraging data for business impact, preferably in a consumer facing digital environment
+Ability to write complex and performant queries in your dialect of SQL to extract data from our Redshift cluster
+Experience building tools and automated processes to extract, clean, and distill data in a procedural language of your choice such as Python, Julia or R
+Understanding of A/B testing and other forms of statistical analysis using statistical packages similar to R, SAS, or Pandas
+Experience with analytical visualization tools such as Tableau, Looker, D3.js or similar tools
+Excellent communication skills with the ability to distill complex problems into meaningful and digestible insights
+
+Desirable
+Data modeling, ETL and data pipeline development experience
+Advanced degree in statistics or other quantitative field
+
+In your application, please describe the most impactful research project you have been a part of. Describe the problem, outcome/impact and your role in the project.
+
+Benefits
+Talented and collaborative coworkers who will both push and support you
+Personal growth plans that let you stretch yourself or grow in new directions
+Market competitive salary, equity
+Medical, dental, vision benefits and 401(k) retirement plan
+Great office in downtown SF
+Take what you need vacation ( and we really mean it )
+16 weeks maternity leave / 8 weeks paternity leave so you can truly bond with your child
+
+Resources
+Team Culture ( https://twitter.com/lifeatinstacart )
+"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=941ae4df0b36bd55"	"Data Scientist"	"JUUL Labs"	"2 reviews"	"THE COMPANY:
+JUUL's mission is to improve the lives of the world's one billion adult smokers by driving innovation to eliminate cigarettes. JUUL is the number one US-based vapor product. Headquartered in San Francisco and backed by leading technology investors including Tiger Global, Fidelity Investments and Tao Invest LLC, JUUL Labs is disrupting one of the world's largest and oldest industries.
+
+We're an exceptional team with backgrounds in technology, healthcare, CPG and biotech, and we're growing rapidly to deliver on our mission. We're actively looking to hire the world's best scientists, engineers, designers, product managers, supply chain experts, customer service and business professionals.
+ROLE AND RESPONSIBILITIES:
+Data Science at JUUL means working with varied, messy data sets and applying analytical methods to help inform and drive business and product decisions. We are looking for output-focussed problem solvers with a strong conceptual mindset and superb communication skills.
+
+The team sees itself as analytics generalists - we choose the right technique for each problem, pride ourselves on building beautiful systems and dashboards while moving fast, and are ultimately driven by the value and insight data science can generate for the business and our customers.
+
+Examples of projects we work on include
+Modeling the dynamics of the fast moving market that we operate in and understanding our impact on it
+Bringing visibility into our complex sales, logistics and supply chain operations through dashboards and standardized metrics
+Explaining and predicting online and offline consumer choices and consumption patterns
+Building demand forecasting models and understanding their behavior
+Creating clean analytical data models and tools to help empower business and operational teams
+
+This role offers tremendous upwards exposure towards senior business leaders and the chance to truly impact the decision making in a rapidly growing startup.
+QUALIFICATIONS:Bachelor's degree from a top university or equivalent, ideally in Mathematics, Economics, Physics, Computer Science or a similar discipline
+Excellent Python and SQL skills
+Experience with data visualization, dashboarding and analytical report building
+World-class ability to extract and communicate insights from real-world datasets
+4+ years applicable experience or a relevant advanced degree
+Experience with Pandas, GCP/BigQuery, Tableau and Mode is valuable but not required
+YOU WILL ENJOY THE ROLE IF:You get excited about taking ownership of problems and solving them in a fast-paced and scrappy environment working cross-functionally with both technical and non-technical people
+You are output focussed and see data science as a powerful tool to get things done rather than as an end in itself
+You are a strong critical thinker with a passion for understanding complex issues and are comfortable working on ambiguous problems
+JUUL LABS PERKS & BENEFITS:A place to grow your career. We'll help you set big goals - and exceed them
+People. Work with talented, committed and supportive teammates
+Equity and performance bonuses. Every employee is a stakeholder in our success
+Boundless snacks and drinks
+Cell phone subsidy, commuter benefits and discounts on JUUL products
+Excellent medical, dental and vision benefits
+Location. Work in the heart of San Francisco, one of the world's greatest cities
+
+Vapor, JUUL, Work Culture, Fast Paced, Start-up, Growth, Vape, Technology, Software, Hardware, Consumer Electronics, Manufacturing, Design, Product, Disruptive, Revolutionary, Cutting Edge, App, Android, eCommerce, B2C, San Francisco, Bay Area, IoT, San Jose, Los Angeles
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"	"25 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=e243ef110b33bc02"	"Image Reconstruction"	"openwater (openwater.cc)"	"-"	"Job Summary:Openwater is creating a next-generation imaging technology that can enable us to see inside our bodies in great detail. With this advancement comes the promise of new abilities to diagnose and treat disease as well as the possibility for breakthroughs in BCI, such as communication by thought alone.We are seeking a self-motivated, enthusiastic and experienced scientist or engineer with a proven record and excellent communication skills to help realize this vision. In this role you will work with teams across functional groups on the acquisition, processing, and analysis of imaging data, developing state-of-the-art 2D and 3D reconstruction techniques and helping to evaluate, test and design scanning methods and systems.Responsibilities and Duties:Apply mathematical (geometry, linear algebra, statistics, numerical methods, error analysis), machine learning, data mining, computer vision, and pattern recognition methods to prototype and develop algorithms for converting raw sensor data into 2D and 3D representations and visualizations, and perform tracking, registration, classification and semantic annotation.Develop and maintain comprehensive clinical and technical biomedical instrumentation documentation.Participate in defining product requirements, quality metrics, schedule, assignments, etc.Optimize code for running on embedded and non-embedded platforms.Qualifications and Skills:Ph.D. or M.S./M.E. in Computer Science, EE, Physics, or related discipline is required. Ph.D. preferred.5+ years of experience in the following:Proven experience implementing algorithms for computer tomography.Image reconstruction from projection of objects.3D Image representation and visualization. Conversion of CT scans into animations.Solid experience developing and debugging image processing algorithms in a variety of languages, e.g. Matlab, Python and C++ or equivalent.Experience using software for CT visualization.Experience with existing computer vision libraries.5+ years of experience in at least 3 of the following:Video and image processing. Image enhancement in the spatial and digital domain: smoothing and sharpening filters, linear and nonlinear pixel transformations, histogram equalization.Image restoration in the presence of noise.Multiresolution and image compression.Image segmentation, detection and pattern recognition.Desired:Knowledge of medical data privacy laws and regulations.Experience in developing algorithms for embedded platforms.Familiarity with AI and deep learning methods.Familiarity with big data methods a plus.US Work authorization required.Job Type: Full-timeExperience:image reconstruction and visualization: 5 years (Preferred)Education:Master's (Required)"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=75659356a039c994"	"Senior Data Scientist, Recommendation Technology"	"OpenTable"	"34 reviews"	"Senior Data Scientist, Recommendation Technology (OpenTable, Inc., San Francisco, CA)
+Develop personalized Recommendation Technology to power user discovery and exploration of restaurants (including idea-generation, problem formulation, design, implementation, iteration, testing, deployment and continued improvement). Proactively perform data exploration to understand diner behavior and restaurant characteristics and identify opportunities for improving Recommendation Technology. Extract insights from data points to improve the user experience. Build sophisticated supervised and unsupervised Machine Learning and statistical models for data analysis, classification and regression. Integrate data ingestion, extraction, and transformation into formats for modeling and analysis. Optimize the performance of Recommendation Technology prototypes for deployment in real-time systems. A/B test recommender systems to demonstrate direct, measurable impact to user engagement, conversion, reservation frequency, and new user growth. Design, analyze and interpret experiment results. Use excellent oral and written communication skills to interact with colleagues across all levels of the organization, motivating and reporting on all aspects of Recommendation Technology with appropriate level of abstraction, and to partner with management in assisting with decision making and information interpretation.
+MINIMUM REQUIREMENTS: Master’s degrees or U.S. equivalent in Artificial Intelligence, Machine Learning, Computer Science, Applied Statistics, Applied Mathematics, Electrical Engineering, or a related field plus 3 years of professional experience in designing, developing, testing, deploying, maintaining and improving large-scale Machine Learning systems. Must also have the following: 1 year of professional experience in building and evaluating Machine Learning and statistical models (including Boosting or Ensemble methods, and Regression, Linear Models, Support Vector Machines, Matrix Factorization, Factorization Machines, Hidden Markov Models, Graphical Models, Mixture Models, Markov Decision Processes, Clustering Techniques, Time Series, Deep Learning/Neural Networks, and Bayesian Optimization); 1 year of professional experience in designing, prototyping, implementing, testing, deploying, and maintaining high-volume, production-level recommendation systems; 1 year of professional experience in implementing and deploying data ingestion, data transformation, data mining, and data cleansing systems; 1 year of professional experience in designing A/B test frameworks and A/B test experiments; 1 year of professional experience in implementing data introspection and monitoring/alerting tools in the context of Recommendation Technology; 1 year of professional experience in building robust, real-time software systems in distributed environments; 1 year of professional experience in developing software using Java, Scala, Python, C++, SQL, and Unix scripting; 1 year of professional experience in presenting complex scientific topics.
+CONTACT: Please submit resume online at:https://www.opentable.com/careers/technology/?p=job%2FooO87fwb. Please specify ad code XAKP. EOE. MFDV."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=c9bdb952f06e70a5"	"Data Scientist, Product analytics"	"eBay Inc."	"1,505 reviews"	"$96,000 - $141,000 a year (Indeed Est.) Position: Data Scientist, Product Analytics
+Organization: StubHub, www.stubhub.com (an eBay company NASDAQ: EBAY)
+The Opportunity
+We are looking for an experienced Data scientist with exceptional product sense to help champion the use of data in product decision-making. In this role you will work closely with our Engineering, Product, Ops, and Design teams to evaluate product opportunities, track product metrics, develop and analyze experiments, and drive deep-dive studies to identify new opportunities.
+You will:
+Apply data & analytical skills to help understand how our customers use our products
+Partner closely with product leadership to define, measure and report on core product and feature metrics
+Design customer-facing experiments (A/B tests) and distill their results into actionable outcomes
+Execute cohort studies and drive analyses to understand customer behavior and identify opportunities for improving our product(s)
+Collaborate with data and business intelligence teams to develop reports and visualization dashboards
+Build financial models to project key business metrics - Traffic, conversion, Engagement - and develop KPIs to measure initiative performanceYou have:
+Strong quantitative background with Product analytics experience. Proven track record in solving business problems through fact based and scientific analytics
+Excellent technical skills - including the ability to query databases (SQL, Hive etc.), leveraging R/Python to analyze complex data, and using Tableau (or other visualization tools) to deliver insights at scale
+Deep understanding of statistics, experimental design, and causal inference
+The ability to translate analytical insights into clear recommendations and effectively deliver it to technical and non-technical stakeholders
+Worked in cross-functional and cross-cultural teams, and are able to communicate technically intricate concepts/results in business terms
+Passion for technology and consumer productsWhy StubHub?
+StubHub is the world's largest ticket marketplace, enabling fans to buy and sell tickets to tens of thousands of sports, concert, theater and other live entertainment events. StubHub reinvented the ticket resale market in 2000 and continues to lead it through innovation. The company's unique online marketplace, dedicated solely to tickets, provides all fans the choice to buy or sell their tickets in a safe, convenient and highly reliable environment. All transactions are processed and delivered by StubHub and backed by the company's FanProtect Guarantee™ processing a ticket every second today with billions of ticket sales each year globally. Company partners MLB, AEG, ESPN and many leading teams such as the San Francisco Giants and University of Texas, along with over 60 other teams in MLB, NBA, NHL and NCAA.
+Our Values
+StubHub One – We act as one team in pursuit of connecting people through inspiring event experiences.
+At StubHub, we are:
+Driven – We strive for excellence – constantly improving our game
+Courageous – We are bold & not afraid to challenge the status quo
+Inventive – We see what others don’t & pioneer new paths
+Richly Diverse – We recognize & respect everyone as a unique individual
+Brand – We experience the world through StubHub.This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies
+View our privacy policy
+View our accessibility info
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+For more information see:
+EEO is the Law Poster
+EEO is the Law Poster Supplement"	"2 days ago"	"$96,000 - $141,000 a year (Indeed Est.) "	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=51013d1cd86d68ad"	"Senior Data Scientist"	"Indeed"	"354 reviews"	"Our mission:
+As the world’s number 1 job site, our mission is to help people get jobs. We need talented, passionate people working together to make this happen. We are looking to grow our teams with people who share our energy and enthusiasm for creating the best experience for job seekers.
+The team:
+We are a rapidly growing and highly capable engineering team building the most popular job site on the planet. Every month, over 200 million people count on us to help them find jobs, publish their resumes, process their job applications, and connect them to qualified candidates for their job openings. With engineering hubs in Seattle, San Francisco, Austin, Tokyo and Hyderabad, we are improving people's lives all around the world, one job at a time.
+Your job:
+As a Data Scientist at Indeed your role is to follow the data. Analyze, visualize, and model job search related data. You will build and implement machine learning models to make timely decisions. You will have access to unparalleled resources within Indeed to grow and develop both personally and professionally. We are looking for a mixture between a statistician, scientist, machine learning expert and engineer: someone who has passion for building and improving Internet-scale products informed by data. The ideal candidate understands human behavior and knows what to look for in the data.
+About you:
+Requirements
+
+*
+
+Ph.D. or M.S. in a quantitative field such as Computer Science, Operations Research, Statistics, Econometrics or Mathematics
+*
+
+Expertise in machine learning and statistical modeling
+*
+
+5+ years professional or research experience in data science
+*
+
+Passion to answer Product/Engineering questions with data
+*
+
+Demonstrated mentorship experience
+
+We get excited about candidates who
+
+*
+
+Have full stack experience in data collection, aggregation, analysis, visualization, productionization, and monitoring of data science products
+*
+Can do small data modeling work: R, Python, Julia, Octave
+*
+Can do big data modeling work: Hadoop, Pig, Scala, Spark
+*
+Can fish for data: SQL, Pandas, MongoDB
+*
+Can deploy data science solutions: Java, Python, C++
+
+Indeed provides a variety of benefits that help us focus on our mission of helping people get jobs.
+View our bounty of perks: [1] http://indeedhi.re/IndeedBenefits"	"8 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100
+"https://www.indeed.com/viewjob?jk=a873f3de5a57c49d"	"Director of Analytics and Data Science"	"MasterClass"	"4 reviews"	"Who we are:
+MasterClass is transforming online education by enabling anyone in the world to learn from the very best. We are deconstructing what makes an actor able to cry on demand, how an athlete defies gravity, and what it takes to write a bestseller. Our online learning content is available to students anywhere anytime, which supports our mission to democratize education.
+
+We are a quickly growing VC-funded startup based in San Francisco and have created online classes taught by famous masters—Serena Williams, James Patterson, Annie Leibovitz, Usher, Christina Aguilera and many more to come.
+
+Since launching in 2015, we are growing our team. Apply now to find out more about what we are doing behind the scenes.
+What we are looking for:
+MasterClass is seeking a Director of Analytics and Data Science to build and lead a new Analytics & Data Science team. As the founding member of the team, you will have the opportunity to establish how we process and analyze data throughout the company. You will build your team of analysts and data scientists from the ground up. You will own all recurring reporting and business intelligence systems and work with leaders throughout the company. This is a strategic role for MasterClass as data is at the center of our operations and decisions.
+Responsibilities of the role:You will be responsible for all recurring reporting across the business
+You will be responsible for driving data insights for various teams
+You will be responsible for driving our data science strategy, including creating recommendation engines, predictive churn models, and other high leverage models
+You will partner with other leaders across the company, including product, engineering, marketing, strategy & insights, operations, and content to understand their analytical needs and then develop the reports/dashboards that meet those needs
+You will build-out a team of analysts and data scientists who will partner with various organizations on their specific needs
+You will be selecting and implementing the visualization and reporting tools for the organization & defining the processes from the ground up
+You will drive ad-hoc analysis and reporting when needed
+Requirements:You have 7+ years of experience in analytics with increasing responsibility and strong track record of managing teams
+You have previous experience in SQL and R or Python skills
+You are excited to join a fast growing team where data is at the center of what we do
+You are as comfortable talking deeply about data/statistics as you are with describing the results to executives
+You thrive on empowering your team and view the team's success as your own
+Experience in e-commerce and/or subscription media businesses is a major plus
+
+At MasterClass, we believe we put our best work forward when our employees bring together ideas that are diverse in thought. We are proud to be an equal opportunity workplace and are committed to equal employment opportunity regardless of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or any other characteristic protected by applicable federal, state or local law. In addition, MasterClass will provide reasonable accommodations for qualified individuals with disabilities. If you have a disability or special need, we would like to know how we can better accommodate you."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	100

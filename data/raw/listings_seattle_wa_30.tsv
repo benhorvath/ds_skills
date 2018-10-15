@@ -1,0 +1,461 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=1a69da42fa2b752a"	"Machine Learning Engineer"	"zulily in partnership with Indeed Prime"	"364 reviews"	"zulily is a retailer obsessed with bringing our customers something special every day. Unique products from up-and-coming brands are featured alongside favorites from top brands, including clothing, home decor, accessories, toys and gifts, giving customers something new to discover each morning at an incredible price. We are fast-paced, innovative and metric-driven, with a team passionate for delighting our customers. Whether you want to work with incredible product selection, develop smart marketing plans, help us in our pursuit of faster fulfillment, or do something else awesome in between, we have a place for you. With locations in Seattle, Reno, Columbus and Bethlehem, our team is excited to be changing the way people shop every day - and we are just getting started. As a Software Engineer at zulily, you are chartered with building the technology that powers the second fastest growing online retailer in history. Our incredible growth means we face new challenges on a consistent basis. In this position, you must explore new technologies and collaborate with other engineers to design and build world-class technical services. Your team deploys production code rapidly to keep pace with zulily’s changing business, you are mindful of avoiding technical debt, and you take ownership of your team's roadmap and everything you do. Essential Job Functions Collaborate across business teams (stakeholders) Operate and provide 24/7 services to internal and external customers (mom and zuteams) Research new technologies to support build vs. buy and rapid growth of the business (build vs. buy) Design in a mindset of reducing technical debt Consistently delivers work with started timelines QUALIFICATIONS Bachelors Degree in Computer Science or related field required. A combination of education plus equivalent work experience may be considered. Exposure to software development experience building and operating high traffic web services and platforms Familiarity with frameworks such as MLlib, scikit-learn, H2O, Torch, TensorFlow, Theano, Caffe Experience with Spark, Hadoop, Pig, MapReduce technologies Past history with Amazon Web Services a plus Ability to work in a fast paced, evolving, growing and dynamic environment Excellent written and verbal communication skills Demonstrated personal initiative and strong ownership of deliverables Ability to explore new ideas and have a passion to make them happen zulily is an Equal Opportunity Employer zulily participates in E-Verify. zulily will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization. Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodation include making a change to the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. You may reach us at (206) 388-0920."	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=c644f4be8ec88349"	"Data Scientist"	"Philips"	"2,860 reviews"	"Job Title
+Data Scientist
+Job Description
+In this role, you have the opportunity to
+
+Bridge the gap between the clinical, the imaging modalities, and IT stakeholders at a clinical site, and the research and prototyping back office within Philips. You should be able to work in a multidisciplinary team of data scientists, software engineers, clinical scientists, physicians, department staff, and researchers. The Scientist will join an experienced team of Philips personnel and will be trained at the business and research facilities.
+
+You are responsible for
+
+Building knowledge and clinical network to accelerate the advancement of artificial-intelligence to support and improve radiology for patients and clinicians.
+Working with clinicians to understand clinical workflow and systems for radiology or interventional procedures.
+Driving the development, evaluation, and deployment of AI-enabled solutions for radiology applications.
+Creating and maintaining an effective network with the clinical and IT stakeholders in clinical institutes.
+Fostering a strong relationship with Radiology Solutions business and Philips Research to feed new requirements and develop new proof of concept tools.
+Configure prototypes according to local clinical needs, including clinical documentation / reporting and adaptation to local clinical guidelines.
+Collaborating with local IT department on the requirements, design and implementation of interfaces of the prototype to local hospital IT systems, including PACS, RIS, lab system and EMR.
+Supporting integration of prototypes into local hospital IT infrastructure.
+Playing a crucial role in developing high quality and impactful solutions, that are representative of Philips.
+You are a part of
+
+Philips’ Radiology Solutions which delivers multi-modality departmental solutions that build new value beyond the individual imaging system or modality. The business unit addresses the rapidly shifting needs of our customers in order to succeed in the new value-based healthcare environments by working closely with product BIUs and local country organizations to develop the solutions roadmap for Radiology.
+
+To succeed in this role, you should have the following skills and experience
+
+PhD/M.S. in clinical informatics, computer science, biomedical engineering or equivalent
+Research experience in building, training and validating image-based pattern recognition / classification algorithms using deep learning, convolutional neural networks, transfer learning and pre-trained networks
+Knowledge of deep learning neural network packages and hardware/software (e.g. PyTorch, Keras, TensorFlow, Cuda, NVIDIA GPUs)
+Strong domain knowledge with image processing (e.g. segmentation & quantification) and knowledge of the principles of medical image acquisition (X-ray, CT, MRI, Ultrasound) preferred.
+Solid foundation in machine learning methodology, data analysis, and statistical methodology
+Software development skills, including experience with software development lifecycle, and programming in Python, C++, C# or Java
+Experience with healthcare information protocols, standards and systems, including IHE, HL7, DICOM, PACS, EHR, and RIS
+Good analytic and problem solving skills. Pragmatism, goal-oriented thinking
+Good communicative skills. Ability to maintain relationships with clinicians
+Be able to work independently and as part of a larger data science team
+Interest in solving multidisciplinary clinical challenges
+Experience with class activation mapping, recurrent neural networks, and natural language process (NLP) highly desirable
+Experience with technologies such as MongoDB, SQL, Spark, Hadoop highly desirable
+In return, we offer you
+
+The chance to challenge and grow your technical and leadership ability in a fast paced, highly innovative environment. You will work alongside talented professionals using cutting edge technology that has a direct impact on patients.
+
+Why should you join Philips?
+
+Working at Philips is more than a job. It’s a calling to create a healthier society through meaningful work, focused on improving 3 billion lives a year by delivering innovative solutions across the health continuum. Our people experience a variety of unexpected moments when their lives and careers come together in meaningful ways. To find out more about what it’s like working for Philips at a personal level, visit the Working at Philips page on our career website, where you can read stories from our employee blog. Once there, you can also learn about our recruitment process, or find answers to some of the frequently asked questions.
+
+Philips is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex (including pregnancy), sexual orientation, gender identity, national origin, genetic information, creed, citizenship, disability, protected veteran or marital status.
+
+As an equal opportunity employer, Philips is committed to a diverse workforce. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants that require accommodation in the job application process may contact 888-367-7223, option 5, for assistance.
+
+#LI-PH1
+
+Contact
+If you forgot your password, you can click the Forgot Password button on the Sign In screen to reset it. In case of technical difficulties, please send an email to careersite@philips.com.
+(Note: To ensure fairness and legal compliance in our recruitment processes, only technical issues will be monitored through the above inbox. Please do not submit resumes or applications to this email, as they will not be reviewed. Only applications received through the online application process will be considered.)"	"20 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=ec93065dfa5d8aff"	"Principal Data Scientist"	"Big Fish Games"	"16 reviews"	"COME PLAY!
+Since its founding in 2002, Big Fish has been the world’s largest producer and distributor of casual games. Our titles continuously land us at the top of app store charts. We’re bounding into the mid-core space, exploring new and exciting forms of gameplay, and producing more fun than ever! Big Fish is home to six individual studios, each with its unique style of gameplay. We’re united under a common goal: to produce and develop the very best in mobile gaming, and bring fun and entertainment to our millions of customers across the globe!
+THE MISSION
+
+We are looking for flexible individuals who have a strategic viewpoint and can grow as we grow our Data Science and Insights team in Seattle. You will work with our data scientists and game data analysts who are dedicated to making our games fun and enjoyable for our players. Your team's analytical capabilities provide valuable insights needed to make business decisions on a variety of topics including user acquisition, segmentation, engagement, monetization, network analysis, churn prediction, campaign analysis, fraud and game analytics. You will interact with our game analytics teams and business stakeholders regularly to understand their strategic goals and enable the team to work on the most valuable analytical problems.
+The Data Scientists are responsible for applying a wide variety of statistical and analytical techniques to business problems to glean valuable insights in support of key strategic business initiatives. They apply analytical rigor and statistical methods to data and are comfortable manipulating and analyzing complex, high-volume, and high-dimensionality data from varying sources. Incumbents are effective communicators capable of independently driving issues to resolution and communicating insights to non-technical audiences.
+YOU WILL…
+Provide thought leadership on the practical application of machine learning and advanced analytical methods and cultivate a data driven culture across the company
+Collaborate with key business leaders to understand business problems and formulate analytical solutions for problem solving
+Construct recommendations and strategic/tactical plans based on business data and market knowledge.
+Oversee methodology and problem definition, guide analytic deep dives and problem solving, share learning from projects.
+Translate ambiguous business problems into measurable analytical components.
+Lead or collaborate with a team of data scientists, game data analysts or big data engineers on analytical projects, proving benefits of solutions and helping with execution and measurement.
+Work with cross functional teams to enable the right set of tools and technology to implement end to end solutions.
+Perform statistical analysis on experimental or business data to validate and quantify trends or patterns.
+Design and implement:
+Online experiments and experimental frameworks, including A/A, A/B, A/B/n and multivariate testing
+End-to-end cloud based machine learning production pipelines
+Scalable and efficient modeling algorithms that can work in production systems
+Write advanced SQL for exploratory analysis, and translate computational solutions/statistical models to implementable code
+Work with unstructured/semi structured data to extract useful analytic measures.
+Mentor junior data analysts and data scientists.
+REQUIRED ABILITIES, ACHIEVEMENTS, AND XP
+Graduate or Post graduate work in a relevant technical field, or 10+ years of experience in a relevant role.
+Extensive experience solving analytical problems using quantitative and qualitative approaches
+A flexible analytic approach that allows for results at varying levels of precision
+A strong passion for empirical research and for answering tough questions with data.
+Demonstrated practical experience in building end to end data science solutions and applying machine learning methods to real world problems.
+Deep understanding of and experience with machine learning models and data analysis approaches.
+Experience with state-of-the-art techniques in machine learning algorithms, including deep neural networks, NLP, dimensionality reduction, ensemble methods, graph algorithms.
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+Solid data structures & algorithms background.
+Exceptional technical skills:
+Strong programming skills in at least one language such as Python, Java, Scala or R.
+Demonstrated proficiency in SQL and relational databases.
+Experience working with semi structured data/unstructured data and turning them into actionable insights
+Experience using visualization techniques to record and communicate findings
+Experience in strategies for experimental analytics in complex scenarios.
+PREFERRED EXPERIENCE
+Big data experience (Hive, Spark, HDFS) a big plus!
+Experience in GCP, AWS, Azure or other cloud ecosystems.
+Published work in academic conferences or journals.
+YOU ARE
+Driven by curiosity and have a desire to go beneath the surface of a problem to ask the right business questions and identify potential answers that can be tested and proven
+LET’S GO!
+We’ve come a long way, and continue to grow! Since our founding in 2002, Big Fish has been an industry leader in mobile, free-to-play casual games, and are now embarking on our latest adventure in the mid-core space! With just over 700 employees across our Seattle headquarters and Oakland studio, the Big Fish Pond includes six studios, each with a unique personality and set of goals. We are where gamers, artists, and executives alike come together to collaborate and grow, while also enjoying the opportunities and benefits of a larger company. We’ve got you covered with great benefits including medical, dental and vision insurance, retirement options, transportation and fitness discounts, and great work-life balance!
+Want to discover more about life at Big Fish? Check us out on TheMuse.com!
+Come be the next Big Fish in the Pond!"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=201abf95039ec4a1"	"c(\"Machine Learning Researcher, Platform Architecture\", \"Key Qualifications\", \"\nDescription\", \"\nEducation\")"	"Apple"	"6,252 reviews"	"We are looking for engineers with a passion for using machine learning to build intelligent applications. In this highly accomplished, deeply technical and close-knit team of data scientists and machine learning engineers, you will create tools that are used by millions of people. You will design and implement new machine learning algorithms and techniques and collaborate with the most innovative product development teams in the world.
+We research new machine learning algorithms, models and techniques that will power amazingly intelligent user experiences. We are looking for new ambitious members to join our research ML group. In this role, you will design new models and algorithms, and actively engage with the academic community by publishing your work and participating in academic efforts. You will also have the opportunity to supply to every cool project around Apple, and use your data science, machine learning and artificial intelligence skills to transfer your ideas into solutions for some of the most challenging technical problems in the next generation of products that will delight millions of people.
+Key Qualifications
+STRONG ACADEMIC AND PUBLICATION RECORD
+Deep technical skills in machine learning, deep learning, computer vision, natural language processing, or artificial intelligence
+A passion for creating innovative techniques and making these methods robust and scalable
+ABILITY TO EXPLAIN AND PRESENT DEEP TECHNICAL IDEAS
+Creative, reciprocal, & innovation focused
+Description
+As a member of the ML Research team, you will design and evaluate new algorithms, models and methods that will affect Apple and the broad ML community. You will also collaborate with teams across Apple, who are building the newest, most compelling intelligent applications in the world. You will also be a trusted advisor for standard methodology machine learning development.
+- Your responsibilities include:
+- Researching, developing and implementing the most innovative machine learning, artificial intelligence, computer vision and NLP techniques
+- Publishing papers, software and building presentations
+- Transferring machine learning solutions to data scientists and engineers on product teams
+- Providing technical mentorship to product teams on the choice of machine learning approaches appropriate for a task
+- Providing architectural mentorship on transitioning prototypes to high-performance production models
+- Providing feedback on tools and new features needed back to platform development teams
+Education
+- PhD in Machine learning, Statistics, Computer Science, Physics, or related field or
+- MS in related field with a strong academic track record
+- 3+ years of research experience in academia or industry"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=c681b6f062357be0"	"Specialist, Intern Programs"	"Google"	"2,617 reviews"	"InternshipGoogle is known for our innovative technologies, products and services — and for the people behind them. The Google People Services (GPS) team focuses on providing an amazing experience to past, present and future Googlers. As a Programs Specialist, you will enthusiastically represent the Google brand and build our talent pipeline. Whether it’s making our staffing systems more efficient, planning for our growth, building relationships on college campuses or cultivating the next generation of computer scientists, you will have an eye on the staffing needs of Google and the broader hiring landscape. You'll be focused on cultivating outstanding candidates for Google's long-term hiring needs, and you are the glue that ties together a cross-functional and international group of staffing teams.
+Great just isn't good enough for our People Operations team (you probably know us better as \"Human Resources\"). Made up of equal parts HR professionals, former consultants and analysts, we're the champions of Google's colorful culture. In People Ops, we \"find them, grow them, and keep them\" - we bring the world's most innovative people to Google and provide the programs that help them thrive. Whether recruiting the next great Googler, refining our core programs, developing talent or simply looking for ways to inject some more fun into the lives of our Googlers, we bring a data-driven approach that is reinventing the human resources field.
+Responsibilities
+Assist with strategy and planning in the development of technical intern programs programs to build Google’s short and long term candidate pipeline, including its diversity pipeline.
+Participate in the development and execution of communication and engagement strategies to ensure our programs can scale inline with the needs of the business.
+Define, measure and prove ROI to clients using data analysis. Innovate on our use of data, reporting and tools to inform strategies, outreach and improve our effectiveness.
+Collaborate with the team on potential recommendations/insights based on the data and projections.
+Manage day to day program management to ensure hosts and interns are set up for success with their intern program experience.
+Qualifications
+Minimum qualifications:Bachelor's degree or equivalent practical experience.
+3 years relevant work experience in HR, program management or a related field.
+
+Preferred qualifications:Previous experience building and managing educational/skill building programs.
+Track record for delivering results through successful program design and implementation.
+Proven ability to gain buy-in for ideas and influence partners or clients outside of organization.
+Excellent problem-solving capabilities and analytical skills, process and detail oriented with the ability to think creatively and strategically.
+Passion for working with students and supporting diversity-focused initiatives
+High level of interpersonal, written and verbal communication skills, ability to work with multiple groups and functions, including remote teams, and build strong personal networks across a complex, fast-moving organization.
+At Google, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees or any other company location. Google is not responsible for any fees related to unsolicited resumes."	"3 days ago"	"Internship"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=0132648a2ed48352"	"Data Scientist"	"Quardev, Inc."	"-"	"Our downtown Seattle client seeks a Data Scientist with solid maths, Spark, and programming experience. You will be reporting to the Manager of Quality Engineering and work closely with software architects, testers, developers, and product management in all phases of the software development lifecycle. You will be responsible to build, develop and maintain data models, reporting systems, data automation systems, dashboards and performance metrics that support key business decisions. This is your opportunity to be part of a team working towards improving test coverage and predict quality of software by applying Machine learning and Data mining techniques on software testing.Sounds Interesting Read on to learn more.
+
+Responsibilities
+Provide technical leadership to Test Architects and Automation engineers around Test Metrics, Analytics and ML
+Participate in the design and implementation of Quality engineering / Test automation framework, systems and services
+Assist in setting architectural direction for Metrics dashboards, Test coverage tools, and Test analytics platform
+Define High level Test Metrics strategy and approaches for analyzing data generated by tests
+Oversee the design and delivery of reports and insights that analyze business functions and key operations and performance metrics
+Manage and optimize processes for data intake, validation, mining and engineering as well as modeling, visualization and communication deliverables
+
+Qualifications
+Experience with at least one programming language: Java, C#, or Python
+Experience with languages/ frameworks used in ML & Analytics: Spark, R etc
+Solid programming skills with querying languages: SQL, SAS, etc
+Experience with testing tools: TestNG, Selenium etc
+Experience with data visualization tools: Tableau, Raw, chart.js, etc
+Working knowledge of data mining principles: Predictive analytics, mapping, collecting data from multiple data systems on premises and cloud-based data sources
+Understanding of and experience using analytical concepts and statistical modeling techniques
+Experience either in web services development or test automation
+Familiarity with CICD, pipelines: Jenkins, Distelli or similar
+
+Thank you for considering Quardev. When you join Quardev consulting team, you join a team of industry veterans with a combined experience of over 30 years who are dedicated to creating a positive work environment that attracts and retains consultants through a combination of employee satisfaction, working conditions and company culture. Team members enjoy W-2 employment benefits, competitive salary, birthday off paid; affordable health, vision and dental insurance; 401K and fridge access at our corporate office. We pride ourselves on being a great place to work and strive to ensure our team members enjoy coming to work each day.
+
+For more information and new job opportunities, visit www.Quardev.com
+
+To check out our employee reviews on Glassdoor, click here"	"5 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=d763466be11b1ee6"	"Data Scientist - Mortgages"	"Zillow Group"	"77 reviews"	"About the team
+You will join Zillow Group Mortgages, a dynamic, collaborative, and driven team. We are data-hungry and make almost all decisions using data. Our team structure if flat. You will communicate directly with Directors and VPs. You will have the opportunity to present results directly and help drive the direction of the business.About the role
+Zillow Group is currently seeking a Data Scientist to join the Zillow Group Mortgages Analytics team in our Seattle, WA office. Our team is tasked with absorbing billions of rows of data from dozens of sources, organizing them, visualizing them, and analyzing them to help inform both short- and long-term decision-making. You will not shy away from complexity and uncertainty, and you will develop a deep understanding of our mission, business models, and personas. We want you to use that intuition you’ve developed (both in business and real life) to use the data we have on hand to find opportunities for growth and to develop insights that help the broader organization meet its goals, improve its performance, and positively impact how our users and customers navigate the Mortgage market.
+Once you’re here, you’ll help engineer, analyze, and report on data to improve our Mortgage business and products. In this role you will:
+Dive into our internal data (think Hive, Presto, SQL Server, My SQL, Redshift, Python, Mode Analytics, Tableau, R), combining disparate sources of information into data sets you can analyze.
+Help sales, product and business leadership make decisions with data
+Tackle complex business problems by converting raw data into meaningful and actionable business ideas
+Craft insightful automated dashboards & data visualizations to track key metrics
+Work with a team of analysts to support Zillow’s mortgage product and sales team
+Who you are
+You will join Zillow Group Mortgages, a dynamic, collaborative, and driven team. We are data-hungry and make almost all decisions using data. Our team structure if flat. You will communicate directly with Directors and VPs. You will have the opportunity to present results directly and help drive the direction of the business.
+Who you are
+You are an all-around talent, you can think through a complex business problem and solve it
+You can interpret, and visually convey data results to generate insights
+You can to run multiple projects concurrently
+You are able to effectively communicate complex ideas to diverse audiences
+You have strong SQL coding and statistics skills
+You have 2+ years in highly analytical role with relevant experience (e.g. analytics, sales finance, management consulting or investment banking)
+You have a quantitative related degree (e.g. engineering, finance, and statistics) or quantitative training.
+Masters or PhD is highly regarded but not required.
+You have experience with Tableau, Salesforce as a plus
+Get to know us
+Zillow Group houses a portfolio of the largest and most vibrant real estate and home-related brands on the web and mobile. Our mission is to build the largest, most trusted and vibrant home-related marketplace in the world.Zillow Group is owned, fueled and grown by innovators who help people make better, smarter decisions around all things home. We encourage one another at every level, and our efforts are supported by employee-driven, world-class benefits that enable us to enjoy our lives outside the office while building fulfilling careers that impact millions of individuals every day.
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know."	"10 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=8ed0818ce79704e8"	"D3 - Junior Data Scientist"	"Allstate"	"5,583 reviews"	"Where good people build rewarding careers.
+Think that working in the insurance field can’t be exciting, rewarding and challenging? Think again. You’ll help us reinvent protection and retirement to improve customers’ lives. We’ll help you make an impact with our training and mentoring offerings. Here, you’ll have the opportunity to expand and apply your skills in ways you never thought possible. And you’ll have fun doing it. Join a company of individuals with hopes, plans and passions, all using and developing our talents for good, at work and in life.Job Description:
+Job Family Summary
+Data Science incorporates techniques across many disciplines – including mathematics/statistics, computer programming, data engineering and ETL, software development, and high performance computing – with traditional business expertise with the goal of extracting meaning from data to optimize future business decisions. Individuals in this field should be an expert/fluent in several of these disciplines and sufficiently proficient in others to effectively design, build, and deliver end to end predictive analytics products to optimize future decisions. Individual should demonstrate sufficient analytic agility to quickly develop new skills across these disciplines as those disciplines evolve.
+This position resides within the D3: Data, Discovery & Decision Science department. D3 leverages data & analytics to help the enterprise understand the best course of action to deliver on our corporate priorities, improve our business processes to gain operational efficiency and better equip our agencies and employees with the tools and insights necessary to better serve our customers and live into our customer value proposition. The Data Scientist family is accountable for using data to make decisions, which includes building predictive models and developing new machine learning techniques that enable Allstate to make better decisions to achieve its goals. The Data Scientist Family requires Analytic Agility, the ability to quickly learn new modeling/machine learning techniques, programming languages, and see how these ideas can integrate to optimize the business.Job SummaryThis Junior Data Scientist position is a full-time entry-level role that we would start within a few weeks of hire. This is not a campus role for new graduates starting in Spring or Summer of 2019.
+This role is responsible for leading the use of data to make decisions. This includes: The development and execution of new machine learning predictive modeling algorithms, the coding\development of tools that use machine learning/predictive modeling to make business decisions, searching for and integrating new data (both internal and external) that improves our modeling and machine learning results (and ultimately our decisions), and discovery of solutions to business problems that can be solved through the use of machine learning/predictive modeling. This role will also begin to manage projects of small to medium complexity.
+Key Responsibilities:Uses best practices, with limited coaching, to develop statistical, machine learning techniques to build models that address business needs
+Utilizes effective project planning techniques to break down basic and occasionally moderately complex projects into tasks and ensure deadlines are kept
+Uses and learns a wide variety of tools and languages to achieve results (e.g., R, SAS, Python, Hadoop)
+Collaborates with the team in order to improve the effectiveness of business decisions through the use of data and machine learning/predictive modeling
+Innovates on projects by using new modeling techniques or tools
+Contributes on a wide variety of projects
+Executes on modeling/machine learning projects effectively
+Communicates findings to team and leadership ensure models are well understood and incorporated into business processes
+Works with leaders to ensure the project will meet their needs
+Maximizes personal professional development to ensure continuation of a personal contribution to the team and Allstate
+Reviews and evaluates on appropriateness of techniques, given current modeling practices, to senior leadership
+Qualifications:Target Start Date: ASAP
+Have completed at least a Bachelor’s degree in a quantitative field such as statistics, mathematics, computer science, physics, finance or economics.
+Master’s or PhD is preferred.
+Experience in using statistical modeling and/or machine learning techniques to build models that have driven company decision making preferred
+ Experience in managing and manipulating large, complex datasets
+ Experience in working with statistical software such as SAS, SPSS, MatLab, R, CART, etc. preferred
+ Ability to code and develop prototypes in languages such as Python, Perl, Java, C preferred
+Knowledge of advanced modeling technique preferred
+Demonstrated analytic agility
+Ability to analyze and interpret moderate to complex concepts
+Ability to provide written and oral interpretation of highly specialized terms and data, and ability to present this data to others with different levels of expertise
+This position is posted in multiple office locations. We have opportunities for Junior Data Scientists in Charlotte NC, Seattle WA and Menlo Park CA. Please indicate your location preference to the recruiter.The candidate(s) offered this position will be required to submit to a background investigation, which includes a drug screen.
+Good Work. Good Life. Good Hands®.
+As a Fortune 100 company and industry leader, we provide a competitive salary – but that’s just the beginning. Our Total Rewards package also offers benefits like tuition assistance, medical and dental insurance, as well as a robust pension and 401(k). Plus, you’ll have access to a wide variety of programs to help you balance your work and personal life - including a generous paid time off policy.
+Learn more about life at Allstate. Connect with us on Twitter, Facebook, Instagram and LinkedIn or watch a video.Allstate generally does not sponsor individuals for employment-based visas for this position.
+
+Effective July 1, 2014, under Indiana House Enrolled Act (HEA) 1242, it is against public policy of the State of Indiana and a discriminatory practice for an employer to discriminate against a prospective employee on the basis of status as a veteran by refusing to employ an applicant on the basis that they are a veteran of the armed forces of the United States, a member of the Indiana National Guard or a member of a reserve component.
+For jobs in San Francisco, please click \"here\" for information regarding the San Francisco Fair Chance Ordinance.
+
+For jobs in Los Angeles, please click \"here\" for information regarding the Los Angeles Fair Chance Initiative for Hiring Ordinance.
+It is the policy of Allstate to employ the best qualified individuals available for all jobs without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity/gender expression, disability, and citizenship status as a veteran with a disability or veteran of the Vietnam Era."	"29 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=d5846fc47f475f37"	"Data Scientist - Risk Mining"	"Amazon.com"	"27,831 reviews"	"Job Description
+Have you ever thought about what it takes to detect and prevent fraudulent activity among hundreds of millions of eCommerce transactions across the globe? What would you do to increase trust in an online marketplace where millions of buyers and sellers transact? How would you build systems that evolve over time to proactively identify and neutralize new and emerging fraud threats?
+Our mission in Transaction Risk Management Services (TRMS) is to make Amazon.com the safest place to transact online. TRMS safeguards every financial transaction across all Amazon sites, while striving to ensure that these efforts are transparent to our legitimate customers. As such, TRMS designs and builds the software systems, risk models and operational processes that minimize risk and maximize trust in Amazon.com.
+As a Data Scientist in TRMS, you will be responsible for analyzing terabytes of data to identify specific instances of risk, broader risk trends and points of customer friction, developing scalable solutions for prevention. You will work with team members to ensure that the volume being flagged for manual review aligns with available capacity and Service Level Agreements (SLA’s) are met. In addition you will be responsible for building a robust set of operational and business metrics and will utilize metrics to determine improvement opportunities.Responsibilities:Analyze terabytes of data to define and deliver on complex analytical deep dives to unlock insights and build scalable solutions through Data Science to ensure security of Amazon’s platform and transactions
+Build Machine Learning and/or statistical models that evaluate the transaction legitimacy and track impact over time
+Ensure data quality throughout all stages of acquisition and processing, including data sourcing/collection, ground truth generation, normalization, transformation, and cross-lingual alignment/mapping
+Define and conduct experiments to validate/reject hypotheses, and communicate insights and recommendations to Product and Tech teams
+Develop efficient data querying infrastructure for both offline and online use cases
+Collaborate with cross-functional teams from multidisciplinary science, engineering and business backgrounds to enhance current automation processes
+Learn and understand a broad range of Amazon’s data resources and know when, how, and which to use and which not to use.
+Maintain technical document and communicate results to diverse audiences with effective writing, visualizations, and presentations
+Provide mentorship and technical guidance to Data Scientists on the teamBasic Qualifications
+Master's Degree in any quantitative discipline such as Statistics, Mathematics, Quantitative Finance or Operational Research, Graduate Degree preferredAt least 3-5 years of experience working in an Analytics / Data Science environmentExperience in working with databases and SQL in a business environmentDemonstrated use of scripting languages such as R, Python and query languages such as SQLPrior experience in design and execution of analytical projectsWorked extensively in large scale data bases and data warehouses
+Previous experience deploying Machine Learning-based Risk algorithmsPreferred Qualifications
+Experience in e-commerce / on-line companies in fraud / risk control functions
+Exposure to software development process
+Analytical mindset and ability to see the big picture and influence others
+Detail-oriented and must have an aptitude for solving unstructured problems. The role will require the ability to extract data from various sources and to design/construct/execute complex analyses to finally come up with data/reports that help solve the business problem
+Strong oral, written and presentation skills combined with the ability to lead group discussions and explaining complex solutions
+Ability to apply analytical, computer, statistical and quantitative problem solving skills is required
+Ability to work effectively in a multi-task, high volume environment
+Ability to be adaptable and flexible in responding to deadlines and workflow fluctuations
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=c0f2bf576c1d955e"	"Data Scientist - Performance Advertising"	"Amazon.com"	"27,831 reviews"	"Job Description
+Amazon.com seeks an exceptional Data Scientist to join our Performance Advertising Finance – Insights & Analytics team. The role will be a key partner to Amazon’s Performance Advertising business, a high-growth business with a range of products offerings for advertisers and using “pay-per-click” business model. We love data and we have lots of it. We’re looking for a top analytical mind capable of understanding our complex ecosystem of advertisers participating in a pay-per-click model as well as the relationship this business has with Amazon’s core eCommerce business – and leveraging this knowledge to help turn the flywheel of the business.
+As a key analytics partner, you will have the opportunity to work on one of the world's largest consumer and advertising data sets, as well as influence the long-term evolution of our products and the way they fit in Amazon's ecosystem. This role requires an individual with excellent business, communication, and technical skills, enabling collaboration with various functions, including economists and other finance leaders, product managers, software engineers, data scientists as well as senior leadership.
+The successful candidate will be a self-starter comfortable with ambiguity, with strong attention to detail, an ability to work in a fast-paced, high-energy and ever-changing environment. The drive and capability to shape the business group strategy is a must.
+This role will influence the direction of the business by leveraging our data to deliver insights that drive decisions and actions. The role will involve translating broad business problems into specific analytics projects, conducting deep quantitative analyses, and communicating results effectively. We see a high potential for influence and growth in this role as we transform our data into actionable insights to continue to fuel the growth of this business. The role will help the organization identify, evaluate, and evangelize new techniques and tools to continue to improve our ability to deliver value to Amazon’s customers.
+Basic Qualifications
+BS with 5 years of relevant experience or MS with 3 years of relevant experience. BS/MS degrees in a quantitative field such as Computer Science, Operations Research, Applied Mathematics, Applied Economics etc.Relevant hands-on experience in data mining and/or quantitative analysis – both descriptive and inferential/predictive analysis.Fluent knowledge of relational databases (SQL).Fluent in at least one scripting language such as Python or Scala; command line usageExperience working with very large, disparate data sets and big data tools such as Spark.Experience with parsing logs, in scenarios where production datasets are not ready is a huge plus.Ability to distill problems and constraints from informal business requirements and to be comfortable dealing with ambiguity and competing objectivesProven capability to identify opportunities to combine disparate data sources to uncover new business insightAbility to distill problems and constraints from informal business requirements and to craft an analytic approach to solving the issueAbility to distill and communicate complex analysis and insights in oral presentation and written form
+. A natural curiosity and desire to learnPreferred Qualifications
+
+. Experience with Machine learningExperience with AWS tools
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation"	"11 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=dfdc7580d00f9701"	"Data Scientist"	"Talking Rain Beverage Company"	"17 reviews"	"Who We Are
+Are you a curious, collaborative, self-led, resourceful, drive-not-ride type? Join us. When it comes to success, we know we’re only as strong as our team, so we empower our Rain Makers to forge the way—finding opportunity at the intersection of what they love, what we need, and where they thrive.
+We’re Talking Rain, the maker of Sparkling Ice, and we’re so much more than water. We build flavorful brands that deliver sustainable growth and create a connected community that people embrace, trust and enjoy!
+Click to learn about us and our careers. You can also follow us on LinkedIn, Instagram, Twitter and Facebook.
+What You’ll Do
+Data is more than stats to our Business Development and Strategic Planning team—it’s a story waiting to be told. They translate the details into actionable information and strategy, helping us drive forward.
+You’ll form partnerships across our business to help define and drive our strategy. Major areas of focus will be around reducing cost and complexity within our operations, as well as effectiveness of our promotional and marketing activities.
+Bring your expertise to drive improvements to forecasting (Sales, Production, Raw Material Planning).
+Refine inventory stratification methodology to minimize carrying costs and out of stocks.
+Support sales and marketing on pricing and promotion efficiency evaluations.
+Collaborate with our Marketing team on program effectiveness evaluations.
+Quantify the value of existing product improvements or the potential value of new product hypotheses.
+Ensure we’re ahead of the curve, staying abreast of the ever-shifting retail landscape and how we can best leverage syndicated data.
+Assist in the budgeting, forecasting and demand planning processes.
+Develop custom data models and algorithms to generate predictive insights.
+Ensure food safety, quality, and SQF practices are followed at all times, notifying immediate manager of any food safety and/or quality issues.
+Complete other responsibilities as assigned.
+Reports to: Pricing and Analytics Manager
+Direct Reports: N/A
+What You Bring
+Your results driven mindset enables you to interpret complex data, developing and communicating exceptional strategic solutions.
+You frequently leverage your EQ, or emotional intelligence, actively listening and adapting your style to the audience.
+Your commitment to excellence is second to none, with an exceptionally high attention to detail.
+You earn people’s trust with your ability to maintain confidentiality, particularly when handling sensitive information and situations.
+You always take the initiative, which means you’re stellar at prioritization, time-management, and troubleshooting.
+You’re flexible, which means you can pivot on a dime when the situation changes.
+Your Background
+Master’s degree in Computer Science, Statistics, Mathematics, Economics or related field preferred; Bachelor’s degree accepted.
+Experience in the consumer-packaged goods (CPG) industry, with an emphasis on predictive analytics, data mining, statistics, machine learning, algorithms, etc.
+Microsoft Excel power user.
+Complete proficiency with SQL, with at least one additional language for data analysis (e.g. R, Python)."	"12 days ago"	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=1d979685917c68a3"	"Data Scientist, Engineering"	"Google"	"2,617 reviews"	"Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; New York, NY, USA; San Bruno, CA, USA; Seattle, WA, USA; San Francisco, CA, USA
+As a Data Scientist, you will evaluate and improve Google's products. You will collaborate with a multi-disciplinary team of engineers and analysts on a wide range of problems. This position will bring analytical rigor and statistical methods to the challenges of measuring quality, improving consumer products, and understanding the behavior of end-users, advertisers, and publishers.
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, data scientists not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+Responsibilities
+Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive understanding of Google data structures and metrics, advocating for changes where needed for both products development and sales activity.
+Interact cross-functionally with a wide variety of people and teams. Work closely with engineers to identify opportunities for, design, and assess improvements to google products.
+Make business recommendations (e.g. cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.
+Research and develop analysis, forecasting, and optimization methods to improve the quality of Google's user facing products; example application areas include ads quality, search quality, end-user behavioral modeling, and live experiments.
+Qualifications
+Minimum qualifications:MS degree in a quantitative discipline (e.g., statistics, operations research, bioinformatics, economics, computational biology, computer science, mathematics, physics, electrical engineering, industrial engineering).
+2 years of relevant work experience in data analysis or related field. (e.g., as a statistician / data scientist / computational biologist / bioinformatician).
+Experience with statistical software (e.g., R, Python, Julia, MATLAB, pandas) and database languages (e.g., SQL).
+
+Preferred qualifications:PhD degree in a quantitative discipline as listed in Minimum Qualifications.
+4 years of relevant work experience (e.g., as a statistician / computational biologist / bioinformatician / data scientist), including deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods. Analytical engagements outside class work while at school can be included.
+Applied experience with machine learning on large datasets.
+Experience articulating business questions and using mathematical techniques to arrive at an answer using available data. Experience translating analysis results into business recommendations.
+Demonstrated skills in selecting the right statistical tools given a data analysis problem. Demonstrated effective written and verbal communication skills.
+Demonstrated leadership and self-direction. Demonstrated willingness to both teach others and learn new techniques.
+At Google, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees or any other company location. Google is not responsible for any fees related to unsolicited resumes."	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=669266b780236bee"	"Data Scientist, Alexa Shopping NLU"	"Amazon.com"	"27,831 reviews"	"Job Description
+At Alexa Shopping, we strive to enable shopping in everyday life. We allow customers to instantly order whatever they need, by simply interacting with their Smart Devices such as Amazon Show, Spot, Echo, Dot or Tap. Our Services allow you to shop, no matter where you are or what you are doing, you can go from 'I want that' to 'that's on the way' in a matter of seconds. We are seeking the industry's best to help us create new ways to interact, search and shop. Join us, and you'll be taking part in changing the future of everyday life
+We are seeking a Data Scientist to be part of the NLU science team for Alexa Shopping. This is a strategic role to shape and deliver our technical strategy in developing and deploying NLU, Machine Learning solutions to our hardest customer facing problems. Our goal is to delight customers by providing a conversational interaction. These initiatives are at the heart of the organization and recognized as the innovations that will allow us to build a differentiated product that exceeds customer expectations. We're a high energy, fast growth business excited to have the opportunity to shape Alexa Shopping NLU is defined for years to come. If this role seems like a good fit, please reach out, we'd love to talk to you.
+This role requires working closely with business, engineering and other scientists within Alexa Shopping and across Amazon to deliver ground breaking features. You will lead high visibility and high impact programs collaborating with various teams across Amazon. You will work with a team of Language Engineers and Scientists to launch new customer facing features and improve the current features.Basic Qualifications
+Bachelor or Master's degree in highly quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+Experience with R, Python, Weka, SAS, Matlab or other statistical/machine learning software.
+Experience applying various machine learning techniques, and understanding the key parameters that affect their performance.
+Experience developing experimental and analytic plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships.
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.Preferred Qualifications
+3+ years of experience with machine learning, statistical modeling, data mining, and analytics techniques.
+Experience in one or more natural language processing topics: tagging, syntactic parsing, word sense disambiguation, topic modeling; contextual text mining, and application of deep learning to NLP.
+Previous experience in a ML or data scientist role with a large technology company.
+Fluency in a language other than English
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=3fe0527ea3d5bf58"	"Data Scientist"	"Brillio"	"27 reviews"	"At least 4+ years of strong experience in data science
+Good exposure and hands on experience on R
+Strong experience in forecasting techniques and text mining
+Prior experience of working on Marketing data
+Knowledge of at least one visualization tool between Power BI/ Tableau
+PowerBI preferred
+Primary Location: US-WA-Seattle
+Job: Associate Business Analyst
+Organization: Brillio LLC United States BU
+ Day Job
+Job Posting: Sep 24, 2018, 3:32:05 PM"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=1bd62a175ad7db24"	"Senior Economic Forecasting Analyst – Load Research #23579"	"Puget Sound Energy"	"99 reviews"	"JOB SUMMARY: Puget Sound Energy’s Pricing and Cost of Service Department is looking for a Senior Economic Forecasting Analyst – Load Research to join our team.
+
+Initiate and lead the utility’s class load research projects and load profiling activities to support cost of service, rate design and pricing, load forecasting, product and service development, resource planning, and other fiscal planning functions. Provide the strategy for implementing company policy and directives assigned in regulatory proceedings through rate research, statistical analysis, graphical representations, expert testimony, witness support, and other duties as. Provide training, direction and guidance to other regulatory analysts. Perform complex data queries and analysis using the company’s multiple database platforms to support regulatory filings and various data requests. Prepare, collect, compile, analyze, and report on technical, demographic, and financial data of the utility for regulatory reporting, filing, and proceedings.
+
+At the discretion of the hiring team, this role may be filled at a lower level.
+
+Families and businesses depend on PSE to provide the energy they need to pursue their dreams. Our steadfast commitment to serving Washington communities with safe, dependable and efficient energy started in 1873. Today we’re building the Northwest’s energy future through efforts like our award winning energy efficiency programs and our leadership in renewable energy.
+
+At PSE we value and respect our employees and provide them opportunities to excel. We offer an expansive pay package that includes competitive compensation, annual goals-based incentive bonuses, comprehensive cafeteria-style benefits, 401(K), a company paid retirement pension plan, and an employee assistance and wellness program.
+JOB REQUIREMENT:JOB RESPONSIBILTY: • Retrieve data from multiple data sources and present them in a logical format. This may involve programming.
+Coordinate with IT to solve data gaps. Provide on-going support for the tools/templates developed.
+Provide statistical and analytical support on pricing, rate design, and cost allocation to be used in regulatory filings and internal reporting.
+Develop optimum sample designs and deployment plans for the utility’s load research programs.
+Work with IT and Meter Data Warehouse staff to monitor and maintain quality of interval load readings being collected from sampled customers’ metering devices.
+Prepare regulatory filings, reports, and rate case testimony.
+Provide summary statistics or qualitative findings from data retrieved.
+Develop hourly load profiles for target customers, rate schedules, and classes.
+Participate in and provide support for the development of regulatory policy and strategy.
+Work cooperatively with staff from other departments to communicate load information and obtain input from others in aligning load research services with needs.
+Perform other duties as assigned. MINIMUM QUALIFICATIONS:
+Bachelor’s in economics, statistics, mathematics, engineering, or applicable field or an equivalent combination of education and relevant experience
+8 years of experience in utility load analysis or related field
+Knowledge of statistics and econometrics and their applications
+Familiarity with quantitative techniques and software
+Proficiency in SAS Programming
+Effective written and oral communication skills
+Excellent interpersonal skills and ability to develop and cultivate strong working relationships
+Proficiency in Microsoft Office tools
+DESIRED QUALIFICATIONS:Intermediate or advanced knowledge of statistics
+Programming experience and knowledge of SAP-BW
+Experience strategically implementing data research and drafting testimony or other regulatory filings
+Master’s degree (in economics or statistics a plus)
+Experience in load research and profiling
+Work experience with meter data, and data from MV-90, MDMS and CIS
+Work experience with load research software such as SAS, Oracle Utilities Load Analysis (Lodestar) , iWave, EnergyProbe, Visualize-IT, etc.
+Understanding of the fundamentals of cost of service studies and resource planning
+Skilled at self-prioritization
+"	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=4d294400feee0d9c"	"c(\"Data Scientist\", \"As a Data Scientist You Will:\", \"Your Toolset Includes:\", \"Your Qualifications:\", \"Why We’ll Hire You:\", \"Benefits of Working at Rover.com:\")"	"Rover"	"422 reviews"	"Who we are:
+Rover.com connects pet parents with the nation’s largest network of pet sitters and dog walkers. On Rover, pet parents can easily discover, book, and manage personalized care for their dogs including pet sitting, dog walking, and doggy day care. Founded in 2011 on the belief that everyone should have the opportunity to experience the unconditional love of a dog, Rover improves and simplifies life for pet parents and the dogs they love.
+We're headquartered in downtown Seattle. We're an agile, fast-growing startup, and our leadership comes from some of the country's most respected tech companies. Our Senior Leadership team has been recognized by Forbes, Seattle Business, and Geekwire. For the past three years we have been nominated as one of Seattle's \"Best Places to Work\" by Seattle Business Magazine, and celebrated awards in 2016 and 2017 by Seattle Met magazine and the Puget Sound Business Journal. We're also the recipient of World’s Most Dog-Friendly Offices in 2016 by Inc.com. Needless to say (but we're going to say it anyway)—we love dogs, and we wouldn't dream of going to work without them by our sides.
+Who we're looking for:
+We are looking for people who understand that behind every data point there is a pet and a pet person. When you develop and deploy an algorithm, you are not just producing a score or rule set, you are altering the customer experience and impacting the business in measurable ways. You should be excited to tackle a broad array of problems and work in a fast-paced, collaborative startup environment.
+What does Data Science mean at Rover?
+At Rover we obsess over our customers’ needs, relying heavily on data to improve the customer journey, and to continuously optimize outcomes in our marketplaces. Our entire organization is metric driven and underpinned by data science. Data scientists are responsible for defining the right metrics, understanding nuanced marketplace dynamics, and developing models and algorithms that power our business and technology.
+As a Data Scientist You Will:
+Identify opportunities to operate the marketplace more efficiently, working closely with business, product, and engineering leaders
+Build multivariate models to arrive at inferences or predict future behavior
+Develop algorithms that match owners with providers or solve other customer needs
+Design and analyze A/B user tests and marketplace experiments, often in partnership with product managers
+Deploy machine learning models at scale, writing production code in collaboration with machine learning platform engineers
+Your Toolset Includes:
+SQL
+Python or R
+Google Analytics or similar user funnel analytics tools
+Tableau, Looker, or similar data visualization tools
+Data-informed decision making with rigorous split testing.
+Integrated teams with developers, designers and analysts working side-by-side.
+Your Qualifications:
+B.S in a quantitative discipline required; advanced degree (MS or PhD) preferred
+Strong analytical, technical and coding skills
+Expertise in one or more core data science disciplines (e.g, supervised learning, machine learning, etc)
+Marketplace experience preferred
+Experience in online user testing preferred
+2+ years of experience in a technical role
+Why We’ll Hire You:
+You are familiar with more than just the basics, and have more than cursory experience with at least sub-discipline in the broad field of data science. In other words, you know where the sharp edges are, and can lead decisions around what techniques are and are not appropriate to employ for particular classes of problem
+You’re a deeply analytical thinker who is passionate about finding structure in data, and using data to drive real value to the end user (and thus the business).
+You are passionate about our core business. You will instinctively dig into every aspect of what it means to be a dog sitter and a dog owner on the Rover platform.
+You can take abstractly defined problems and work with (imperfect) data to drive decisions
+You are a great partner to engineers and business owners alike
+You can pitch your own ideas and shepherd them through to completion
+You show a pattern of being self-started, self-taught and self-directed
+You favor open communication with willingness to ask and answer questions
+You are output- and outcome-oriented
+You have excellent written and verbal communication skills
+You play nicely with others (and dogs)
+Benefits of Working at Rover.com:
+Competitive compensation
+401k
+Stock options
+4 weeks paid time off
+Competitive benefits package, including medical, dental, and vision insurance
+Commuter benefits
+Bring your dog to work (and unlimited puppy time)
+Doggy benefits, including $1,000 toward adopting your first dog
+Stocked fridges, coffee, soda, and lots of treats (for humans and dogs)
+Free catered lunches semi-monthly
+Regular team activities, including happy hours, snow tubing, game nights, and more
+50 free dog walks a year
+This position is based at Rover HQ in Downtown Seattle.
+Competitive salary & benefits depending on experience.
+Candidates must be eligible to work in the US."	NA	"character(0)"	2018-10-15	"Seattle%2C+WA"	30
+"https://www.indeed.com/viewjob?jk=22c9b05bc087f9c7"	"Data Scientist, Distribution Insights - Global Retail Markets"	"Liberty Mutual"	"2,868 reviews"	"$92,000 - $120,000 a yearAdvance your career at Liberty Mutual - A Fortune 100 Company!
+The Distribution & Service Performance Insights team is seeking a highly motivated data scientist to join the model development & engineering team. In this role, you will apply analytic techniques to improve the effectiveness and efficiency of our sales distribution and service organization.
+You will collaborate with business partners to develop predictive analytic solutions that enable data-driven strategic decision-making.You will utilize data science techniques to manipulate large structured and unstructured data sets, identify patterns in raw data, and develop models to predict the likelihood of a future outcome and/or to optimize business solutions.
+Responsibilities:
+Solve business problems using advanced statistical techniques including but not limited to regression/logistic regression, bootstrapping, decision trees, gradient boosting, neural network, clustering & binning, time series forecasting, and market basket analysis
+Creatively identify and pursue predictive analytics opportunities to solve business problems and drive value to the Distribution & Service organization
+Develop and deliver presentations succinctly and effectively, communicating technical ideas to non-technical audiences, to influence and enable strategic and operational decision making
+Proactively identify and develop expertise in new technologies, methodologies, and techniques
+Design and manage market experiments and pilots to test hypotheses
+Lead cross-functional projects from ideation/conception through implementation
+Partner and coordinate with Product, Marketing, Operations, and Information Management to operationalize analytical tools and decision support models
+Mines large data sets using sophisticated analytical techniques to generate insights and inform business decisions.
+Qualifications:
+Competencies typically acquired through a Ph.D. degree (in Statistics, Mathematics, Economics, Actuarial Science or other scientific field of study) and 0-1 year of relevant experience, a Master’s degree (scientific field of study) and 1-3 years of relevant experience or may be acquired through a Bachelor’s degree(scientific field of study) and 3+ years of relevant experience.
+Broad knowledge of predictive analytic techniques and statistical diagnostics of models. Experience in model building required. Experience working with large datasets required.
+Expert skills in statistical and data management software programs (e.g. R, Python, SAS, SQL)
+Ability to communicate with both technical and non-technical audiences including effective presentation skills, building a business case, translating analytic results to usable learnings and actions, and give training to peers and less senior team members
+Ability to operate independently, Strong organizational skills, Time management skills, and decision-making skillsBenefits:We value your hard work, integrity and commitment to positive change. In return for your service, it’s our privilege to offer you benefits and rewards that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+Overview:
+At Liberty Mutual, we give motivated, accomplished professionals the opportunity to help us redefine what insurance means; to work for a global leader with a deep sense of humanity and a focus on improving and protecting everyday lives. We create an inspired, collaborative environment, where people can take ownership of their work; push breakthrough ideas; and feel confident that their contributions will be valued and their growth championed.
+We’re dedicated to doing the right thing for our employees, because we know that their fulfillment and success leads us to great places. Life. Happiness. Innovation. Impact. Advancement. Whatever their pursuit, talented people find their path at Liberty Mutual.
+Job: Analytics
+Primary Location: United States-Washington-SeattleSchedule: Full-timeSalary: $92,000-$120,000Education Level: Bachelor's Degree (±16 years)Travel: Yes, 10 % of the Time"	NA	"$92,000 - $120,000 a year"	2018-10-15	"Seattle%2C+WA"	30

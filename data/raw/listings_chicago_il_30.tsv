@@ -1,0 +1,363 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=49adcb479d6a010a"	"Data Scientist (944)"	"ABC Supply Co. Inc"	"450 reviews"	"Data ScientistSummaryWe are aiming to transform our business with data science, and as a Data Scientist you will be part of a newly created, executive sponsored advanced analytics and data science center of excellence team at ABC Supply that is leading this transformation.You will be responsible for the full lifecycle of data science projects, from analytic question definition, through data gathering, modeling, reporting/visualizationdevelopment, testing, and operational deployment and support iterations in close collaboration with the data science team and broader IT organization. This includes working with business stakeholders to gather objectives and outline project scope, translate into technical designs, finding the right data, and then develop the end user friendly reporting and analytics platform of standard reports and self-service analytics interfaces with agile approach. This role requires a detail oriented, creative data scientist, comfortable working in a collaborative environment and ability to strive in the face of ambiguity and ever-changing priorities.ResponsibilitiesCollaborate on data collection efforts (external API’s, public data sources, etc.) and assist with the data and analytics infrastructure design and maintenance (MS Azure based solutions).Conduct Extensive descriptive analytics on the newly collected data, including visualization development.Connect the dots and use the data to solve real business problems using the right machine learning or statistical modeling techniques.Maintain and development of existing models into production (error handling, testing, etc.)Share your knowledge with the team, and learn more along the way.Skills and QualificationsBS/BA in a quantitative discipline, MS preferred. PHD’s more than welcome.4+ relevant professional analytics/data science experienceDeep understanding and practical experience with a wide range of Machine Learning and Statistical Modeling algorithms/techniques.Practical experience delivering exploratory and long term insights leveraging data visualization tools outside of statistical packages. I.E. Tableau, Power BI, D3.jsExpertise in writing clean efficient, and reproducible R and/or Python code for data cleansing and modelingAbility and passion to learn any new tool/language/algorithmon the fly (this is what you do for fun anyways).Ability to convey complex solutions\models and the value of the information to all levels of the organizationDeep understanding of RDMS and SQL, and meaningful exposure to cloud solutions. Experience with Microsoft Azure cloud solutions preferred.Experience with writing production code and model management concepts preferred.ABC Supply is a 12 time Gallup Great Workplace Award Winner and offers a competitive wage and a great benefit package to eligible associates. If you are seeking a new and exciting opportunity and have the required skills and experience, we may have just the position for you!Equal Opportunity Employer / Drug Free WorkplaceJob Type: Full-time"	"18 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=7c003940763b48e9"	"DATA SCIENTIST"	"Trading Technologies"	"12 reviews"	"We are seeking a strong Data Scientist with a background in computer science as well as either applied math or statistics to join our Chicago team of artificial intelligence system developers. In this role, you can expect to participate in the full lifecycle of data science, including everything from project ideation and data collection through modeling, results presentation and model refinement.
+Responsibilities:
+Program daily in Java and other data science languages, such as R and Scala
+Read and process data from test files or REST endpoints
+Write JUnit tests
+Work in Python, pandas, scikit-learn and utilize data visualization libraries
+Process large CSV and JSON datasets within a platform that uses map-reduce processing pattern, such as Spark, Hadoop, H2O, dask, etc.
+Work with various model types, such as classifier, regression, unsupervised and time-series models
+Test for Gaussian distribution and stationarity, and detect outliers
+Explain and communicate the math and logic of the work to non-technical audiences
+Qualifications:
+Java programming experience is a must, and experience developing multithreaded distributed systems is preferred
+Multi-variable calculus experience and basic linear algebra knowledge including matrix math and solving systems of linear equations
+Familiarity with Markov processes and models
+Experience with Github, Linux and SSH, as well as network analysis and signal processing
+Experience with the H2O.ai platform a plus
+Basic understanding of the trading industry, data security and privacy practices
+Ability to take ownership over work and ask questions as needed
+Strong communication skills with the ability to translate technical explanations to non-technical audiences who may include C-level executives and/or lawyers"	"2 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=49adcb479d6a010a"	"Data Scientist (944)"	"ABC Supply Co. Inc"	"450 reviews"	"Data ScientistSummaryWe are aiming to transform our business with data science, and as a Data Scientist you will be part of a newly created, executive sponsored advanced analytics and data science center of excellence team at ABC Supply that is leading this transformation.You will be responsible for the full lifecycle of data science projects, from analytic question definition, through data gathering, modeling, reporting/visualizationdevelopment, testing, and operational deployment and support iterations in close collaboration with the data science team and broader IT organization. This includes working with business stakeholders to gather objectives and outline project scope, translate into technical designs, finding the right data, and then develop the end user friendly reporting and analytics platform of standard reports and self-service analytics interfaces with agile approach. This role requires a detail oriented, creative data scientist, comfortable working in a collaborative environment and ability to strive in the face of ambiguity and ever-changing priorities.ResponsibilitiesCollaborate on data collection efforts (external API’s, public data sources, etc.) and assist with the data and analytics infrastructure design and maintenance (MS Azure based solutions).Conduct Extensive descriptive analytics on the newly collected data, including visualization development.Connect the dots and use the data to solve real business problems using the right machine learning or statistical modeling techniques.Maintain and development of existing models into production (error handling, testing, etc.)Share your knowledge with the team, and learn more along the way.Skills and QualificationsBS/BA in a quantitative discipline, MS preferred. PHD’s more than welcome.4+ relevant professional analytics/data science experienceDeep understanding and practical experience with a wide range of Machine Learning and Statistical Modeling algorithms/techniques.Practical experience delivering exploratory and long term insights leveraging data visualization tools outside of statistical packages. I.E. Tableau, Power BI, D3.jsExpertise in writing clean efficient, and reproducible R and/or Python code for data cleansing and modelingAbility and passion to learn any new tool/language/algorithmon the fly (this is what you do for fun anyways).Ability to convey complex solutions\models and the value of the information to all levels of the organizationDeep understanding of RDMS and SQL, and meaningful exposure to cloud solutions. Experience with Microsoft Azure cloud solutions preferred.Experience with writing production code and model management concepts preferred.ABC Supply is a 12 time Gallup Great Workplace Award Winner and offers a competitive wage and a great benefit package to eligible associates. If you are seeking a new and exciting opportunity and have the required skills and experience, we may have just the position for you!Equal Opportunity Employer / Drug Free WorkplaceJob Type: Full-time"	"18 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=0fa078abd2679eec"	"Fall Data Science Intern (Python Programming)"	"Uptake"	"6 reviews"	"InternshipWhat We Do
+
+At Uptake, our purpose-built products ingest and analyze sensor and enterprise data, transforming it into actionable insights and immediate outcomes. Together with our customers across a variety of industries, we drive real business value and set new standards for productive, secure, safe and reliable operations. We are based in Chicago, and deeply involved with our community.
+
+Why Work Here
+
+Uptake is a values-driven organization, and we are excited about what we do. We're flexible, honest, hardworking, and collaborative. As a team, we bring our diverse backgrounds, beliefs, and experiences together to solve tough, important problems. We support and challenge one another to bring out the best in each of us, and we might have a little fun along the way. We're also proud to be one of Chicago's best places to work in 2018 according to Forbes and Great Place to Work Institute.
+
+We are lifelong learners, and our Uptake University program offers training and professional development on a wide variety of topics. We also have employee-led community groups including Women@Uptake, Pride@Uptake, Science@Uptake, Parents@Uptake, and many more. Learn more at https://www.uptake.com/careers ( https://www.uptake.com/careers ).
+
+What Data Scientists Do Here
+
+Data science is at the core of what we do at Uptake. We collaborate with engineering, UX, product, and other teams to contribute insights and data science best practices to all parts of the business.
+
+Typical day to day tasks for a data scientist intern (python programming) might include:
+Collaborate with teams to analyze problems
+Learn a new testing framework (like testthat) or data science technique - we continually build our skills and explore new things.
+Build GUI tools that enable others to explore data and conduct statistical analyses
+Build tools to enable other data scientists to scale their knowledge and increase impact
+
+For more on what we look for in data scientists, visit https://upt.ac/16ee15fc ( https://upt.ac/16ee15fc ).
+
+What We Are Looking For
+Passion for data science! We want candidates who love data science and are excited about what they do.
+Some ways previous successful candidates have demonstrated this are:
+Actively writes relevant blog posts and/or articles
+Active participant in relevant online communities
+Recognized via professional or academic awards (example: Most Valuable Employee, scholastic grants)
+Expressing detailed knowledge of and genuine interest in Uptake's unique methods, products, data, and technology within a cover letter.
+Ability to write sophisticated data processing and data analysis code in Python
+Some ways previous successful candidates have demonstrated this are:
+Contributing to influential Open Source python projects like pandas, numpy, mlflow, or airflow
+Describing a sophisticated data processing pipeline they developed that was reused by others within a resume or cover letter
+Made a high quality data science project available in a public forum like GitHub or Kaggle
+Experience communicating effectively with people at all levels of an organization. Our data scientists regularly share complex insights with all kinds of people.
+Some ways previous successful candidates have demonstrated this are:
+Teaching data science to non-data scientists in an academic or professional setting
+Elaborating in a cover letter or resume ways that they have professionally collaborated with others in the organization and the impact that collaboration had on the organizations KPIs
+Bachelor's degree or higher in a quantitative or relevant field
+Candidates must be authorized to work in the US.
+
+Nice to Have
+Internship experience in an analytics focused role
+Experience writing clients for REST APIs
+Experience developing with graphical tools like Qt, GTK+, or OpenGL
+Experience writing production code in one or more of: Ruby, Go, Javascript, C++, C
+Experience working with IoT systems, ranging from DIY home projects to industrial IoT deployments
+Have made substantial contributions to open source projects in the areas of data science or machine learning
+Experience developing software projects with large teams using technologies like; git, mercurial, jenkins, travis, jira, asana, etc.
+Master's degree or PhD in a quantitative or relevant field
+
+Uptake welcomes and encourages applications from all individuals, without regard to any prohibited ground of discrimination, including from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process."	NA	"Internship"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=d6a8b17d24798434"	"Associate Data Scientist"	"Zurich North America"	"684 reviews"	"Zurich North America is looking for a Data Scientist in Deep Leaning for the Predictive Analytics Center of Excellence (CoE) based in our North American Headquarters in Schaumburg, Illinois or in our Jersey City, New Jersey office. In this role you will be responsible for delivering risk insights that improve business profitability and help Zurich customers better understand and protect against risk.Job Qualifications
+Basic Qualifications:
+High School Diploma or Equivalent with experience in Computer Science, Statistics or Mathematics and 2 or more years of experience in transforming data for use in the business analysis area
+OR
+Zurich Certified Insurance Apprentice including an Associate Degree in Computer Science, Statistics or Mathematics and 0 or more years experience in transforming data for use in the business analysis area
+OR
+Bachelor's Degree in Computer Science, Statistics or Mathematics and 0 or more years experience in transforming data for use in the business analysis area
+Experience applying data transformation techniques such as exact and probabilistic matching methods; fuzzy matching, text mining and data reduction
+Knowledge of statistical and predictive modeling techniques, such as machine learning, decision trees, probability networks association rules, clustering, regression, GLMs and neural and their application to business decisions networks
+Preferred Qualifications:
+Master's Degree
+Strong verbal and written communication skills Proficiency in Python
+Experience with designing and implementing Natural Language Processing (NLP) solutions including strategy and implementation
+Experience working in Big Data Platform
+Experience in Machine Learning
+Some course work or exposure in deep learning
+Experience understanding business problems and structure analytical approaches to solve them
+Experience building and implementing predictive models and other analytical solutions
+Additional InformationImagine working for a company that truly cares about their employees, customers, stakeholders, and communities they serve. Imagine working for a values-driven organization that has the ambition and desire to be the best global insurance provider in the world. Zurich is that place where 55,000 employees across approximately 200 countries and territories are all focused on helping people and helping companies protect what is truly most important to them. We are a values-driven organization that takes pride in the work that we do every day and we have the ambition to be the best global insurer in the world.EOE disability/vetsZurich does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resume will become the property of Zurich American Insurance. If you are a preferred vendor, please use our Recruiting Agency Portal for resume submission.Primary Location
+: United States-Illinois-Schaumburg
+Other Locations
+: United States-New Jersey-Jersey City
+Schedule
+: Full-time
+Travel
+: Yes, 5 % of the Time
+Relocation Available : Yes
+Job Posting
+: 09/19/18
+Unposting Date
+: Ongoing"	"26 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=d2789f368393f951"	"NA"	"NA"	"NA"	"NA"	"NA"	"NA"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=106556d7a3267686"	"Jr. Data Scientiest"	"State of Illinois"	"400 reviews"	"Summary
+The Data Scientist is accountable for using data to make decisions, which includes building predictive models and help in developing new machine learning techniques that enable SOI and its agencies to make better decisions to achieve its goals. The Data Scientist should demonstrate Analytic Agility, the ability to quickly learn new modeling/machine learning techniques, programming languages, and see how these ideas can integrate to optimize the business. This role will also manage projects of small to medium complexity.ResponsibilitiesResearch and develop statistical learning models for government/public sector use cases
+Data mining using state-of-the-art methods
+Extending one agency's data with other agency's or external sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating anomaly detection systems and constant tracking of its performance
+Uses best practices, with limited coaching, to develop statistical, machine learning techniques to build models that address business needs
+ Minimum Requirements: Basic Qualifications - RequiredBachelor s degree in a quantitative field such as statistics, mathematics, computer science, physics, finance or economics
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Trees, etc.
+Ability to code and develop prototypes in languages such as Python, R, Scala preferred
+Extensive background in data mining and statistical analysis
+Collaborates with the team in order to improve the effectiveness of business decisions through the use of data and machine learning/predictive modeling
+Innovates on projects by using new modeling techniques or tools
+Experience with data visualisation tools, such as D3.js, GGplot, etc.
+Reviews and evaluates on appropriateness of techniques, given current modeling practices
+Experience in using statistical modeling and/or machine learning techniques to build models that have driven company decision making preferred
+Experience in managing and manipulating large, complex datasets
+Knowledge of advanced modeling techniques
+Ability to analyze and interpret moderate to complex concepts
+Ability to provide written and oral interpretation of highly specialized terms and data, and ability to present this data to others with different levels of expertise
+Qualifications - DesiredMaster's degree in computer science or statistics desired
+Experience in working with statistical software such as SPSS, MatLab
+Time management and organizational skills
+Ability to provide written and oral interpretation of highly specialized terms and data, and ability to present this data to others with different levels of expertise
+Maximizes personal professional development to ensure continuation of a personal contribution to the team
+ Work Hours & Location/Agency Contact: Work locationThis position is based in Chicago; occasional overnight travel to Springfield may be required.
+Hours are 8:30am to 5:00pm Monday through Friday.
+SALARY/COMPENSATION AND POSITION CLASSIFICATION
+Salary and position classification will be determined based on the level of experience when a job offer is made. Individual salary offers are computed based on an applicant's current position and experience level in comparison to the posted title as well as internal equity of staff in the organizational unit.
+ How to Apply: Submit resumes by mail, fax, or e-mail.
+Bureau of Employee Services
+Kelly Kindred
+100 South Grand Ave East, 3rd floor
+Springfield, IL 62762
+217-557-0347
+FAX: 217-524-2116
+Email: DHS.HiringUnit@illinois.govNON DISCRIMINATION POLICY
+Equal employment opportunity is the policy of GOMB. All employees hired and promoted have been and will continue to be selected from all candidates on the basis of qualifications necessary to perform the job well. The GOMB does not discriminate against any person, employee, or job applicant on the basis of race, color, religion, sex, age, sexual orientations, national origin, disability, marital status, or status as a disabled veteran of the Vietnam era, in accordance with applicable laws. This policy applies to all recruiting, hiring promotions, layoffs, compensation, benefits, terminations and all other terms and conditions of employment."	NA	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=e93b64a10314c20d"	"Cyber Security Data Scientist"	"Bank of America"	"22,687 reviews"	"Job Description:This role will involve working directly with security operators and leaders throughout GIS to develop solutions to complex predictive analytic problems involving diverse input data sources including real-time data. This person will be expected to work alongside a team of Hadoop engineers to develop theories using security data, analyze the requirements of our stakeholders and provide expertise in a fairly complex technical environment.
+The ideal candidates should be comfortable during technical demonstrations and be able to discuss the specifics of machine learning algorithms and preprocessing methods. The candidate will be supporting our tactical hunt team functions by providing expertise in exploratory data analysis, pattern discovery and advanced analytical techniques (e.g. neural networks, deep learning) to anticipate or detect undiscovered threats.
+The overall role will support strategic cyber risk analysis discussions through repeatable, data-driven, quantitative methods using all available data sources. We need candidates who can identify data gaps and help drive data strategy within GIS Data Services.
+Success for this role will be achieved by identifying previously undiscovered intrusions or by improving the bank’s security posture or the measurement thereof. The goal is to create new strategic and tactical value from security-relevant data through the dedicated exploration, analysis and investigation of that data using leading edge analytic technologies and techniques.
+Enterprise Role Overview:
+Senior contributor, with accountability for researching, designing, and engineering information security (authentication, perimeter security, security & compliance tools, etc.) & directory technology systems (software & hardware) and security policies / procedures. Utilizes in-depth technical / project knowledge and business requirements to design secure solutions to meet customer / client needs while protecting the Bank's assets. Serves as organization spokesperson on specialized projects. Acts as a prime consultant on large projects that affect the organizations long-term goals and objectives. Exercises independent judgment in methods, techniques, and evaluation criteria for obtaining results. Provides direction and guidance to others in the group. Works under minimal supervision, with general guidance from Technical or Senior Technical Manager.
+Required Skills3+ years of real world business experienceEducational background in Mathematics, Statistics, Computer Science, Information Science or EngineeringExcellent organizational, writing and interpersonal skillsExperience with programming languages such as Java, Python, Perl or C++Understanding of the Hadoop platform (e.g. MapReduce, Hive, Impala, Spark, Flume, Kafka) and related Big Data technologiesKnowledge of R or SASFluency with SQL on one or more relational databases such as Microsoft SQL Server, MySQL, Postgres or OracleShift:
+1st shift (United States of America)Hours Per Week:
+40"	"13 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=5e13876aa1153bbb"	"Data Scientist"	"Motorola Solutions"	"2,524 reviews"	"28Labs is the Chief Technology Office and innovation engine for Motorola Solutions. We are user-focused and outcome-driven, identifying problems and creating solutions based on research and engagement with our customers.
+Considering our customers' unique \"jobs to be done\" is a foundational principle of 28Labs. Based on their needs, we create solutions by applying our experience in user experience and design, advanced wireless communications and solutions, cloud & mobile application architecture, cybersecurity, user & human factors research, imaging, analytics, and artificial intelligence (AI).
+Software and hardware technology and platform solutions developed by 28Labs form the basis of many products and solutions offered by Motorola Solutions. We also manage the Motorola Solutions Venture Capital investments and intellectual property across the company.
+This candidate will work as part of the Data Science & AI Team in 28Labs (CTO).
+Job Description
+***To be considered for the role, please submit a cover letter with a description of the most interesting data analysis you’ve done, key findings and its impact. Also include a link or attachment of code you’ve written related to data analysis.
+Motorola Solutions’ innovations, products and services play essential roles in people’s lives. Our end-to-end suite of software solutions help our customers answer thousands of emergency calls and text messages, and process video, disparate evidence and records. Making sense of all this data and providing insights that potentially help save lives could be your job. With all this data, we’re looking for talented data scientists to join the Data Science team to help us better understand our users and build better products. If you are data curious, excited about deriving insights from data, and motivated by having an impact on the business, we want to hear from you.
+The candidate will join a team of data scientists and engineers in 28Labs at Motorola Solutions. You will collaborate with a multi-disciplinary team of scientists, engineers and product stakeholders on a wide range of problems. This position will bring analytical rigor and statistical methods to the challenges of measuring quality, improving our products, and understanding the behavior of end-users to help them succeed in moments that matter. We look for the most advanced problems solvers - like you - to help us create technologies that rise to the challenges of our customers.
+You Will:
+Work closely with product and business teams to identify important questions and answer them with data
+Design core metrics that serve as the North Stars for team efforts and model trade offs across product areas
+Apply statistics, modeling, and ML to improve the efficiency of systems and relevance algorithms across our suite of solutions for public safety and commercial customers
+Develop, and improve algorithms that help our systems make recommendations based on predictive models under given constraints while optimizing key performance indicators
+Communicate proposals and results in a clear manner backed by data and coupled with actionable conclusions to drive business decisions
+The candidate will be a part of our Data Science & AI team in 28Labs at Motorola solutions in the role of a hands-on data scientist responsible for the entire end to end process of data exploration, development, implementation, and maintenance of business-changing models and algorithms. Unlike similar roles in the industry, the result of your work has the potential to impact the entire lifecycle of the public safety workflow impacting people's lives in moments that matter.
+Required Skills:
+2+ years experience working with and analyzing large data sets to solve problems
+A MS or PhD in a quantitative field (e.g., Economics, Statistics, Sciences, Engineering, CS)
+Expert knowledge of a scientific computing language (Preferably Python or R) and SQL
+Strong knowledge of statistics and experimental design
+Strong written and oral communication skillsDesired Skills:
+Prior experience with data-distributed tools (Spark, Hadoop etc)
+Experience with machine learning on large datasets (deep learning and experience with Tensorflow, Keras etc. would be a plus)
+Experience with a variety of NLP methods for information extraction, topic modeling, parsing, and relationship extraction would be a plus
+Experience with Tableau or similar visual analysis tool, developing visually compelling interactive dashboards
+Activity in the Open Source community is a strong plusBasic Requirements
+2+ years experience working with and analyzing large data sets to solve problems
+A MS or PhD in a quantitative field (e.g., Economics, Statistics, Sciences, Engineering, CS)
+Expert knowledge of a scientific computing language (Preferably Python or R) and SQL
+Job ID7250BR
+Travel Percentage
+Under 10%
+Relocation ProvidedNone
+Position Type
+New Grad
+State/Region/ProvinceIllinois
+EEO Statement
+Motorola Solutions is an Equal Opportunity Employer committed to no discrimination because of race, color, creed, marital status, age, religion, sex, national origin, citizenship, sexual orientation, gender identity or expression, genetic information, disability, protected veteran, or any other legally protected characteristic."	NA	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=2fabf12f15279824"	"Senior Data Scientist"	"Trunk Club"	"89 reviews"	"Working for Trunk Club
+----------------------
+
+When you join Trunk Club, you join the Nordstrom family. Our fast-paced and entrepreneurial environment is paired with the strong history and experience of a retail legacy. We have access to some of the greatest minds in retail and technology and are constantly creating innovative strategies to develop the ultimate apparel solutions. We welcome your adaptability, your curiosity, and your passion to contribute to our unparalleled shopping experience!
+
+Who We Are
+----------
+
+At Trunk Club, we develop models that enable the business to make data-driven decisions, from whom marketing targets for re-engagement credits to which merchandise should be shoppable for a given customer. Our stack makes it easy and painless to turn an algorithm into an API and run follow-up A/B tests using a range of multivariate models at your disposal. Every team relies not only on the data we collect, but more importantly in the clever ways that present it to every in our experience.
+
+Data Science helps drive Trunk Club. Every member helps inform the company on the best ways to grow and change. You will have autonomy to collaborate with every team and be directly connected to decision makers without bureaucracy.
+
+What You'll Do
+--------------
+Developing and maintaining Machine Learning infrastructure that powers our ranking models, member apps, inventory classification, etc. Our preferred language is Python and you'll regularly be working with real-time information from Kafka streaming systems.
+Researching, developing, and implementing predictive algorithms using various regression techniques, deploying them as real-time APIs in our micro-service infrastructure.
+Utilizing Natural Language Processing to understand text content across products, including reviews and interactions between users, stylists, and products.
+Using Computer Vision (OpenCV) for image content analysis of novel and existing clothing items: classification, quality, attractiveness, similarity, extraction of features for ranking models.
+Identifying suspicious transactions and malicious users for Fraud. Can you beat SaaS fraud platforms? We're betting so.
+Determining the optimal inventory levels to help us effectively manage inventory needs while meeting revenue goals.
+Using a range of clustering techniques to identify latent clusters of customers based on purchases, demographics, styles, etc.
+Brainstorming new tools to help minimize the risk of experimenting with new algorithms.
+
+What Your Background May Look Like
+----------------------------------
+Graduate degree in quantitative discipline with 2-3 years of relevant industry experience
+Experience building and deploying Machine Learning models, and providing vision within a team environment.
+Strong programming ability in Python with Jupyter, Pandas, and sklearn.
+Proven track record working hands-on with data end-to-end.
+Demonstrated success visualizing data and explaining complex concepts through expressive communication.
+
+Who You Are
+-----------
+An evangelist. You love what you do and have a knack for communicating technical jargon to any audience.
+A learner. You have an insatiable thirst for knowledge and greater understanding.
+A pragmatist. Your goal is to create useful products, not build technology for technology's sake.
+An entrepreneur. You're truly invested in the success of the business.
+
+How We Work
+-----------
+With others. We collaborate cross-functionally to solve problems and deliver the best products for our customers.
+With transparency. We have an open team room. No cubicles, no private offices.
+With agility. We don't believe in following a process for process's sake. We ship frequently and focus on delivering incremental value.
+With open minds. We are committed to building a diverse team of people with unique perspectives. This encourages a healthy and inclusive environment that builds a more sustainable, successful company.
+With pride. We value our people most of all. We invest in ourselves by applying our own strengths and interests to company needs.
+
+A Few of Our Perks
+------------------
+Lunch-and learns
+Annual stipend for continuous education
+Tech all-hands lunches every other Friday
+Hack days
+Team outings
+Nordstrom discount
+Flexible work environment
+Social environment with built-in bars
+
+#LI-LF1"	"15 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=ff25fe1cb122d246"	"c(\"Data Scientist\", \"\nResponsibilities\", \"\nQualifications\")"	"Capax Global LLC"	"-"	"Do you want to work at the forefront of artificial intelligence and machine learning? CapaxGlobal has a significant data analytics and management presence across many industries. With that footprint comes massive amounts of data that can inform us about markets and ways to improve our client business practices. This position will be part of the Data Science and Machine Learning team and will bring strong quantitative skills to our data science capabilities. You work in a multidisciplinary team exploring, connecting and mining internal data sources and will develop data models using algorithms for pattern detection and forecasting. In this position you will be managing projects that use advanced analytics techniques, such as optimization, forecasting, machine learning, predictive analytics, and statistical analysis, to develop solutions that help deliver significant value to a variety of Capax’s partners and clients. Candidates will be exposed to a wide spectrum of high visibility projects ranging from sales effectiveness, competitive intelligence, fraud detection, time series forecasting, operational efficiency, sourcing and procurement, supply-chain optimization and financial analysis.
+Location: Chicago IL | Philadelphia PA | RemoteTravel: Up to 30%
+Skills
+Responsibilities
+Develop and code models by applying algorithms to large structured as well as unstructured data sets for our more complex projects. Develop visualization products to share analysis across a large group of business users.
+Design strategies and propose algorithms to analyze and leverage data from existing as well as new data sources.
+Continuously seek out industry best practices and develop skills to create new capabilities for data analytics at clients to improve business decisions.
+Network with business stakeholders to develop a pipeline of data science projects aligned with business strategies. Translate complex and ambiguous business problems into project charters clearly identifying technical risks and project scope.
+Participate on cross-disciplinary project team of database specialists, data scientists, and business subject-matter experts to complete project deliverables.
+Qualifications
+Bachelor’s degree from an accredited college/university in Computer Science, Computational Linguistics, Statistics, Mathematics, Engineering, Bioinformatics, Physics, Operations Research or related fields.
+Master’s degree in data science, applied mathematics, or bioinformatics preferred.
+Minimum 6 years relevant work experience (if Bachelor’s degree) or minimum 3 years relevant work experience (if Master’s degree) with a proven track record in driving value in a commercial setting using data science skills.
+In-depth knowledge of various modeling algorithms e.g. Linear, GLMs, trees based models, neural networks, clustering, PCA, and time series models.
+Proficiency in R (e.g. ggplot2, cluster, dplyr, caret), Python (e.g. pandas, scikit-learn, bokeh, nltk), Spark – MLlib, H20, or other statistical tools.
+Minimum 2 years experience working in a data science or machine learning environment.
+In-depth knowledge of databases, data modeling, Hadoop, and distributed computing frameworks.
+Experience in software development environment, Agile, and code management/versioning (e.g. git).
+Strong EDA skills and experience/knowledge.
+Ability to understand complex and ambiguous business needs and applying the right tools and approaches.
+Collaborative team player.
+Excellent communication skills, both written and verbal.
+Experience developing and testing machine learning and/or statistical projects.
+Strong presentation skills. Ability to present statistical results to lay persons in an easy to understand way.
+We are looking for all levels of data science experience, jr through sr."	NA	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=3a24914f3c615c54"	"Data Scientist, Magellan Presales"	"OpenText"	"263 reviews"	"As the Information Company, our mission at OpenText is to create software solutions and deliver services that redefine the future of digital. Be part of a winning team that leads the way in Enterprise Information Management.
+The opportunity:
+The Data Scientist is a core member of the OpenText Magellan team, working together to develop revenue opportunities within the OpenText customer and prospect base. The position will involve analyzing complex customer requirements to provide a compelling, unique value proposition to the customer, which leverages one or more solutions from the OpenText EIM suite.
+The Data Scientist will be mostly responsible for building machine-learning models using Jupyter Notebook programming in Python and R. The Data Scientist will work with the Magellan team to help the customer visualize the value proposition by building out customized demonstrations of OpenText Magellan solutions and delivering technology and business level presentations to technical, business and management-level audiences.
+You are great at:
+Understanding of statistical and predictive modeling concepts and
+recommendation and optimization algorithms.Working on complex problems that may require research and deep knowledge
+of the solution and address broad design issues for future projects.Providing technical leadership to deliver successful solutions to large
+corporations and government agencies.Applying both technical and business skills to create and build solutions to
+meet the customer’s business requirements.Developing best practices for implementation projectsArtificial Intelligence and Deep learning/Neural Networks knowledge, creating
+rich, meaningful data visualizations.
+What it takes:
+BS degree in Computer Science, Information Science, Engineering, Statistics, Mathematics or related field degree.At least 4 years of professional experience in Analytics/Data Science.Experience with Jupyter NotebookExpertise on Spark in general and MLlib specifically (PySpark, Scala, SparkR)Programming skills and advanced knowledge of Python and R.Strong written and verbal communication skills.Strong analytical and creative mindset.Experience with SQL, ETLs and data structures.Experience working with large, multi-dimensional real datasets and real business projects.Able to work in a team environment.Willing to travel. In some cases, travel could be international.Experience with Java will be appreciated.Deep learning/Neural Networks knowledge will be appreciated.Experience creating rich, meaningful data visualizations will be appreciated.Knowledge/Experience with big data technologies will be appreciated.Experience with business intelligence tools will be appreciated.Experience analyzing unstructured content will be appreciated.Experience with text mining and analyzing unstructured data."	NA	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=f6404d261e57b2ca"	"Data Scientist"	"Pegasus Knowledge Solutions"	"-"	"ContractData Scientist Role
+Required Skills : Python, Model development
+experience, Supply Chain forecasting, Machine Learning
+Nice to have : JDA Software
+Description: Client is is looking to update how
+its does supply chain forecasting. Developing a forecast system that can be
+used for quick service restaurants. Looking at making the current model more
+granular so that it works at the restaurant level, faster to calculate so that
+is reacts to changes faster and with less manual overrides.
+We are sourcing for a Data Scientists with
+experience in supply chain planning methodologies to work on how they should
+model, this either using based on revenue, unit sales, or menu items. Candidate
+should be able to assess how many models would be needed."	NA	"Contract"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=f5968277b9e13498"	"Data Scientist"	"Crowe"	"181 reviews"	"Given substantial growth and impact at Crowe, the machine learning team has formed into an official unit, Advanced Data Science (ADS), which is responsible for all machine learning and artificial intelligence throughout the firm. This team works on a wide variety of projects utilizing numerous areas of machine learning, including: supervised regression/classification, unsupervised learning, anomaly detection, NLP, reinforcement learning, deep learning, forecasting, etc.
+
+Leverage large sets of structured and unstructured data to develop tactical and strategic insights. Collaborate with analytic and data teams to set objectives, approaches, and work plans. Research and evaluate new analytical methodologies, approaches, and solutions. Develop and validate statistical forecasting models and tools. Interpret and communicate analytic results to analytical and non-analytical business partners and executive decision makers."	NA	"character(0)"	2018-10-15	"Chicago%2C+IL"	30
+"https://www.indeed.com/viewjob?jk=2fabf12f15279824"	"Senior Data Scientist"	"Trunk Club"	"89 reviews"	"Working for Trunk Club
+----------------------
+
+When you join Trunk Club, you join the Nordstrom family. Our fast-paced and entrepreneurial environment is paired with the strong history and experience of a retail legacy. We have access to some of the greatest minds in retail and technology and are constantly creating innovative strategies to develop the ultimate apparel solutions. We welcome your adaptability, your curiosity, and your passion to contribute to our unparalleled shopping experience!
+
+Who We Are
+----------
+
+At Trunk Club, we develop models that enable the business to make data-driven decisions, from whom marketing targets for re-engagement credits to which merchandise should be shoppable for a given customer. Our stack makes it easy and painless to turn an algorithm into an API and run follow-up A/B tests using a range of multivariate models at your disposal. Every team relies not only on the data we collect, but more importantly in the clever ways that present it to every in our experience.
+
+Data Science helps drive Trunk Club. Every member helps inform the company on the best ways to grow and change. You will have autonomy to collaborate with every team and be directly connected to decision makers without bureaucracy.
+
+What You'll Do
+--------------
+Developing and maintaining Machine Learning infrastructure that powers our ranking models, member apps, inventory classification, etc. Our preferred language is Python and you'll regularly be working with real-time information from Kafka streaming systems.
+Researching, developing, and implementing predictive algorithms using various regression techniques, deploying them as real-time APIs in our micro-service infrastructure.
+Utilizing Natural Language Processing to understand text content across products, including reviews and interactions between users, stylists, and products.
+Using Computer Vision (OpenCV) for image content analysis of novel and existing clothing items: classification, quality, attractiveness, similarity, extraction of features for ranking models.
+Identifying suspicious transactions and malicious users for Fraud. Can you beat SaaS fraud platforms? We're betting so.
+Determining the optimal inventory levels to help us effectively manage inventory needs while meeting revenue goals.
+Using a range of clustering techniques to identify latent clusters of customers based on purchases, demographics, styles, etc.
+Brainstorming new tools to help minimize the risk of experimenting with new algorithms.
+
+What Your Background May Look Like
+----------------------------------
+Graduate degree in quantitative discipline with 2-3 years of relevant industry experience
+Experience building and deploying Machine Learning models, and providing vision within a team environment.
+Strong programming ability in Python with Jupyter, Pandas, and sklearn.
+Proven track record working hands-on with data end-to-end.
+Demonstrated success visualizing data and explaining complex concepts through expressive communication.
+
+Who You Are
+-----------
+An evangelist. You love what you do and have a knack for communicating technical jargon to any audience.
+A learner. You have an insatiable thirst for knowledge and greater understanding.
+A pragmatist. Your goal is to create useful products, not build technology for technology's sake.
+An entrepreneur. You're truly invested in the success of the business.
+
+How We Work
+-----------
+With others. We collaborate cross-functionally to solve problems and deliver the best products for our customers.
+With transparency. We have an open team room. No cubicles, no private offices.
+With agility. We don't believe in following a process for process's sake. We ship frequently and focus on delivering incremental value.
+With open minds. We are committed to building a diverse team of people with unique perspectives. This encourages a healthy and inclusive environment that builds a more sustainable, successful company.
+With pride. We value our people most of all. We invest in ourselves by applying our own strengths and interests to company needs.
+
+A Few of Our Perks
+------------------
+Lunch-and learns
+Annual stipend for continuous education
+Tech all-hands lunches every other Friday
+Hack days
+Team outings
+Nordstrom discount
+Flexible work environment
+Social environment with built-in bars
+
+#LI-LF1"	"15 days ago"	"character(0)"	2018-10-15	"Chicago%2C+IL"	30

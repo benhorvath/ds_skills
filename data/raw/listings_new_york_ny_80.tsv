@@ -1,0 +1,368 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=aea9fe0330576ef8"	"Data Scientist"	"Fora Financial LLC"	"20 reviews"	"Fora Financial, located in NYC, is a leading financial services company providing working capital to small and mid-size businesses nationwide.
+Established in 2008, we support small businesses in need of financing to sustain or grow their enterprise by providing innovative, customized, and flexible working capital solutions. We operate through a consultative approach, listening to customers and providing what best meets their needs in an ever-changing financial market. To date, Fora Financial has funded over 22,000 individual transactions to more than 15,000 unique customers. The company has funded over $750 million in working capital solutions for small businesses since its inception.
+A Day in the Life of a Data Scientist:
+Build predictive models including but not limited to credit risk. fraud, response, and offer acceptance propensity
+Perform through testing and validation of models and support various aspects of the business with data analytics
+Identify new data sources/patterns that add significant lift to predictive modeling capabilities
+Conduct analysis and turn insights into actionable changes for predictive models or policies
+Develop analytics and advanced visualization to assist with portfolio surveillance. Typical functions are loss forecasting, mix management, risk appetite management, collections strategy, and reporting related to KPIs that affect portfolio surveillance such as non-performance, loss rates and loss severity
+Partner with IT to integrate and productionize new data sources for modeling use
+What You Have:
+B.S. degree or higher in Statistics, Applied Math, Computer Science, Engineering or other quantitative program
+3 years minimum experience with credit risk modeling; 5 years minimum preferred
+Proven track record of building new models and improving existing models
+Deep understanding of consumer credit report variables/attributes at both summary and tradeline level
+Experience with small business lending and portfolio management is a plus
+Passionate about solving problems with data and high level of intellectual curiosity
+Thorough understanding of statistical modeling techniques
+Proficiency in at least one of the following languages: R, SAS, SQL, Python
+Highly motivated to work on multiple projects in parallel and team player with a start up spirit
+Solid written and oral communication skills and ability to share findings with non-technical audienceThe Benefits of Working for Fora Financial:
+A good work/life balance
+Medical, Dental, Vision Coverage
+401K Match
+Life Insurance at No Cost to Employees
+Generous Time Off Plan Including Rollover Vacation Days
+Commuter Benefits
+Health Care and Dependent Care Flexible Spending"	"27 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=aa89e9e6cb5efc1d"	"Data Scientist, Markets Research"	"Spotify"	"35 reviews"	"We seek an outstanding Data Scientist to join our Markets Research team in New York. This individual will be responsible for partnering with local business operations teams to drive strategic decision-making across the globe. You will study user behavior, market dynamics, and content strategies, providing data and insights that will influence strategic direction. Above all, you will be at the nexus of data science and business at one of the most innovative companies in the world.
+
+In addition to possessing strong technical background of his/her own, the ideal candidate will be a natural communicator who is able to explain complex statistical frameworks to non-technical stakeholders all over the world. Accompanying this broad set of responsibilities is exposure to many departments, as well as senior management, at Spotify.
+What you’ll do:
+Productize day-to-day analytics and insights support for Spotify’s Markets Operations team.
+Develop a robust body of knowledge around each of Spotify’s key markets to proactively address business questions and drive strategy.
+Work closely with cross-functional teams of analysts, product owners, marketers, designers, and others across the company who are responsible for driving results in local markets.
+Support Markets leadership with research on key business initiatives and challenges.
+Who you are:
+Degree in Computer Science/Engineering, Mathematics, Statistics, Economics, or another quantitative field.
+3-5 years of experience, preferably at at least one company with a matrix organizational structure.
+Excellent communication and stakeholder management skills.
+Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+Familiarity with big data processing frameworks like Hadoop or Spark is a plus.
+Ability to converse in two or more languages is a plus.
+Comfort operating independently in a fast-paced work environment."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=b2abc46ad91c69db"	"c(\"Data Scientist\", \"Responsibilities\", \"Requirements\")"	"Reorg Research"	"-"	"Reorg provides breaking news and market-moving intelligence along with cutting-edge technology and data for hedge funds, investment banks and law firms. We are changing the way that professionals access opaque or complex information, and we are always looking for bright minds to join us on that mission.
+Reorg is one of the fastest growing start-ups in NYC and we are changing the way professionals access and understand complex information and data in their daily lives. In addition to being one of leading emerging platforms for financial intelligence, Reorg consumes numerous data feeds to help drive our editorial process and provide better access for our customers. With the ever-increasing size of our data and our goal to expand, develop, and refine our data sets and information streams, we are looking for a passionate individual to take our technology offering to new heights. Our goal is to build tools, systems, and models that will extract relevant, meaningful, and actionable information from our data sets with the goal to make our customers and our internal stakeholders better at their jobs. We believe that by combining very powerful technologies with sophisticated business professionals we can unlock billions of dollars of value for our users across a wide variety of job functions.
+Responsibilities
+Build a foundation of state of the art technical and scientific capabilities to enhance our cutting edge financial intelligence
+Propose, build, and execute various data science models to leverage existing data to improve business and create new business avenues utilizing unstructured data
+Work on the complex problems at the intersection of finance and technology
+Collaborate with the product and technology teams to contribute to the advanced data analytics and product development efforts
+Apply Data Science principles to solve practical, real world problems
+Requirements
+M.S. in a quantitative field
+1+ years of professional experience as a Data Scientist
+NLP experience is a must
+Experience with unstructured text data and performing tasks such as text mining, sentiment analysis, language modeling, classification, and information retrieval tasks
+Proficient in R and Python
+Familiar with SQL and NoSQL
+Reorg provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Reorg complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=a2f7a999c809ec85"	"Data Scientist"	"Vettery"	"-"	"$102,000 - $130,000 a year (Indeed Est.) Here's the gist:
+Vettery is fundamentally changing the way people hire and get hired. Leveraging machine learning models that track real-time data, monitor trends and predict hiring behavior, we're able to help companies grow their teams with more accuracy, speed, and compatibility. We're currently working with over 8,000 companies of all sizes, ranging from Fortune 500 giants to startups based out of co-working spaces.
+
+The focus of the data science team is digitizing recruiting - from candidate sourcing, to profile \"vetting\" and curation, to making the best matches between candidates and companies. Vettery data scientists work on decision support, product optimization, and operation scaling projects across these areas. Vettery is growing quickly and this role has the potential for huge impact on our trajectory. You'll be reporting directly to our VP/Head of Data Science and working closely with the product and engineering teams. The ideal candidate is a critical thinker and a good communicator who excels in a fast-paced environment. Get in on the ground floor of our expanding data science team!
+Who you are:Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative field.
+2+ years of industry experience delivering and scaling successful and innovative machine learning products (e.g. recommendation engines, experimentation systems).
+Track record of success working both independently and with key stakeholders to identify and solve data science problems.
+Strong skills in statistical languages (e.g. Python/R) and querying languages (e.g. SQL).
+Experience with NLP a plus! (but not required)
+With the above said, we always encourage people of all backgrounds and experiences to apply. We understand that job listings don't always allow your unique work history to shine so we invite you to show us what you know!
+What you'll do:Move quickly to deliver amazing data science products, developing creative solutions to our biggest data science and engineering challenges
+Build machine learning infrastructure and models (e.g. recommendation engines, statistical models, NLP engines) that drive activity on our platform, scale our business, and enhance the user experience.
+Collaborate with engineering and product leaders, as well as the co-founders, to frame and tackle a problem, both mathematically and within the business context
+Communicate rationale and findings from analyses to facilitate operational decisions
+Design and track experiments for data science products as well as analyses throughout the organization
+In short, own all phases of the data science product lifecycle (exploratory data analysis, model development, model productionizing, rollout, and evaluation)
+Benefits:Competitive salary
+Open vacation & sick time
+Medical, vision, and dental insurance
+Apple laptop computer
+Frequent team outings, lunches, and team building events
+A beautiful office located in a sunny corner in the Flatiron district, recently named one of Crain's 100 Best Places to Work ( http://www.crainsnewyork.com/article/20170928/news/170929887/introducing-crains-best-places-to-work-in-new-york-city-in-2017-and-be-sure-to-return-for-the-rankings-in-december ) in New York City
+Lots of free food: stocked kitchen + beverages
+"	NA	"$102,000 - $130,000 a year (Indeed Est.) "	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=67f0ba6f65a810f5"	"Data Scientist"	"Blackboard Insurance"	"-"	"We’re looking for a rogue Data Scientist who would push the boundaries of applying cutting-edge scientific methods and drive the development of innovative data-driven solutions within the insurance industry.
+
+But first, get to know us:
+
+We are Blackboard InsuranceSM: a group of tech-forward, seasoned insurance experts ready to make a real change in our industry. We believe there’s a better way to do commercial insurance – a way that starts with a clean slate, free from inefficiency and outdated technology. We’re building a state-of-the-art, tech-enabled platform that delivers faster underwriting and claims services, giving brokers and companies more time to focus on what’s important: building their businesses. If you’re ready to join the revolution, and work obsessively with us to make insurance better, faster, and more efficient, then come join us.
+We know this opportunity and environment won’t be right for everybody. But please get in touch if you have:
+Ph.D. in a scientific discipline (e.g., Applied Statistics/Mathematics, Computer Science, Engineering, or Physics).
+3+ years industry experience post PHD
+Scientific expertise and applied experience in Machine Learning.
+Foundational knowledge of Natural Language Processing.
+Knowledge of advanced statistical theories, methodologies, and inference tools (e.g., Bayesian inference, hierarchical models, deep learning, Gaussian processes, and causal inference).
+Advanced programming skills in Python and/or R (and their related data processing, Machine Learning, and visualization libraries).
+Practical experience in preparing data for Machine Learning.
+The ability to work independently, anticipate problems, and forge a path into uncharted territory.
+Excellent (written and oral) communication skills.
+As a Blackboard Data Scientist, here are some of the things you will do:
+Provide innovative solutions for business problems developed using rigorous scientific approaches.
+Use data (including third party data) to fuel automation and decisions within our company.
+Develop and employ AI algorithms that can find (predictive) patterns in large multi-modal data.
+Work in highly cross-functional and collaborative teams together with developers, designers, analysts, underwriters and claims adjusters.
+Take ownership of development and implementation of ideas and solutions.
+As a member of the Blackboard Insurance team you will enjoy the thrill of turning the world ofinsurance on its head as well as:
+A competitive salary.
+401(k) employee matching program.
+Medical, dental, vision, and life insurance.
+Pre-tax commuter benefits.
+Unlimited vacation days.
+Casual dress code (jeans are welcome).
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=fbdba645073afe61"	"Data Scientist"	"Dataminr"	"3 reviews"	"Type: Full Time
+Min. Experience: Experienced
+Who we are:
+We are Dataminr, the leading company that turns social media into real-time, actionable alerts. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the news, finance, public sector and corporate security industries.
+
+We are one of the most exciting companies to work for and have been referred to as the \"super tool of journalists and hedge funds\" while also receiving numerous accolades from professionals in both the corporate security area and public sector. We've been named to CNBC's Disruptor 50 list in 2014 and 2016, the Forbes FinTech 50 list in 2016, added to the AlwaysOn Global 250 Top Private Companies list and received an invitation to speak at the World Economic Forum.
+
+Headquartered in New York City and nearing 400 employees, Dataminr provides a challenging and dynamic environment where everyone feels that they have the freedom to be innovative, impactful and influential. Our culture promotes team interaction, work-life balance and the sharing of information and ideas because it empowers us to do our best work and have fun. If you want to be a part of the most interesting and exciting high-growth tech company in New York, please keep reading!
+Who you are:
+You're a dedicated Data Scientist who wants nothing more than to help us sort, analyze and deliver relevant information from terabytes of unstructured data in the social media space. You will build machine learning models to transform social media feeds into actionable items. You will also work with engineers, product managers and other teams to solve challenging problems with your data science skills.
+
+Desired Skills & Experience
+Ph.D. in Computer Science, Math, Statistics or Machine Learning
+2+ years of work experience in machine learning and natural language processing required
+Extensive programming experience in Java, Scala or Python, ability to work on projects with minimal engineering support
+Experience with Spark, Hadoop/MapReduce and machine learning frameworks
+Ability to communicate complex quantitative results in a clear, precise and actionable manner
+Self-motivation and an ability to handle multiple competing priorities in a fast-paced environment
+Ability to work both independently and collaboratively within a team
+Our offering of competitive benefits and perks include:Company paid benefits for employees and their dependents, such as medical, dental, vision, disability and life
+Flexible spending account to be used for out-of-pocket medical, transit, parking and dependent care expenses
+401(k) savings plan
+Generous leave
+Daily catered lunch
+A kitchen fully stocked with snacks and beverages
+Discounted Gym Membership
+
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
+
+#LI-BM
+------"	"14 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=fa466e209c425917"	"Data Scientist"	"comScore"	"59 reviews"	"$127,000 - $161,000 a year (Indeed Est.) Job DescriptionAbout this role:
+The Data Scientist is part of the Statistical Operations and Data Science team that provides internal services to building and maintaining the data science methodologies comprising comScore’s projection system for national television, local television, OnDemand, and digital viewership in a cross-platform measurement service. This position is expected to have a particularly significant role in comScore’s measurement of Linear Television.In this role, the Data Scientist will work closely with other members of the Statistical Operations and Data Science team to work with large amounts of tune-level linear television data to build algorithms, tools, and custom projection solutions for precise cross-platform measurement using large-scale data sets in a fast-paced business environment. The Data Scientist will investigate and diagnose potential internally- and externally-facing issues, and design technology improvements to the projection system to improve the way that supports comScore leading cross-platform measurement products. This position will require working across other functional teams to meet the internal and external demands of the business.What you’ll do:
+Independently identify appropriate data science techniques and methodologies that will be used to support comScore’s cross-platform measurement products, and answer technical and business questions.
+Build algorithms, tools, custom solutions, and new technologies from diverse and large-scale data sets to enhance comScore’s measurement products, or contribute to new products.
+Maintain existing algorithms, tools, solutions, and methodologies contributing to comScore’s existing measurement products.
+Build custom solutions to meet internal and client needs for cross-platform measurement.
+Work closely with other functional teams, including Software Engineering, Product Management, Data Operations, Client Accounts Managers, and Sales Teams to develop and maintain the methodologies contributing to comScore’s cross-platform measurement services.
+Apply critical thinking to analyze process and data anomalies, field client inquiries, and diagnose problems and data issues. These tasks will include working with Software Engineers, Product Managers, Account Managers, Sales Managers, and Data Operations Analysts.
+Summarize and visualize conclusions from large-scale data sets to support the decision making of internal business stakeholders using SAS, Excel, R, Python and other tools.
+Communicate findings and results into measures of business impact.
+Evaluate and confirm the integrity of large source data sets. Be responsible for quality control and documentation of analysis and modeling to ensure on-time and accurate projection deliverables.
+Manipulate, analyze, and validate large data sets using SAS and SQL analytical software, and extract quantitative and qualitative findings from large data sets.
+Creatively solve tactical and strategic problems, bringing new approaches to management.
+Ownership of routine tasks, ensuring all steps are completed within expected project deadlines with little supervision.
+What you’ll need:
+Requires a BA/BS in Statistics, Mathematics, or related field; Master’s or Ph.D. degree preferred. 2-4 years of relevant data science experience; comScore or other media measurement experience can be included.
+Experience in building data science methodologies and custom data solutions for quantitative data measurement.
+General familiarity with media industry and practices (theatrical, television, home entertainment, advertising, cross-platform, etc.); existing background in media, television, or cross-platform measurement services preferred. Strong Excel and PowerPoint skills.
+Experience in data analysis and problem solving with large amounts of data; strong knowledge of SAS and SQL programming preferred.
+Experience with modern data science stacks such as Python (numpy, pandas, matplotlib, scikit-learn), R (dplyr, ggplot2, caret, rmarkdown, & shiny) and Git for data manipulation, data mining, statistical modelling, machine learning, data visualization, dynamic reporting and code version control preferred. Experience with Unix-like operating systems and corresponding commands, utilities and shell scripting preferred.
+Strong oral and written communication skills, including the ability to communicate findings to stakeholders and document project steps in detail.
+Ability to work individually, as well as partner with small and large teams of other Data Scientists during all stages of projects, including planning and execution.
+Ability to independently complete multiple simultaneous project tasks with little supervision.
+About comScore
+At comScore, we’re pioneering the future of cross-platform media measurement, arming organizations with the insights they need to make decisions with confidence. Central to this aim are our people who work together to simplify the complex on behalf of our clients & partners. Though our roles and skills are varied, we’re united by our commitment to five underlying values: Integrity, Velocity, Accountability, Teamwork, and Servant Leadership. If you’re motivated by big challenges and interested in helping some of the largest and most important media properties and brands navigate the future of media, we’d love to hear from you.
+comScore (NASDAQ: SCOR) is a trusted partner for planning, transacting and evaluating media across platforms. With a data footprint that combines digital, linear TV, over-the-top and theatrical viewership intelligence with advanced audience insights, comScore allows media buyers and sellers to quantify their multiscreen behavior and make business decisions with confidence. A proven leader in measuring digital and set-top box audiences and advertising at scale, comScore is the industry’s emerging, third-party source for reliable and comprehensive cross-platform measurement. To learn more about comScore, please visit comScore.com.
+EEO Statement: We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, disability status, sexual orientation, gender identity, age, protected veteran status or any other characteristic protected by law.
+To comply with federal law, comScore participates in E-Verify. Successful candidates must pass the E-Verify process after hire.
+At this time, comScore will not sponsor a new applicant for employment authorization for this position.LI-NB1MSJA"	"10 days ago"	"$127,000 - $161,000 a year (Indeed Est.) "	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=9e5f2a939cf8da9d"	"Data Scientist: NLP Specialist"	"pymetrics"	"2 reviews"	"Using neuroscience-based assessments and machine learning algorithms, pymetrics is reinventing the recruiting industry by matching candidates to jobs where they are most likely to succeed. We are leading the charge in an evolving industry and growing our amazing team to support the mission of using data to unleash one's full potential.
+We are looking for a talented data scientist to develop NLP algorithms for gathering insights spanning all stages of the hiring process from resumes to interviews. The ideal candidate would bring experience building scalable algorithms using audio and text data, have the ability to communicate with a bright team from diverse backgrounds, and be able to tackle interesting problems independently and with scientific rigor.
+Responsibilities:Plan, implement and improve new and existing data products relating to hiring, including resume review, behavioral assessment and video interviews
+Build models to parse documents for client-relevant information
+Advise product and science teams on use of text analysis in future job assessments
+Extract insights from audio channels of video interviews
+Generate aggregated reports from text and audio data (e.g., the typicality of words in a work sample)
+Collaborate with and train other members of the data science team
+Write production level code for practical application of data products
+Interact with data scientists, analysts, engineers and product managers on other data products implemented at pymetrics, including computer vision, behavioral assessment, statistical analysis and clustering techniques
+Requirements:MS/PhD preferred
+2+ years experience in data science preferred
+Experience with making predictions and extracting insights from audio/text data
+Practical knowledge of Python and its scientific libraries SciPy, Scikit, Pandas, and NumPy, with extensive knowledge of programming best practices.
+Familiarity with common tools for NLP, especially NLTK and Word2Vec
+Solid foundation in machine learning models, processes, and theories, with the ability to evaluate different algorithmic approaches
+Specific knowledge of foundational techniques within NLP, such as text processing, document classification, sentiment analysis, etc.
+Working knowledge of statistics and probability (statistical inference, Bayesian statistics).
+Embodiment of our core company values of motivation, positivity, curiosity, humility and integrity, and buy-in for our company mission of eliminating bias in hiring
+Nice to Haves:Knowledge of psych/cogsci/neuroscience research
+Interest in issues of transparency and fairness in AI
+Experience with deep learning using python
+Eye for data visualization and presentation of data-driven insights
+Benefits:Health care plan (medical, dental & vision)
+Flexible paid time off
+Family leave (maternity, paternity)
+401k
+Team budget for training & development
+Stock option plan
+Commuter transportation reimbursement
+Midtown Manhattan location
+Dog-friendly workplace
+Fun, diverse and intellectually eager coworkers
+Team happy hours and retreats
+"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=059d6d3b2a51049b"	"Marketing Data Scientist"	"qualifIQ"	"-"	"$120,000 - $150,000 a yearOur client is one of the country’s largest and most reputable debt settlement companies. They are seeking an innovative and passionate Data Scientist to join their growing team to help promote their analytical culture, while leveraging data to maximize marketing performance and deliver a best-in-class experience for the clients they serve.The ideal candidate will apply analytical rigor and data driven reasoning to guide the development and execution of marketing strategies and experiential initiatives across the organization. This individual will bring a sense of curiosity to seek out opportunities for improvement through internally and externally sourced data. This person will play a critical role in providing thought leadership, building statistical models to understand consumer behavior and intent, and identifying optimization opportunities across programs.This is an opportunity to grow with a diverse team and have a measurable impact on a rapidly growing organization. It is a great fit for an entrepreneurial professional with a strong background in statistical modeling and a passion for translating data into actionable insight.ResponsibilitiesDevelop and implement advanced statistical models to guide business strategy and deliver incremental growth and value throughout the company.Perform analysis of structured and unstructured data to solve complex business problems.Use statistical techniques to build marketing segments, evaluate scenarios, predict future outcomes, and optimize performance.Lead complex research and analytics projects across teams.Research, test, and validate new modeling techniques as appropriate for specific solutions.Present recommendations so that stakeholders can make data-informed decisions.Qualifications5+ years of experience as a data scientist conducting data mining and building and implementing complex models in a fast-paced, marketing-driven environment.Experience working with large internal and external data sets covering new and existing client programs to include direct mail, TV, radio, search engine marketing and email preferred.Undergraduate degree in a quantitative discipline (i.e. Statistics, Mathematics, Computer Science or equivalent quantitative discipline), advanced degree is preferred.Expert knowledge of SAS, R/Python and SQL or similar industry standard tools use for large-scale data analysis and modeling.Experience linking multiple data platforms with data visualization tools is a plus.In-depth knowledge and experience in data mining and statistical modeling techniques (regression, decision tree, time series, etc. Knowledge of optimization theory and statistical model application are also preferred.Strong analytical and problem-solving skills with the ability to interpret large amounts of data with business insight to support growth.Strong consultative acumen with responsibility for analytical project design, management, and presentation of results to internal and external stakeholders.Ability to clearly present statistical solutions to non-statistical people, articulating value and insights to the business.Strong project management skills with a proven ability to set clear goals and design detailed plan against tight timelines. Evidence of self-motivated initiatives, high productivity, and good team work is desired.What our client offersMedical, Dental, and Vision Benefits401(k) MatchPaid Holidays, Sick Days, and Vacation6 Weeks Paid Parental LeavePre-tax Transit BenefitsDiscounted Gym MembershipNo-cost Life Insurance BenefitsJob Type: Full-timeSalary: $120,000.00 to $150,000.00 /yearExperience:Data Science: 4 years (Preferred)Location:New York, NY 10016 (Preferred)Work authorization:United States (Required)"	"20 days ago"	"$120,000 - $150,000 a year"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=6a7e8a96d22f9b7a"	"Data Scientist"	"PebblePost"	"-"	"The PebblePost platform is the first to bring digital advertising capabilities to direct mail. Our platform is built on a robust foundation of big data, data science and algorithmic optimization. The PebblePost engineering team works on a set of unique and exciting challenges innovating and delivering personalized, Programmatic Direct Mail®. We process billions of events, store terabytes of information, and send millions of relevant and meaningful offers from brands consumers love.
+We focus the bulk of our technical efforts in three areas:The PebblePost Graph uses distributed data and graph processing to create connections between online browsing activity and physical location in a privacy-compliant, consumer-centric fashion.
+Our Decisioning Engine uses machine learning and predictive analytics to determine an ideal recipient for an offer, and manages delivery intelligence for each personalized PDM™ send.
+Our data warehouse delivers real-time insights for brands on campaign effectiveness utilizing first and third-party data.
+
+We are looking for data scientists to join our cloud team where the focus is on helping engineering and business teams to deliver more relevant brand marketing that consumers will appreciate.
+What You'll Be Up To:Architect data science solutions to improve performance within a fast-growing, disruptive first-mover company
+Collaborate with product managers and team members to gather requirements, design, and develop solutions within an agile environment.
+Participate in code reviews and help maintain high standards of code quality
+Stay up to date with relevant science and technologies to create an exceptional product
+Work with engineering team to design, implement, and test applications to our cloud environments.
+What You'll Need To Have:Expertise in regression analysis
+Expertise in SQL and one or more relational databases
+Expertise in machine learning techniques (e.g. clustering, decision tree learning, artificial neural networks, etc) and the pros/cons of when to use each
+Experience with a scripting language ( e.g. Python) and statistical computer languages e.g .R.
+High-level verbal and written communications skills
+Excellent problem-solving and implementation skills
+Self-motivated and passionate about apply data science to real world problems
+Master or PhD in Computer Science, Statistics, Math, Industrial research or related fields
+Bonus Skills:Experience in building production-level prediction and optimization systems
+Expertise in the Hadoop Ecosystem (e.g. Spark, PySpark, HDFS, Hive, HBase, Impala, etc)
+Experience with AWS cloud computing technologies (e.g. EMR, etc)
+"	"20 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=20b3fc7d8a67b72e"	"Data Scientist"	"DigitasLBi"	"153 reviews"	"Overview
+Data & Analysis – Data Scientist
+Digitas is a highly-caffeinated playground where brilliant minds come together to bring bold, award-winning ideas to life.
+The Data & Analysis team uses data-driven insights to fuel strategic growth for clients. We believe that data should never exist in a vacuum; instead, it should be put to work to bring the best ideas and stories to our clients.
+Digitas Data Science practice sits within our DNA (Data & Analysis) capability, and develops industry-leading analytical solutions for clients across industries, channels and business functions. We apply a bespoke and cutting-edge arsenal of statistical, analytical and computing techniques to complex data problems at scale, with an emphasis on game-changing—and measureable—business impact. We work in close collaboration with colleagues across all agency disciplines to develop truly innovative, highly effective, data-powered solutions for our clients.
+To help with this, we’re looking for an outstanding Data Scientist – an intellectually curious and creative problem solver who is willing to tackle the familiar and unfamiliar of all things data, including methods, technologies and applications. Sound like you? Read on.
+What you’ll do:
+Our Data Scientists deliver analytic solutions across a wide variety of client applications. We build inferential and predictive models, including machine learning algorithms and AI; we process, integrate and manipulate big data with distributed systems and customer data pipelines; we synthesize results and translate findings into compelling stories that resonate with clients.
+As a Data Scientist, you’ll address complex marketing and business challenges—from cross-channel media and customer experience optimization to segmentation, targeting and business strategy—by accessing, integrating, manipulating, mining and modeling a wide array of data sources.
+Day-to-day, your role includes:
+Translating marketing and business questions into data queries.
+Using distributed computing systems to access and manipulate big data sources.
+Conducting exploratory analysis to identify relevant insights and useful transformations.
+Applying quantitative techniques to uncover latent patterns in the data.
+Interpreting data, analytical results and visuals to generate conclusions and recommendations.
+Testing scalable data pipelines or models for real-time applications.
+Ensuring that analytic tasks and results meet established objectives and timelines.
+Sharing knowledge and conducting research to advance the collective knowledge and skills of our Data Science practice.
+We’re looking for relevant academic, research or work experience, which typically includes:
+A Bachelor’s or Master’s degree in a quantitative field such as statistics, mathematics, econometrics, operations research, data science, computer science, engineering, marketing or social science methods.
+Hands-on experience analyzing data for patterns and insights.
+Hands-on experience running basic statistical or machine learning procedures, such as descriptive statistics, hypothesis testing, supervised or unsupervised learning.
+Hands-on experience with Python or R. Familiarity with SQL, Linux, and/or distributed computing systems such as Hadoop or AWS preferred.
+Demonstrated interest in marketing analytic applications.
+Demonstrated self-starter who thrives in a fast-paced environment with flat structure.
+Got what it takes? We’d love to hear from you.
+Digitas is an equal opportunity employer."	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=0e7e36fccde84f3b"	"Data Scientist, Marketing Effectiveness"	"Harnham"	"6 reviews"	"$110,000 - $130,000 a yearData Scientist, Marketing EffectivenesseCommerce Buying & SellingNew York City$110,000 - $130,000
+Do you want to join a rapidly growing eCommerce Buying & Selling company who have had over 75 million unique downloads of their app across the globe in the last 2 years alone? Described as one of the hottest start-ups to work for in NYC with features in the New York Times and The Today Show among many, this company is revolutionizing the way people buy and sell products online. As a result, they have had a huge amount of investment and are looking for a highly skilled Data Scientist with a background in marketing effectiveness and forecasting in open source technologies, including Python, SQL and R to optimize their marketing spend to achieve key business goals? If you're looking for a new challenge and have experience in the end-to-end marketing analytics cycle, specifically in the offline space, then this could be the next step for you.
+THE ROLE:
+As a Data Scientist, Marketing Effectiveness, you will be proactively involved in managing all the marketing channels, performing highly statistical analysis to understand how effective each channel of communication is for the business to optimize marketing spend and ROI. You will be part of a team of 4 Data Scientists, but be the sole person focusing on all marketing effectiveness capabilities for this growing business. You will focus on:
+Understanding all of the company's marketing constraints across all channels of engagement building Marketing Mix and multi-touch attribution models in R to understand how effective their TV, Radio, Newspaper and Social channels are
+Making recommendations on how to increase their marketing efficiency, effectiveness, and ROI by which clients they partner with, as well as where and when they advertise across the diverse channel base
+Working with diverse teams across the business including Marketing, Sales and BI teams, as well as the wider Data Science team across the glove to ensure that the quality of the data and models are of the highest standard
+Delivering insights and recommendations to diverse stakeholders on how to improve their marketing performance and increase customer engagement
+YOUR SKILLS AND EXPERIENCE:
+Degree educated in a numerical discipline such as Math, Stats, Computer Science or similar
+Experienced in building market mix and multi-touch attribution models in R as well as strong SQL coding/python background
+Proven experience in building and maintaining relationships, as well as delivering insights and recommendations to C-Level stakeholders
+Project management capabilities, with a strong business acumen are essential
+BENEFITS:
+As a Data Scientist, Marketing Effectiveness, you can expect to earn up to $130,000 (depending on experience), plus competitive benefits."	NA	"$110,000 - $130,000 a year"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=0f28dc0aafb427e0"	"Data Scientist"	"National Debt Relief"	"99 reviews"	"We are seeking an innovative and passionate Data Scientist to join our growing team to help promote our analytical culture, while leveraging data to maximize marketing performance and deliver a best-in-class experience for the clients we serve.
+The ideal candidate will apply analytical rigor and data driven reasoning to guide the development and execution of marketing strategies and experiential initiatives across the organization. This individual will bring a sense of curiosity to seek out opportunities for improvement through internally and externally sourced data. This person will play a critical role in providing thought leadership, building statistical models to understand consumer behavior and intent, and identifying optimization opportunities across programs.
+This is an opportunity to grow with a diverse team and have a measurable impact on a rapidly growing organization. It is a great fit for an entrepreneurial professional with a strong background in statistical modeling and a passion for translating data into actionable insight. Principle Duties and Responsibilities:Develop and implement advanced statistical models to guide business strategy and deliver incremental growth and value throughout the company.
+Perform analysis of structured and unstructured data to solve complex business problems.
+Use statistical techniques to build marketing segments, evaluate scenarios, predict future outcomes, and optimize performance.
+Lead complex research and analytics projects across teams.
+Research, test, and validate new modeling techniques as appropriate for specific solutions.
+Present and depict recommendations so that stakeholders can make data-informed decisions.
+Qualifications:
+5+ years of experience as a data scientist conducting data mining and building and implementing complex models in a fast-paced, marketing-driven environment.
+Experience working with large internal and external data sets covering new and existing client programs to include direct mail, TV, radio, search engine marketing and email preferred.
+Undergraduate degree in a quantitative discipline (i.e. Statistics, Mathematics, Computer Science or equivalent quantitative discipline), advanced degree is preferred.
+Expert knowledge of SAS, R/Python and SQL or similar industry standard tools use for large-scale data analysis and modeling.
+Experience linking multiple data platforms with data visualization tools is a plus.
+In-depth knowledge and experience in data mining and statistical modeling techniques (regression, decision tree, time series, etc. Knowledge of optimization theory and statistical model application are also preferred.
+Strong analytical and problem-solving skills with the ability to interpret large amounts of data with business insight to support growth.
+Strong consultative acumen with responsibility for analytical project design, management, and presentation of results to internal and external stakeholders.
+Ability to clearly present statistical solutions to non-statistical people, articulating value and insights to the business.
+Strong project management skills with a proven ability to set clear goals and design detailed plan against tight timelines. Evidence of self-motivated initiatives, high productivity, and good team work is desired.
+What We Offer:
+We believe in a team-first culture, full of rewards and recognition for our employees. We are dedicated to our employees’ success and growth within the company, through our employee mentorship and leadership programs.
+Our extensive benefits package includes:
+Medical, Dental, and Vision Benefits
+401(k) Match
+Paid Holidays, Sick Days, and Vacation
+6 Weeks Paid Parental Leave
+Pre-tax Transit Benefits
+Discounted Gym Membership
+No-cost Life Insurance Benefits"	"24 days ago"	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=ce9a1cbf356bd4dc"	"Data Scientist, Group Benefits and Middle Market P&C"	"The Hartford"	"1,449 reviews"	"Overview of the Position
+The Hartford seeks energetic and passionate Data Scientists to focus on designing, developing and implementing solutions that will make an impact on our business. This role will focus on developing solutions in support of our Middle Market and Group Benefits business. In addition the Data Scientist will participate in a variety of ad hoc projects.
+Our Data Scientists play a significant role by both leading and partnering with the business and data teams for a better understanding of the customer journey across multiple lines of business. As a Data Scientist you will focus on research for deliverables that support the long term plan to evolve the department’s capabilities to further develop and deliver impactful products to drive outcomes for both the business and clients.
+Solutions that are developed will support a wide range of business areas which include underwriting, claims, operations, risk engineering, and digital analytics. As a Data Scientist you will focus on developing analytic and predictive modeling solutions that feature engineering assets, experimental design, as well as modeling techniques and abilities. Our Data Scientist toolbox consists of but not limited to predictive Modeling Techniques, Machine Learning, Cognitive Computing, Unsupervised learning, and Augmented intelligence. As a Data Scientist you will support and explore those assets overtime through customer adoption and establishing a rhythm within the data science community.
+Responsibilities:
+Collaborate and partner with business stakeholders in a way that supports the vision and sustains a culture that treats analytics as a corporate asset.
+Participate in reviewing work with partners on an ongoing basis to calibrate deliverables against expectations
+Help identify long term opportunities within the customer journey through the creation of algorithms and machine learning techniques to achieve financial objectives and solve problems.
+Participate in the creation and deployment of long term tools to continually evolve the business.
+Assist in identifying and assessing the value of new data sources and analytical techniques to ensure ongoing competitive advantage
+Contribute to the successful implementation of strategies to achieve targeted business objectives.
+Accountable for short term ownership and evolution of models developed
+Support the processes used to develop and enhance our business needs
+Support a high-performance collaborative culture
+Develop knowledge of The Hartford's formal and informal structures, business processes, and data sources in your area of expertise
+Remain current on research techniques and become familiar with state of the art tools applicable to your function
+Present complex modeling to Senior Data Scientists that maximizes the bottom-line impact of modeling results
+Provide economic, qualitative, and statistical support to ensure accuracy of characteristics and metrics being applied to business decisions.
+Assist in estimating the economic impact of operational decisions
+Promote analytics opportunities of the company with customers and business partners.
+As requested, provide timely feedback and opportunities for your colleagues.
+Suggest and participate in training opportunities for research staff and others in the organization
+Qualifications
+Experience & Skills
+Master’s or Ph.D. in Statistics, Applied Mathematics, Actuarial Science, Quantitative Economics or other similar analytical field
+2+ years of relevant experience in Research Function in Insurance or Financial Services or related field.
+Experience in large scale operations environments (Claim Centers, Call Centers, Manufacturing) a plus.
+Technical/Functional Skills
+Experience modeling data and analytical capability.
+Advanced coding skills in various languages e.g. R, Python etc.
+Developed verbal/written communication skills.
+Ability to translate complex technical topics into business solutions and strategies, including visualization.
+Exposure to executing change to core business processes through the innovative use of quantitative techniques.
+Competencies
+Drive and commitment to what is necessary to get the job done efficiently, thoroughly, and professionally.
+Innovative. Seeks new and creative ways to approach analytical exercises and development projects.
+Results-oriented. Demonstrates a sense of urgency and accountability for business issues.
+Customer focused. Builds effective relationships within the data science community
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age
+** NO AGENCIES PLEASE **Job Function
+: Data Science
+Primary Location
+: United States-New York
+Other Locations
+: United States-Connecticut-Hartford
+Schedule
+: Full-time
+Job Level
+: Individual Contributor
+Education Level
+: Master's Degree (±18 years)
+Job Type
+: Standard
+Shift
+: Day Job
+Employee Status
+: Regular
+Overtime Status
+: Exempt
+Travel
+: No
+Job Posting
+: Oct 8, 2018, 7:37:49 PM
+Remote Worker Option : No"	NA	"character(0)"	2018-10-15	"New+York%2C+NY"	80
+"https://www.indeed.com/viewjob?jk=761eb2ae63b51480"	"Data Scientist"	"Biz2Credit Inc."	"-"	"$50,000 - $65,000 a yearAbout the Role: This is a rare opportunity to join a small but fast-growing team, where you will play a major role in shaping Biz2Credit’s future. We’re looking for an exceptional candidate that is excited about the opportunity to build a next-generation financial services business. We believe that there is a tremendous opportunity to leverage cutting-edge data science to inform smarter, faster decision making.As a Biz2Credit Data Scientist, you will shape the company’s data-centric culture, work closely with our engineering team to develop our analytics infrastructure, and collaborate closely with our Chief Data Officer on developing, validating, and automating our customer conversion and underwriting models. While a background in financial services is not required, you must be passionate about tackling complex data challenges for the benefit of small and medium businesses everywhere.YOU WILL:Drive the ongoing advancement and refinement of Biz2Credit’s credit decisioning & pricing model - optimizing risk and return while dramatically reducing decision cycle times.Continuously evaluate alternative data sources and structures to document and improve the efficacy of our customer conversion models and processes.Harness the power of Biz2Credit’s technology to proactively identify emerging risks as well as opportunities with our customers.Play a leadership role in the design and implementation of ongoing operational and risk reporting and analytics.Work on data projects and proposals involving Biz2Credit’s financial services partners worldwide (banks, non-banks, debt investors, equity investors and others) to analyze, classify and visualize credit-related dataWE'RE LOOKING FOR SOMEONE WITH:Degree in Statistics, Applied Mathematics, Engineering, Computer Science or other quantitative fields from leading university; Advanced degree preferred2- 4 years experience performing quantitative analysis within self-directed roles.Practical hands-on experience in the development and implementation of new predictive models and comfortable in learning new statistical tools and techniques.Ability to visualize and communicate sophisticated data and models to all audiences.Specific demonstrated experience, knowledge, accuracy and speed of execution in Powerpoint, Excel, Excel VBA and R (knowledge of other programming knowledge and/or Stata is a plus) Highly motivated, versatile, capable of working independently with demonstrated initiativeJob Type: Full-timeSalary: $50,000.00 to $65,000.00 /yearExperience:STATA: 1 year (Preferred)Quantitative Analysis: 1 year (Preferred)Excel: 1 year (Preferred)Microsoft Powerpoint: 1 year (Preferred)R: 1 year (Preferred)Education:Bachelor's (Preferred)Work authorization:United States (Required)"	"19 days ago"	"$50,000 - $65,000 a year"	2018-10-15	"New+York%2C+NY"	80

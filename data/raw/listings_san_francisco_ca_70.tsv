@@ -1,0 +1,478 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=NA"	"NA"	"NA"	"NA"	"NA"	"NA"	"NA"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=c2ccb97592b91e6f"	"Data Scientist"	"Samba TV"	"-"	"Samba TV, recognized by Inc. Magazine as one of the fastest growing companies in the US and one of the \"most interesting ad-tech upstarts of the year\" by Business Insider, is seeking to hire a Data Scientist to join our Data Science & Analytics team and help us build the first real-time cross-screen TV analytics platform that brings the power of online analytics to TV data.
+
+Samba TV is uniquely positioned at the forefront of the TV revolution. The way people discover, watch, and engage with television has fundamentally changed, and we're connecting the dots to help better understand audience trends and viewership habits for marketers.
+
+The perfect candidate will have a background in math, stats, physics, econometrics, computer science or a related quantitative field, will have experience working with large data stores, statistical modeling, and will have experience building production level software.
+
+Responsibilities
+Design, build, and launch new data models for TV usage and associated online activity.
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers and understand how users interact with our products.
+Partner with Product and Engineering teams to solve problems, build products based on data, and identify trends and opportunities.
+Mine massive amounts of data to extract actionable insights that inform, influence, support, and help execute our product decisions and product launches.
+Design and implement reporting and metrics that track and monitor the performance of our products, the quality of our data, and overall health of the business.
+Data Infrastructure
+Work with SQL, Map Reduce, and no-SQL databases.
+Design, build and launch new ETL processes.
+Build data sets to empower operational and exploratory analysis.
+Automate analyses.
+Product Operations & Leadership
+Design and evaluate experiments monitoring key product metrics, and understand root causes of changes in metrics.
+Build and analyze dashboards and reports.
+Influence product teams through presentation of findings.
+Communicate the state of business, experiment results, etc. to product and management teams.
+Exploratory Analysis & Statistical Modeling
+Understand ecosystems, user behaviors, and long-term trends.
+Identify levers to help move key metrics.
+Evaluate and define metrics.
+Build models of user behaviors for analysis and powering production systems.
+Identify and correct for any biases or errors in our data sets.
+
+--------------
+Qualifications
+--------------
+2+ years Data Science experience outside of academia. Title will be commensurate with experience
+Advanced degree in a quantitative discipline (applied mathematics, statistics, computer science, physics, or other related field) from a leading academic institution.
+Expert in Python and SQL. (Must have experience writing production level code.)
+Proficiency working with Spark to process large data sets.
+Excellent communication skills with demonstrated success presenting complex data and analysis (qualitative and quantitative) in a clear and compelling manner that inspires action
+Strong understanding of statistical analysis
+A strong passion for empirical research and for answering hard questions with data. A passion for problem solving, comfort with ambiguity, and creativity.
+A flexible analytic approach that allows for results at varying levels of precision.
+Quick learner, with the ability to initiate and drive projects to completion with minimal guidance.
+Ability to thrive in a dynamic and fast-paced environment. Drive change and collaborate effectively with a variety of individuals and organizations
+
+#LI-SP1"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=c7e21fcecd3e2da7"	"c(\"Data Scientist\", \"As a member of our team, you will\", \"This describes you\", \"Requirements\", \"Interested? Great! You might like to know\")"	NA	NA	"Vevo is the world’s leading all-premium music video and entertainment platform with over 25 billion monthly views globally. Vevo delivers an expertly curated experience for audiences to explore and discover music videos, exclusive original programming and live performances from the artists they love.
+Take a look inside Vevo
+The Data Science team at Vevo is part of the Product & Growth group, alongside the Product, Biz Ops & Strategy and Research/Insights teams.
+The Data Science team’s mission is to harness the power of Vevo’s data to provide better experiences for Vevo’s end users, advertisers, artist & label partners, along with deep insights for internal business groups.
+This team is also the champion of experimentation and the scientific method, helping to bring data science methodologies to an ever-growing number of business domains.
+This is a full-time position and is based at our office in San Francisco. We are in a convenient location right next to a Muni & Bart station entrance on Market Street.
+As a member of our team, you will
+Work as an embedded team member of one or more product ‘squads’ focused on tackling some of Vevo’s most important challenges
+Be given a huge potential to innovate in a green-field space: music video offers a unique opportunity for experimentation at scale, building on learnings gleaned from both the music and video verticals
+Have a big impact on decisions across all areas of Vevo’s business, including content development, marketing & promotion, advertising and monetization
+Become a trusted advisor to our senior leadership team, and help grow Vevo’s industry profile through targeted public speaking opportunities
+This describes you
+You have a successful track record deploying data science frameworks and approaches in ‘green field’ environments, working with a range of stakeholders
+Proven experience in utilizing various ML packages in Python such as Scikit Learn, TensorFlow, numpy and pandas
+You’re not shy about handling your data needs and have a solid grasp of SQL and distributed data ETL processes (preferably in Scala / Spark) such as Mapreduce, filters, aggregations and joins.
+You have a solid grasp of statistics and how it enables data scientists to solve business problems
+You thrive on working in an agile team environment
+You enjoy music and internet video, and possess a deep curiosity for creating music entertainment experiences as well as harnessing the power of data to unlock growth opportunities on global distribution platforms such as YouTube
+Passionate about making a business impact
+Requirements
+PhD and/or other advanced academic study in relevant data-centric field
+3+ years of applied data science experience within fast-paced corporate or start-up environment
+Excellent written and verbal communication skills, with a successful track record of collaboration and influence within a fast-paced environment
+Passion for data science advocacy and education
+Interested? Great! You might like to know
+We are a fun energetic tight knit team with a passion for music and technology
+In office/external happy hours
+Remain up to date with new technology including hosting/attending meetups
+Excellent benefits package
+Competitive compensation packages
+Premier access to music content and new releases of original media content
+Concert ticket giveaways
+401k Match
+Fully stocked kitchen and bar with catered lunches everyday
+Vevo considers applicants for all positions without regard to race, color, creed, religion, national origin or ancestry, sex, age, disability, genetic information, veteran status, or any other legally protected status under local, state, or federal law."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=3c9897a5ac52235e"	"Data Scientist, Product Analytics"	"AdRoll Group"	"-"	"---------------
+About the Role:
+---------------
+
+AdRoll is seeking a Data Scientist, Product Analytics to help us extract maximum signal from the noise; to help us measure the effectiveness of our product features for our users. This person will be responsible for working closely with our engineering and product management team to measure performance, adoption rates, growth versus churn, engineering quality, and more. This is a rare opportunity to lead the design, execution, and analysis of experiments in collaboration with the data science team to improve the customer experience and effectiveness of our website and product. You will have a deep understanding of math, statistics, experimental design, as well as have strong presentation skills. We're looking for a high-impact you who can not only produce hard analytics from AdRoll's large data sets, but also develop hypotheses and to test why specific metrics are changing.
+
+-----------------
+Responsibilities:
+-----------------
+Analyze one of the most interesting datasets in the world, which consists of over 20 billion user actions and 4 trillion events per day
+Work with the product, marketing, engineering, and operations teams to launch and evolve high-impact products
+Define what metrics we will use to analyze and optimize new products
+Analyze feature adoption to ensure we are developing products that will drive the most impact for our customers
+Help craft dashboards, product scorecards, and forecasts to keep the entire team up-to-date
+Report to senior management on product adoption and forecasting
+Research the latest data science techniques to apply to our product analytics methodologies
+
+---------------
+Qualifications:
+---------------
+B.A./B.S. in Statistics, Math, Economics, Finance, Computer Science, or a similar field
+Database experience including proficiency in SQL
+Excellent communication, organization, and analytical skills with experience presenting to various business contacts at all levels in the company
+Real passion for working with product management and engineering
+Ability to thrive in a fun and dynamic start-up environment
+A roll up your sleeves attitude
+An excellent sense of humor
+
+-------------
+Bonus Points:
+-------------
+Coding experience with scripting languages such as R and Python
+Experience with visualization tools like Tableau
+Contributions to the data science community
+Background in online advertising
+Masters degree in statistics, math, or a related field
+
+-------------------
+About AdRoll Group:
+-------------------
+
+In 2007 AdRoll, now AdRoll Group, was founded with the objective of helping big and small businesses turn their customer data into high-performance marketing. From this support, AdRoll grew to AdRoll Group, the Growth Platform Company. Organized around special data and automation, the company is home to AdRoll, the E-commerce Growth Platform, and RollWorks, the B2B Growth Platform. Each division is able to demonstrate shared platform capabilities, BidIQ artificial intelligence, and the IntentMap, a data co-op of more than 1.2 billion digital profiles, to take on online growth and connections for over 37,000 marketers worldwide.
+
+AdRoll Group is a privately-held company headquartered in San Francisco, CA with offices in New York, Dublin, Sydney, London, Tokyo, Chicago, and Salt Lake City. Learn more at adrollgroup.com.
+
+AdRoll Group is committed to forming teams with dynamic strengths of \"Rollers\" and is proud to be an equal opportunity employer. All you will receive consideration without regard to race, color, ancestry, sex, religion, gender, gender identity or expression, sexual orientation, marital status, national origin, citizenship, genetics, disability, age, veteran status or other characteristics."	"21 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=52ff8e0bc73b683f"	"c(\"Data Scientist - Risk\", \"THE SKILL SET\", \"BONUS POINTS\")"	"Eventbrite"	"5 reviews"	"THE CHALLENGE
+Eventbrite is big, bustling marketplace where anyone can post an event in minutes or buy a ticket in seconds. The Fraud and Trust & Safety teams make sure that all of that goes smoothly. Our organizers get paid, and our attendees find great experiences. That happens reliably even as we launch innovative features and expand into new markets across the world. Our Data Scientists ensure we keep up without our organizers knowing even we’re there by designing low profile, high precision solutions to the ever-changing landscape of threats.
+THE TEAM
+The Risk and Trust & Safety group is a small, high performing, multi-disciplinary team ranging from chargeback specialists and fraud analysts to data scientists and engineers, all working toward the common goal of keeping Eventbrite users safe. We expect everyone to be vigilant for emerging problems and innovative solutions. We expect high quality contributions from every team member. And we expect even more in terms of supporting each other to make that happen.
+THE ROLE
+You’ll make sure the right needle gets pulled out of the right haystack every time by developing high precision fraud and spam detection algorithm. You’ll work with our fraud and trust experts to understand all the nitty gritty details of what’s working well and where we need to fill gaps. You’ll leverage our in house decisioning platform to quickly test, improve, ship, and track models. And you’ll collaborate closely with our dedicated engineering team to make sure your solution makes it from the lab to the field exactly the way you envisioned.
+THE SKILL SET
+Fluency with machine learning and data mining techniques and concepts
+Proven ability to craft and track complete solutions to real world problems using statistical methods
+Ability to succinctly and accurately explain a complex solution to any audience
+Strong experience with data processing in Python (>2 years)
+Comfort with SQL and an ability using it to make sense out of messy data (>2 years
+Advanced Degree in Relevant Field
+BONUS POINTS
+Understanding of big data processing technologies like spark, hive, or presto
+Practical experience in risk, spam, payments or related topics
+Active Eventbrite user with a passion for live events
+ABOUT EVENTBRITE
+Eventbrite is the world’s leading event technology platform, powering more than two million live experiences each year. We build technology that allows anyone to create, share, find and attend events of all kinds. Music festivals, marathons, conferences, hackathons, political rallies, fundraisers, gaming competitions— you name it, we power it. Meet some of the team.
+IS THIS ROLE NOT AN EXACT FIT?
+Sign up to keep in touch and we’ll let you know when we have new positions on our team.
+Eventbrite is a proud equal opportunity/affirmative action employer supporting workforce diversity. We do not discriminate based upon race, ethnicity, ancestry, citizenship status, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), marital status, registered domestic partner status, caregiver status, sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, genetic information, military or veteran status, mental or physical disability, political affiliation, status as a victim of domestic violence, assault or stalking, or other applicable legally protected characteristics.
+FLSA Status: Exempt
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records
+Applicant Privacy Notice"	"12 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=1565d78818e112fd"	"Ads Data Scientist"	"King.com"	"-"	"Activision Blizzard Media is a rapidly growing business created to connect advertisers with our 350M+ global player base across Activision, Blizzard and King.
+The initial goal of this thriving start-up effort has been to create premium, innovative advertising experiences for world-class casual mobile games like King’s Candy Crush Saga. Looking ahead, we plan to launch advertising across the Activision Blizzard portfolio, including high growth areas like eSports. This is a really exciting time to join this growing business.
+Activision Blizzard Media is seeking a talented and creative Data Scientist interested in driving business decisions by understanding advertising performance within the gaming industry.
+Key Responsibilities
+Providing strategic insights built upon sound analyses to stakeholders so that they can make the best possible decisions about how to grow the business in a way that serves the player, the advertiser, and the business
+Designing, implementing, and analyzing experiments using relevant statistical methods
+Enhancing the value of our ads offering by analyzing our ad campaigns and working with the game studios to increase the reach of ads across our game offerings
+Driving a consistent set of KPIs to assess the performance of the business across a broad range of games and then helping develop the reporting layer that serves up these metrics in a timely, accurate, and easily consumed manner.
+Ensuring that the business is performing as expected and helping diagnose any unexpected issues
+Skills to create thrills
+Ability to identify and solve the right problems for the business
+Ability to access and manipulate data with SQL and then glean insights from them that enable the business to operate more effectively
+Experience with creating data visualizations with tools such as Tableau, Looker, and Superset so that we can quickly get information in the hands of our stakeholders without always having to manually pull the data
+Strong presentation skills and ability to influence stakeholders based on the insights extracted from the data
+Experience with A/B testing and an understanding of the statistical concepts associated with experimentation
+Willingness to take initiative and learn new concepts and technologies - we don’t expect you to have experience with everything but having the ability to quickly grasp something new is vital
+Capacity to work with the product team and game studios to identify opportunities to optimize the ad experience and its effect on players
+Expertise in analytical best practices and ability to evangelize them across analytics and our stakeholders
+Bonus points
+Experience with Python or other higher level languages
+Experience with predictive modeling and ML
+Expertise in gaming and ads
+BA/BS in Computer Science, Math, Economics, Statistics or other related field
+A great saga needs all sorts of heroes
+Making games is fun. Especially when you do it with people who share the same idea of what makes a good workplace, great. We design games for everyone, no matter where they are or who they are, and we employ all sorts of people from all kinds of backgrounds to bring them to life. Truth is, we simply can’t expect diversity in our players and originality in our games without first nurturing it in our people. A great saga needs all sorts of heroes. And that’s it.
+We’re Seriously Playful
+Officially, we’re a leading interactive entertainment company for the mobile world. Unofficially, we’re a serious business that’s not afraid to have fun. Every day at King, we mix intuition with logic, art with science and magic with mathematics to create the games the world loves to play. Together with our parent company Activision Blizzard, our mission is to bring moments of magic to everyday life. If you think this is something you can help us achieve, let’s talk."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=4bb8194db9ff70be"	"c(\"Data Scientist\", \"Responsibilities include but are not limited to:\", \"Skills and Qualifications:\", \"\nResponsibilities include but are not limited to:\", \"Skills and Qualifications:\", \"Upside:\", \"\nSummary:\", \"Key responsibilities will include:\", \"Skills & Qualifications\", \"Our Headquaters\")"	"StreetLight Data"	"-"	"ContractStreetLight Data is seeking a creative, versatile, and motivated data scientist to be part of our growing team. This team member will lead data science projects to develop exciting new algorithms for our product, as well as help productize those algorithms into our scalable StreetLight InSight analytics platform. This position reports to the VP of Engineering.
+Responsibilities include but are not limited to:
+Design algorithms to infer key transportation patterns from various data sources.
+Research and implement suitable strategies (e.g. regression models, neural networks, etc.) for solving data science problems.
+Find and build real-world data sets for training various models and doing quality checks.
+Productize data science algorithms within the StreetLight InSight Data platform, in collaboration with the Application Engineering team.
+Create visualizations and dashboards to help tell stories with data.
+Define and implement customized and/or cutting-edge solutions for customers.
+Skills and Qualifications:
+BS / MS in Mathematics, Computer Science or an Engineering discipline from a top university.
+5-8 years of experience in data science and/or statistics, using tools such as R or Python.
+2+ years of experience in SQL and relational databases (PostgreSQL preferred), and good understanding of relational concepts.
+Strong understanding of techniques in data science (machine learning algorithms, regression analysis, etc.).
+Strong data analysis skills, knowing what can / cannot be possible, and ability to visualize data in the best way possible.
+Good communication skills - written, visual (presentations), and verbal.
+Ability to deliver adequate results on deadline, and make compromises to enable scalability and productization of algorithms.
+Geo-spatial skills are a plus.
+Knowledge of transportation data / industry is a plus.
+Quick learner, and a strong team player.
+Business Operations
+Data Partnerships Manager (San Francisco, CA)
+StreetLight Data is seeking someone with both technical data expertise as well as strategic business skills to manage, evaluate, and coordinate our inbound data partnerships and suppliers.
+
+Responsibilities include but are not limited to:
+Work with the CTO, CEO, VP Product and data engineering team to ascertain which data supply types are needed.
+Procure data for evaluation in accordance with company data supplier guidelines and privacy practices, and manage, and take part in, the evaluation process.
+Research and maintain a knowledge base about data supply landscape, including key characteristics
+Come up with creative solutions to meet product needs with available sources of data
+Procure information necessary for the VP of Privacy in performing Privacy Impact Assessments for potential new data supply sources
+Participate in negotiation for pricing and license terms.
+Keep track of contract renewal dates and similar partner needs.
+Develop and maintain relationships with existing data suppliers and potential suppliers
+Manage regular check ins with and reporting to existing data suppliers
+Skills and Qualifications:
+BS / MS (quantitative discipline prefered), from a top university.
+3+ years experience in a technical position such as computer development, Data Science, QA, financial analysis
+2+ years managing partnerships / in a business development role
+Strong data analysis skills, within Excel or (better yet) SQL environments.
+Excellent organizational and communication skills ; ability to deliver adequate results on deadline
+Geo-spatial skills are a plus.
+Knowledge of transportation data / industry is a plus.
+Quick learner, highly organized, and a strong team player.
+Upside:
+This job is perfect for someone seeking an opportunity to use both their quantitative/engineering and business/communications skills in one job.
+Customer Success
+Customer Success Executive (East Coast)
+At StreetLight Data, we are transforming transportation and urban planning with Big Data. Our analytics answer a deceptively simple question: Where do people go? This question is often impossible to answer with traditional research methods, but the answers are vital to building sustainable, livable, and successful communities.
+
+Our technology transforms anonymous, archival location data from over 70 million mobile devices into useful Metrics that describe travel patterns. We are the first company to provide mobility analytics as a subscription service via an easy-to-use platform, StreetLight InSight®. StreetLight InSight informs high-value, long-term decisions that profoundly impact our everyday lives. We support all types of urban and transportation planning projects, from subway line extensions and highway expansions to bike and pedestrian infrastructure.
+
+As a member of our team, you will help communities become Smart, sustainable Cities. You can become a leader in the transition to data-driven transportation work. Our clients are on the cusp of adopting Big Data solutions at scale, and we are one of the first companies to enter this high-potential industry. That means we need savvy, sophisticated customer success professionals who go above and beyond to truly educate clients.
+
+Summary:
+The Customer Success Executive will work with existing major customers in the transportation and urban planning industries ensuring that our products get implemented successfully. Previous experience working with engineering, construction, transportation, and/or government agencies is helpful to success in the role and desired.
+
+As a Customer Success Executive, you will have a portfolio of key customers you manage. This role will report to the Senior Director of Customer Success. As an early member of the Customer Success team at StreetLight Data, you will have the opportunity to help set the groundwork and develop the internal processes to build a world-class program.
+Key responsibilities will include:
+Customer Activation
+Oversee training and outreach to users at customer accounts to ensure widespread use of the StreetLight InSight; Coordinate with StreetLight’s support team for on-site trainings, generally held quarterly.
+Proactively communicate and train users about regular feature enhancements to ensure understanding and adoption.
+Evangelize our products to new departments within the customer accounts to help grow the user base. This involves demonstrations, hands-on training, etc. both in-person and via webinar.
+Regularly communicate with management at customers and develop action plans based on high priority projects at each organization.
+As appropriate, attend conferences and events in customer regions to build awareness and share use cases for StreetLight InSight
+Customer Satisfaction
+Facilitate regular customer feedback sessions about StreetLight’s products, including surveys, on-site workshops, and one:one communications.
+Communicate customer feedback to StreetLight’s Product team to help drive the product roadmap and provide input on feature prioritization.
+Oversee communication with customer management about subscription use and ROI.
+Provide proactive outreach, training, and light professional services work to help our major clients have overwhelming success in their subscriptions. This work may include tasks like drafting reports and designing custom dashboards within StreetLight InSight platform. This will require a deep understanding of customer needs, storying telling with data, and data visualization proficiency.
+Provide project management and any necessary deliverable and report drafting for customer data science deliveries or major professional services engagements.
+Regularly communicate with users and do deep dives into customer questions that may require in-depth data explanation, creation of visualizations, etc.
+Customer Renewals
+Work in tandem with Sales Reps and Solutions Engineers for the region to ensure full renewal of all customer subscriptions.This includes developing ROI justifications for renewal, aiding in responses to Requests for Proposals or other similar processes, as well as any demonstrations.
+Skills & Qualifications
+8+ years experience working as a technical sales representative, technical customer success/account management representative, or engineer/planner.
+Bachelor’s degree required, master’s degree is a plus.
+Proficiency with analytical software tools. Bonus for SaaS tools.
+Excellent written and verbal communication skills.
+Self-starter and able to manage in a fast-paced job environment.
+Bonus for experience in managing government or transportation customers, or experience in transportation planning and analytics.
+This position can be based in any city on the East Coast. Regular travel to customer sites and the San Francisco headquarters will be required.
+Our Headquaters
+135 Stillman Street
+San Francisco, CA 94107
+info@streetlightdata.com"	NA	"Contract"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=dc4cf31fa3727c36"	"Data Scientist, Recruiting Analytics"	"Dropbox"	"23 reviews"	"----------------
+Role Description
+----------------
+
+We're looking for someone who is passionate about unlocking an amazing candidate experience and a world-class recruiting process through analytics. We've made significant investments in our data warehouse, technology infrastructure, and data management capabilities. Now we're looking for someone to harness the power of data to better forecast hiring trends, to build dashboards that measure recruiting effectiveness/efficiency, and to present findings/insight to executives. You have the ability to balance multiple priorities, deep analytical rigor, and excellent interpersonal skills that can be tailored to cross-functional audiences at every level.
+
+----------------
+Responsibilities
+----------------
+Be a leading authority on recruiting data, methodology, and analysis
+Partner with the integrations team to architect data pipelines between HR/business systems, data warehouses (AWS), and Tableau; support testing/validation of new data warehouse tables
+Gather requirements and design dashboards that are insightful, tell a story through data visualizations, and support business decision making
+Maintain, iterate, and improve our existing dashboards based on user feedback
+Partner with stakeholders to make recommendations and build action plans based on findings
+Communicate statistical analyses and results to technical and non-technical audiences
+Build analytics capability in the organization through data literacy trainings focused on root cause analysis, interpreting people data, storytelling with data, and action planning
+
+------------
+Requirements
+------------
+BA/BS preferably in Industrial/Organizational Psychology, Marketing Research, Behavioral Economics, Social Sciences (e.g., Anthropology, Sociology), or Data Science
+5+ years of data analytics in HR, Marketing, or Sales or equivalent experience
+3+ years of experience in dashboard development and data visualizations, using tools such as Tableau
+Experience working with business stakeholders at all levels to gather dashboard requirements
+Experience presenting analytics findings to executives
+Comfort with ambiguity and a dynamic business landscape
+Low ego attitude with a willingness to shift from high-level critical thinking to stepping in and helping to drive implementation alongside functional teams
+Basic knowledge in HR processes
+
+Preferred Qualifications
+MA/MS in one of the previously mentioned academic fields
+2+ years of experience in AWS/Redshift or other enterprise data warehouses (e.g., Snowflake)
+2+ years of experience managing and analyzing structured and unstructured data using SQL, R, and/or Python
+Experience in statistical modeling tools (e.g., SAS, SPSS)
+
+------------------
+Benefits and Perks
+------------------
+100% company paid individual medical, dental, & vision insurance coverage
+401k + company match
+Market competitive total compensation package
+Free Dropbox space for your friends and family
+Wellness Reimbursement
+Generous vacation policy
+10 company paid holidays
+Volunteer time off
+Company sponsored tech talks (technology and other relevant professional topics)
+"	"3 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=82fc6316bf469991"	"Data Scientist"	"Optimizely"	"2 reviews"	"Job DescriptionAbout the Job
+As a Data Scientist at Optimizely, you’ll be responsible for translating developments from academia into tools that thousands of marketers, engineers, and data scientists use every day. You will join Optimizely’s Machine Learning/Statistics team, in charge of Stats Engine and machine learning methods that interface with Stats Engine such as Stats Accelerator, a novel multi-armed bandit algorithm for dynamic traffic allocation designed to deliver faster results.
+You will work with our product and engineering teams to build new statistics features for all of Optimizely’s products. You will get on customer calls to articulate how we maintain statistical accuracy in our products as well as triage questions around statistical inference. You will educate internal and external stakeholders about fundamental as well as cutting edge statistics concepts via webinars, speaking engagements, blog posts, and white papers. You will conduct original research and publish results in academic and industry conferences.
+Requirements
+PhD in Statistics or a closely related field, or 5+ years of equivalent industry experience in A/B testing and digital experimentation
+Strong research interest and experience with design of experiments, randomized control trials, and inference, particularly aspects of high throughput testing such as multiple hypothesis testing, sequential testing, robustness, data mining of experiments
+Experience with Python and/or Java preferred
+Some experience in math education such as teaching, teaching assistantships, consulting, or conference talks
+Some of our public work:
+Papers
+Stats Engine White Paper - http://pages.optimizely.com/rs/optimizely/images/stats_engine_technical_paper.pdf
+Stats Engine Academic Paper - https://arxiv.org/abs/1512.04922
+Blog Posts
+Bayesian vs Frequentist Statistics https://blog.optimizely.com/2015/03/04/bayesian-vs-frequentist-statistics/
+Optimizely’s Stats Engine https://blog.optimizely.com/2015/01/20/statistics-for-the-internet-age-the-story-behind-optimizelys-new-stats-engine/
+Approximate Counting and Statistical Significance https://medium.com/engineers-optimizely/approximate-counting-and-statistical-significance-two-great-ideas-that-dont-play-nice-2bd643287644#.6uyxiytlr
+Conference Talks
+CODE @ MIT 2016: A/B Testing in a Changing World
+INFORMS 2015: Can I Take a Peek? Continuous Monitoring of A/B Tests
+CODE @ MIT 2014: Can I Take a Peek? Continuous Monitoring of A/B Tests Qualifications
+null
+Additional InformationAll your information will be kept confidential according to EEO guidelines."	"24 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=f3c1dc8e8cb2a3fb"	"DATA SCIENTIST"	"Academia.edu"	"-"	"San FranciscoAcademia is looking for an experienced Data Scientist skilled at building and deploying predictive models and performing deep statistical analyses to support and accelerate our growth initiatives.
+In this role you will partner with our revenue conversion, growth and engineering teams to build and deploy models and conduct analyses that enable Academia to grow users and revenue faster and more efficiently. You will be a core contributor to building our data science practice!
+The Data Science team leverages Academia’s data to deliver insights for our customers and inform product direction and decision-making. We operate full-stack, conducting analyses, prototyping and deploying predictive models and statistical tools both for internal use and for our customers.
+Here’s what you’ll do day-to-day:Build and deploy models that can be used for forecasting and optimization, in areas such as:Predicting lead and customer value (conversion, churn, growth, etc.)Targeting upsell of additional products and product tiers both in-app and through marketing effortsDevelop reusable statistical tools for tracking and analyzing growth experimentsConduct ad hoc statistical analyses and deep dives into our data to support Academia’s growth and revenue conversionEnhance and contribute to the team’s core analysis and modeling systems and librariesPresent and communicate results across the companyIdentify new opportunities to leverage data to improve Academia’s products and help our business
+Here’s what we’re looking for:
+Recent college grad or preferred 2+ years’ experience conducting statistical analyses on large datasets, ideally in an internet consumer business context (can supplement with academic experience where appropriate)Experience applying a variety of statistical and modeling techniques using Python, R or another statistical modeling language, as indicated by familiarity with many of the following techniques - generalized linear modeling, regularization, ensemble models (e.g., random forest, gradient boosting), Bayesian analysis methods, time series analysis, hierarchical modeling, and Monte Carlo methods.Strong programming skills - comfortable with all phases of the data science development process, from data collection all the way through to deploymentExcellent communication skills - able to effectively deliver findings and recommendations to non-technical stakeholders in a clear and compelling fashionPhD or Masters is a plusExperience designing valid controlled experiments and conducting robust analyses on the resulting data.
+The Academia Story
+Academia’s mission is to make every academic paper ever published available for free online.
+Our site accelerates research and supports critical breakthroughs in all areas of research by allowing academics to publish and share their own work. Not only do these academics share their own research, they can use our platform to monitor deep analytics around the impact of their research, and track the research of academics they follow.
+Over 60 million academics are Academia.edu members, and have added 19 million papers. Academia.edu attracts over 30 million unique visitors a month, and has attracted investment of more than $34 million from leading VC firms including Khosla Ventures, True Ventures, Spark Capital and Tencent. Our work has garnered favorable attention from trade and mainstream media including Fortune, Wired, EdTech, Venture Beat, San Francisco Business Times, The Economist, The Washington Post, TechCrunch, Scientific American and Forbes.
+Academia is turning cash flow positive and revenue growth is rapid.
+Academia is turning cash flow positive; our revenue run rate is growing rapidly.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+APPLY"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=7c7293359d1bca41"	"Data Scientist - CA"	"Bind Benefits"	"-"	"Position Summary
+The Data Scientist will perform analyses of structured & unstructured data to solve multiple & complex business problems utilizing advanced statistical techniques & mathematical analyses & specialized expertise in organization and/or industry. A Bind Data Scientist directs and participates as an active, hands-on member a team of Data Scientists to design, develop, and implement end-to-end cloud based machine learning production pipelines (data exploration, sampling, training data generation, feature engineering, model building, and performance evaluation).
+Location: San FranciscoDepartment: Data ScienceReports To: Data Science LeadEmployee Status: Full-Time, Regular, Exempt
+Responsibilities:
+Ensures that data pipelines are scalable, repeatable, and secure, and can serve multiple users within the company
+Collects, parses, manages and analyzes and visualizes large sets of data using multiple platforms
+Codes, tests, and documents new or modified data systems to create robust and scalable applications for data analytics
+Works with developers to make sure that all data solutions are consistent and ensures all automated processes to preserve data by managing the alignment of data availability and integration processes
+Essential Role RequirementsEducation:
+Bachelor's degree in Information Technology, Mathematics, Computer Science, or a related quantitative discipline required.
+Masters in Statistics preferred.
+Required Experience:
+Experience working with a team of Data Scientists
+Experience working with both Structured AND Unstructured data
+Demonstrated experience with agile or other rapid application development methods
+Health Care Data Experience required
+Experience with Medical Claims Data
+Ability and Experience to write Python code against Health Care Data
+Experience with developing predictive models using machine learning methods; performing data quality assessment, data integration & transformation in preparation for analytics modeling
+Extensive knowledge in different programming or scripting languages along with writing / running mark-up data
+Expert knowledge of data modeling and understanding of different data structures
+Preferred Skills:
+Experience with any of the following technologies: R, SQL Server, Java, Hadoop, Hive, SPSS Modeler, SPSS Statistics, Jupyter Workbook, HTML
+What is Bind?
+Bind rewired health benefits to be on-demand. This means people are covered for what they need and have the flexibility to add more coverage if or when they need it. The Bind plan puts the power in people's hands, where it belongs, and allows them to design their health benefits coverage on-the-go, based on their life and needs.
+The Bind app and website lets people see the total cost of care, and what their copays will be, well in advance of getting treated. No more confusing coinsurance and deductible formulas; Bind keeps things clear and simple.
+Why Bind?
+We believe a career at Bind should provide competitive pay and benefits, a collaborative and supportive work environment, plus
+cutting-edge technology and services that focus on innovation and scale - more reasons to love it here."	"24 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=d0d18093d324cca4"	"c(\"Data Scientist - Insurance\", \"Job requirements\", \"More details\")"	"Blue Owl"	"2 reviews"	"A million people a year die in car collisions around the world and we want that number to be zero. We invite you to help us build an InsurTech company that uses rich customer insights, advanced technology and data science to save lives by preventing car collisions before they happen. To this end, we recently helped launch our first product, hiroad.com, a cloud native insurance solution that rewards people for the act of driving well.
+With impressive funding, a compelling vision, and a world-class team, we're poised to re-engineer a trillion-dollar category from the ground up- and that's just where we're beginning. Longer term, we're out to change behavior and promote mindful living at a societal level.
+We're seeking someone to build and support critical backend systems and services that are core to our business. This includes the rewards system that will be used to increase driver safety, designing APIs, creating/managing databases, and writing automated test suites.
+General tools you build will be open sourced and will ideally be consumed by the greater community.
+Job requirements
+This role will require the candidate to be extremely hands on with building models and data driven tools. Past experience implementing complex data-driven solutions is required.
+Advanced Python skills. Should be familiar with Python’s scientific computing ecosystem.
+Advanced SAS skills. Should be familiar with SAS best practices.
+Deep experience with GLMs as well as modern machine learning methods.
+Actuarial science is a plus, but is not required.
+More details
+Salary: We invest in first-rate people and pay top-of-market salaries for most positions, factoring in experience and talent. We are unable to offer equity.
+Benefits: Full medical, dental, vision coverage, 401k, daily catered lunch, wellness reimbursement & on-site shower, four weeks of vacation, six weeks of parental leave, panoramic views, and more.
+Location: Near Montgomery Street BART station, San Francisco, California. Locals preferred, but relocation within the US considered for outstanding candidates.
+All are welcome at Blue Owl. We are an equal opportunity and affirmative action employer who values diversity and inclusion and looks for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=45754869d697e448"	"Data Scientist"	"FlowCommand Inc."	"-"	"$80,000 - $140,000 a yearFlowCommand is hiring a lead data scientist for our San Francisco office. We are a sensor company that aims to accurately capture the behavior of high throughput fluid systems. With this information we can help optimize allocations while reducing spills and theft. This technology could change the way the oil and gas industry, water municipalities, and anyone dealing with high volume fluid, operate. Our sensors send ultrasonic data directly to our server via cellular/satellite; we then use a mix of physics equations, signal processing, and anomaly detection to determine the behavior of fluid (volume and speed) in pipes.As the first data engineer at FlowCommand, you will work closely with our small team split across Houston, San Francisco and Mexico City. You’ll leverage our remotely controllable flow-loop test facility in Houston to generate training data from our sensors. As the owner of this process, you will be building the foundational models and algorithms that our future suite of products will run on.Responsibilities: Increase accuracy of our measurementsIncrease the accuracy of our confidence in our measurementsCollaborate with engineers to build models that enable a fundamentally new sensor technologyUnderstand, source and leverage tangential/contextual datasetsIncrease the use-cases of our products by identifying correlations with tangential/contextual datasetsRequirementsExperience building production grade Machine Learning modelsExperience building models with limited training dataStrong written and verbal communication skills.Expert knowledge and demonstrable experience with Python and SQL.Team oriented and able to take an idea from conception to launch.Preferencesdegree in Statistics or Computer Science with a Machine Learning focus.Note:If you have a very strong theoretical knowledge of building these models from a PhD or something similar but no experience, you should still apply for considerationFlowCommand is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.Job Type: Full-timeSalary: $80,000.00 to $140,000.00 /yearExperience:Data Science: 1 year (Required)Education:Bachelor's (Preferred)Location:San Francisco Bay Area, CA (Required)Work authorization:United States (Required)"	"4 days ago"	"$80,000 - $140,000 a year"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=c9bdb952f06e70a5"	"Data Scientist, Product analytics"	"eBay Inc."	"1,505 reviews"	"Position: Data Scientist, Product Analytics
+Organization: StubHub, www.stubhub.com (an eBay company NASDAQ: EBAY)
+The Opportunity
+We are looking for an experienced Data scientist with exceptional product sense to help champion the use of data in product decision-making. In this role you will work closely with our Engineering, Product, Ops, and Design teams to evaluate product opportunities, track product metrics, develop and analyze experiments, and drive deep-dive studies to identify new opportunities.
+You will:
+Apply data & analytical skills to help understand how our customers use our products
+Partner closely with product leadership to define, measure and report on core product and feature metrics
+Design customer-facing experiments (A/B tests) and distill their results into actionable outcomes
+Execute cohort studies and drive analyses to understand customer behavior and identify opportunities for improving our product(s)
+Collaborate with data and business intelligence teams to develop reports and visualization dashboards
+Build financial models to project key business metrics - Traffic, conversion, Engagement - and develop KPIs to measure initiative performanceYou have:
+Strong quantitative background with Product analytics experience. Proven track record in solving business problems through fact based and scientific analytics
+Excellent technical skills - including the ability to query databases (SQL, Hive etc.), leveraging R/Python to analyze complex data, and using Tableau (or other visualization tools) to deliver insights at scale
+Deep understanding of statistics, experimental design, and causal inference
+The ability to translate analytical insights into clear recommendations and effectively deliver it to technical and non-technical stakeholders
+Worked in cross-functional and cross-cultural teams, and are able to communicate technically intricate concepts/results in business terms
+Passion for technology and consumer productsWhy StubHub?
+StubHub is the world's largest ticket marketplace, enabling fans to buy and sell tickets to tens of thousands of sports, concert, theater and other live entertainment events. StubHub reinvented the ticket resale market in 2000 and continues to lead it through innovation. The company's unique online marketplace, dedicated solely to tickets, provides all fans the choice to buy or sell their tickets in a safe, convenient and highly reliable environment. All transactions are processed and delivered by StubHub and backed by the company's FanProtect Guarantee™ processing a ticket every second today with billions of ticket sales each year globally. Company partners MLB, AEG, ESPN and many leading teams such as the San Francisco Giants and University of Texas, along with over 60 other teams in MLB, NBA, NHL and NCAA.
+Our Values
+StubHub One – We act as one team in pursuit of connecting people through inspiring event experiences.
+At StubHub, we are:
+Driven – We strive for excellence – constantly improving our game
+Courageous – We are bold & not afraid to challenge the status quo
+Inventive – We see what others don’t & pioneer new paths
+Richly Diverse – We recognize & respect everyone as a unique individual
+Brand – We experience the world through StubHub.This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies
+View our privacy policy
+View our accessibility info
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+For more information see:
+EEO is the Law Poster
+EEO is the Law Poster Supplement"	"2 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70
+"https://www.indeed.com/viewjob?jk=7cf3ae88333ef82f"	"Data Scientist / Machine Learning Engineer - Classification Science"	"Rakuten Intelligence"	"-"	"Rakuten Intelligence is looking for a Data Scientist / Machine Learning Engineer to join our Classification Science team.
+
+To create one of the world's richest commerce data sets and help deliver never-been-seen insights on customer purchase behavior, the Classification Science team is responsible for building systems to semantically classify and normalize billions of products across thousands of retailers. This includes building highly accurate machine learning models, engineering scalable systems, and incorporating crowdsourcing to have continuously improving human-in-the-loop systems. We leverage existing open source technologies and established machine learning approaches, but also innovate and research new techniques.
+
+As a data scientist / machine learning engineer, you will spend a mix of your time researching new solutions for product classification as well as productionizing these solutions to make sure they work at scale. You will work with world-class data scientists who hold MS/PhD degrees from top global schools such as Stanford University, University of Washington, Carnegie Mellon University, and National Taiwan University, and veterans from companies such as Microsoft, AOL, Yahoo!, and Twitter.
+
+Rakuten Intelligence was founded by proven entrepreneurs and, as a Rakuten group company, offers the best of both worlds: a start­up environment with the backing of an established global enterprise that is revolutionizing the internet services landscape.
+
+This position will be located in San Mateo or New York.
+Responsibilities:Research and experiment with different machine learning algorithms and techniques for item classification, product recognition and matching, attribute extraction
+Conduct design and code reviews
+Productionize the developed Machine Learning solutions
+Work with engineers to make sure the engines scale well on high volumes of data
+Requirements:MS/PhD in Computer Science or a related field
+3+ years of industry experience in data science and machine learning preferred
+Expertise in Machine Learning
+Strong CS fundamentals, such as algorithms and data structures
+Expertise in Python
+Proficiency with relational databases such as MySQL
+Experience with cloud computing stacks such as Amazon Web Services preferred
+Excellent written and verbal communication skills
+Enthusiasm for working hard and having fun in a dynamic environment
+Who we are:
+Rakuten Intelligence is online shopping, smarter. Rakuten Intelligence is transforming e-commerce by unveiling never-before-seen e-commerce insights via its market research products, which are powered by our popular consumer applications, Rakuten Slice and Unroll.Me.
+
+Rakuten Intelligence has developed a technology that extracts commerce data from emails to make it actionable for businesses and consumers. With the largest panel of online shoppers under measurement, Rakuten Intelligence provides the most detailed, accurate, and actionable e-commerce data available, and is the most cited source on e-commerce by the media. Learn more about Rakuten Intelligence at www.rakutenintelligence.com ( http://%C2%A0www.rakutenintelligence.com )and on twitter @RakutenIntel.
+
+Rakuten Intelligence was incubated as a research project at Stanford, where the best and brightest minds in machine learning set forth on how to extract business value from the vast amount of unstructured purchase data in inboxes. When we took that project out of the lab and to the market, we retained the culture of excellence and personal growth, with respect for a healthy work-life balance. Because we love what we do and care about the people we work with.
+Values:Start­Up Environment – Work is fun, roles are challenging. Always prioritize the company's success over egos. We innovate, take risks, move quickly and fail fast.
+Hire smart and develop talent – ­ We are entrepreneurial self-starters who ignite/inspire growth on an individual, team and company level.
+Say it like it is – We create a transparent, respectful environment within our company and for our users and partners. We give and receive prompt honest feedback.
+Get it done ­ – We measure our success based on results rather than activity. We use the 80/20 rule. ­Perfect is the enemy of good.
+Customer success is our own – We treat our customers and partners with respect. We are easy to do business with.
+Benefits & Perks:Competitive compensation package including base salary, bonus and Rakuten stock
+Medical, dental, vision and basic life insurance
+Flexible Spending Account (health care and dependent day care)
+401K plan
+Unlimited Paid Time Off
+Paid Parental Leave: Maternity (up to 22 weeks off / 16 weeks paid) and Paternity (up to 8 paid weeks off)
+Free Caltrain Go Pass for unlimited train travel
+Onsite secured bike storage and $20/month bike reimbursement through WageWorks
+$10,000 / $5,000 employee referral program
+$2,000 towards professional development (annually)
+
+Healthy and Fun Work Environment at our San Mateo, CA headquarters:
+Daily catered breakfast and lunch
+Various drinks and snacks
+Ping-pong table, air hockey table, corn hole and board games
+Adjustable sit/stand desks
+Fully-equipped nursing mom rooms with hospital grade pumps and fridges
+Onsite gym with showers and lockers
+Partnership with YMCA for discounted membership. YMCA is 2 blocks from the office
+Company social and volunteer events
+"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	70

@@ -22,24 +22,26 @@ library(stringr)
 # Requires rvest library.
 #
 extract_listing_urls <- function(page_html) {
-    
     listing_urls <- html_nodes(page_html, '.result')
     job_ids <- xml_attr(listing_urls, 'data-jk')
     
-    base_url <- 'https://www.indeed.com/viewjob?jk'
-    job_urls <- unlist(lapply(job_ids[1], function(x) paste(base_url, job_ids,
-                                                            sep='=')))
-    return(job_urls)
+    if (length(job_ids) == 0) {
+        return(NA)
+    } else {
+        base_url <- 'https://www.indeed.com/viewjob?jk'
+        job_urls <- unlist(lapply(job_ids[1], function(x) paste(base_url, job_ids,
+                                                                sep='=')))
+        return(job_urls)
+    }
 }
 
 
 # Extracts data from an individual job listing, collecting as much as possible,
 # returning as highly structured data as possible.
-extract_listing_data <- function(page_url) {
-
+extract_listing_data_ <- function(page_url) {
+    
     page_html <- read_html(page_url)
     
-    # data <- xml_attr(page_html, 'ATTR')
     title <- html_nodes(page_html, 'h3') %>% html_text()
     
     company <- html_nodes(page_html, '.icl-u-lg-mr--sm') %>% html_text
@@ -57,13 +59,40 @@ extract_listing_data <- function(page_url) {
     meta_data <- html_nodes(page_html, '.jobsearch-JobMetadataHeader-item') %>%
         html_text
     
-    return(list(title=title,
+    return(list(url=page_url,
+                title=title,
                 company_name=company_name,
                 company_score=company_reviews,
                 description=description,
                 time_posted=time_posted,
                 metadata=meta_data))
     
+}
+
+
+# Function wraps extract_listing_data_() with tryCatch to handle weird errors
+extract_listing_data <- function(page_url) {
+    
+    job_data <- tryCatch({
+        extract_listing_data_(page_url)
+    }, warning = function(w) {
+        list(url=page_url,
+             title=NA,
+             company_name=NA,
+             company_score=NA,
+             description=NA,
+             time_posted=NA,
+             metadata=NA)
+    }, error = function(e) {
+        list(url=page_url,
+             title=NA,
+             company_name=NA,
+             company_score=NA,
+             description=NA,
+             time_posted=NA,
+             metadata=NA)
+    })
+    return(job_data)
 }
 
 
@@ -109,15 +138,25 @@ for (city in cities) {
         # *** Main data extraction! ***
         results_page_html <- read_html(results_url)
         job_listing_urls <- extract_listing_urls(results_page_html)
-        page_listing_df <- sapply(job_listing_urls, extract_listing_data) 
-        # %>%
-        #    mutate('date_scraped'=Sys.Date(),
-        #           'city'=city,
-        #           'page'=page)
+        page_listing <- sapply(job_listing_urls, extract_listing_data) 
+        # *** Extraction End ***
+        
+        # Prepare data for export as TSV
+        listing_df <- as.data.frame(t(as.data.frame(page_listing))) %>% 
+            mutate(date_scraped=Sys.Date(),
+                   city=city,
+                   page=page,
+                   url=as.character(url),
+                   title=as.character(title),
+                   company_name=as.character(company_name),
+                   company_score=as.character(company_score),
+                   description=as.character(description),
+                   metadata=as.character(metadata),
+                   time_posted=as.character(time_posted))
         
         # Save output as TSV
         output_filepath <- create_output_filepath(city, page)
-        write.csv(output_filepath, sep='\t', row.names=FALSE)
+        write.table(listing_df, output_filepath, sep='\t', row.names=FALSE)
 
     }
     

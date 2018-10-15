@@ -1,0 +1,303 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=45754869d697e448"	"Data Scientist"	"FlowCommand Inc."	"-"	"$80,000 - $140,000 a yearFlowCommand is hiring a lead data scientist for our San Francisco office. We are a sensor company that aims to accurately capture the behavior of high throughput fluid systems. With this information we can help optimize allocations while reducing spills and theft. This technology could change the way the oil and gas industry, water municipalities, and anyone dealing with high volume fluid, operate. Our sensors send ultrasonic data directly to our server via cellular/satellite; we then use a mix of physics equations, signal processing, and anomaly detection to determine the behavior of fluid (volume and speed) in pipes.As the first data engineer at FlowCommand, you will work closely with our small team split across Houston, San Francisco and Mexico City. You’ll leverage our remotely controllable flow-loop test facility in Houston to generate training data from our sensors. As the owner of this process, you will be building the foundational models and algorithms that our future suite of products will run on.Responsibilities: Increase accuracy of our measurementsIncrease the accuracy of our confidence in our measurementsCollaborate with engineers to build models that enable a fundamentally new sensor technologyUnderstand, source and leverage tangential/contextual datasetsIncrease the use-cases of our products by identifying correlations with tangential/contextual datasetsRequirementsExperience building production grade Machine Learning modelsExperience building models with limited training dataStrong written and verbal communication skills.Expert knowledge and demonstrable experience with Python and SQL.Team oriented and able to take an idea from conception to launch.Preferencesdegree in Statistics or Computer Science with a Machine Learning focus.Note:If you have a very strong theoretical knowledge of building these models from a PhD or something similar but no experience, you should still apply for considerationFlowCommand is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.Job Type: Full-timeSalary: $80,000.00 to $140,000.00 /yearExperience:Data Science: 1 year (Required)Education:Bachelor's (Preferred)Location:San Francisco Bay Area, CA (Required)Work authorization:United States (Required)"	"4 days ago"	"$80,000 - $140,000 a year"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=630f074f791bb58e"	"Data Scientist - Rider Growth"	"Uber"	"548 reviews"	"At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+About the Role
+The Rider Growth team at Uber is responsible for accelerating demand growth across 400+ cities worldwide. The Data Scientist - Rider Growth role will provide the data expertise as we drive towards enhancing growth and deepening engagement. In this position, you will offer a data-driven perspective and work closely with product, engineering, and marketing. You will be on the forefront of analysis and leverage our data sources to propose new ideas related to every area of our product, including quantifying the value of riders, exploring trends in user behavior, and optimizing features via experimentation. Our team's autonomy gives us the flexibility to focus on the highest-impact projects in this dynamic and challenging role as we bring increasing numbers of users onto the Uber platform.
+What you'll do
+Leverage data to perform intensive analysis across all areas of our business to drive growth strategies, including product development and rider engagement strategies
+Generate ideas for exploratory analysis to shape future projects and provide recommendations for actions
+Perform time-series analyses, hypothesis testing, and causal analyses to statistically assess relative impact and extract trends
+Build models to enhance understanding of user behavior and predict future performance of cohorts
+Design experiments and interpret the results to draw detailed and actionable conclusions
+Create dashboards and reports to regularly communicate results and monitor key metrics
+Present findings to senior management to inform business decisions
+Collaborate with cross-functional teams across disciplines such as product, engineering, operations, and marketing
+What you'll need
+Minimum 4 years of experience in a quantitative analysis role with emphasis on statistics
+BA/BS/MS in Math, Economics, Statistics, Engineering, Computer Science, or other quantitative field (advanced degrees are a plus)
+Excellent SQL skills and the ability to use tools such as Python, R, or Excel to work efficiently at scale with large data sets
+Advanced knowledge of experimentation and statistical methods
+Ability to deliver on tight timelines and move quickly while maintaining attention to detail
+Work closely with cross-functional teams to execute on decisions
+Self-driven with the ability to work in a self-guided manner
+Superb communication and organization skills"	"19 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=92bdc8c874b38ae0"	"Data Scientist"	"Brightidea"	"2 reviews"	"The Role
+
+We are seeking machine learning developers with natural language processing experience.
+
+In general, we are looking for people who are self-motivated and passionate about the field of machine learning and the vast applications of it. These folks will have the ability to work with / understand / and build on top of an existing code base using their deep knowledge of various machine learning algorithms (e.g. neural networks, bayesian methods, etc).
+
+Key responsibilities include, but not limited to:
+Build on top of an existing text processing/classification system
+Write, maintain, and develop python machine learning modules & repos
+Run hyperparameter optimizations + collect, analyze, visualize, and present results
+What You Need to Succeed
+BS or MS in computer science, mathematics, physics or other hard science/engineering discipline
+Programming in Python ~ 2+ years
+Numpy, scipy, pandas, Jupyter, and scikit-learn background
+Data visualization (e.g. matplotlib, seaborn, bokeh, mpld3, etc)
+Ability to implement machine learning algorithms from scratch
+Experience with full machine learning pipeline: from data preprocessing, to building/training various models, to hyperparameter optimization, testing, and visualization of results.
+Background in deep learning preferred but not required
+In Your Application Please Include
+A past machine learning project you worked on in which highlights your skills, including: What tools/models did you use? What were some problems you encountered along the way, and how did you solve them?
+What Brightidea Offers
+Market competitive salary and significant equity in a well-funded, growing company
+A chance to impact human creativity
+Generous vacation and holidays
+Top-notch benefits (healthcare, vision, dental, maternity, paternity, retirement)
+A unique opportunity to use your leadership skills, experience, and contacts to build a team and shape the culture of the company.
+An incredible team of fun, humble but brilliant co-workersBackground
+
+Helping large companies innovate isn’t easy, but it is vital. Vital to creating new jobs. Vital to igniting growth. Vital to ensuring a safe, healthy and prosperous future of billions around the globe.
+
+But, Innovation at large companies is a mess. Employees have lots of ideas on how to improve a business, but with no formal process, their suggestions go unheard and they give up trying to make a difference. Corporate innovation labs are expected to support countless different activities to promote innovation but lack the right tools for the job. Executives are seeing disruption everywhere they look and investing millions, but still have no idea where their “next big thing” will come from, or if it will come at all.
+
+At Brightidea, we’ve built a platform that’s solving those problems. We’ve been helping corporate R&D teams be more efficient with the 1.5 Trillion dollars invested annually.
+
+Our Team
+
+We’re a tight-knit, entrepreneurial minded, team of self-starters who show up every day for the same reason: to create an impact on the way the world innovates. Our aim this year at Brightidea is to make it our Best Year Ever and we plan to accomplish that through our creative, focused, ambitious, and humble approach to change the way corporate R&D teams run innovation challenges.
+
+Anyone entering our company will have the opportunity to shape the culture and be an integral part of setting it up for long term success. If you can identify with being humble, T-shaped, and relentlessly resourceful than this could be the perfect team for you to add your contributions to and shine in.
+
+Brightidea believes that everyone has the ability to make a difference and that a diverse team generates more innovation and bigger ideas. Just as our product invites organizations to crowd source innovation across their workforce, Brightidea is inclusive and does not discriminate. We accept everybody."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=b4eca075539f2ca5"	"Data Scientist"	"Photon Infotech"	"68 reviews"	"$80 - $90 an hourContractLocation: San Francisco, CAJob Description -we’re looking for a Personalization Technical Architect for a Fortune 100 client. You’ll be leading theeffort to design a personalization engine to power capabilities that serve marketing to clients acrossmany different channels including CMS, Marketing Automation, CRM or even a Chatbot . You'll enablethese different capabilities and channels, by evaluating how they serve target clients and segments andbackward engineering what the engine needs to gather to drive personalization decisions for thesechannels. Defining the strategic data analytics architecture by understanding the enterprise analyticsvision and translating it into actionable strategies that deliver low latency, highly scalable, cloud baseddigital analytics and personalization capabilitiesRoles & Responsibilities: Must be able to understand and use conceptual frameworks to help organize organizationalapproaches to personalization Understand the analytics related to Segmentation analysis and how it factored to personalizationexperience Understanding of A/B testing and how to measure metrics for success Hands-on experience with one of the analytics platform IS A MUST. Demonstrate corecapabilities with either Prediction.io, H2O, R or Phyton ML Hands-on experience with data ingestion through realtime or batch framework Understand data cleansing algorithm and how to remove outliers and treat missing data Develop architectural standards, workflows and interface specification documents thatcomplement the architectural vision while enforcing best practices. Provides guidance, leadership and expertise to define solution architecture and strategies acrossvarious departments throughout the enterprise. Work closely with various departments across the enterprise in maintaining architecturalstandards and in implementing business rules the will support the overall data strategy.Job Types: Full-time, ContractSalary: $80.00 to $90.00 /hourExperience:Data Scientist: 10 years (Preferred)"	"28 days ago"	"c(\"$80 - $90 an hour\", \"Contract\")"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=32fc404a60c2e90f"	"c(\"Physical Data Scientist\", \"Key Responsibilities\", \"Skills/Experience\")"	"Carbon3D"	"-"	"Working at the intersection of hardware, software and molecular science, we are committed to delivering on the promise of 3D printing, enabling commercial customers to go beyond basic prototyping to 3D manufacturing.
+Our company is built on the idea that diverse fields of study must come together to solve intractable problems. We have grand ambitions to create technology that will influence industry around the world.
+You will be joining a diverse team with a vibrant culture, where team success is as important as celebrating individual contributions.
+Help us change the world and we will help you change yours.
+Key Responsibilities
+Cross-functional position that combines statistics with a strong intuition of physical processes using small to large data sets
+Build statistical models of physical processes that range from lab R&D experiments to production projects
+Determine correlations and relationships between multiple inputs and outputs
+Help guide experimental design for various projects with statistical requirements in mind
+Skills/Experience
+M.S. or higher in applied statistics or another STEM field where statistics was an integral part of research/development projects
+5 years of work experience preferred
+Expert in statistical analysis software tools/programming
+Experience contributing to projects related to fluid mechanics, structural mechanics, physics, and/or chemistry
+Ability to model or simulate dynamical systems with empirical or physical information
+Ability to clean and organize large datasets
+Excellent verbal communication skills
+DOE experience a plus"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=0c171ac6d747827e"	"BioMedical Data Scientist"	"Medal"	"4 reviews"	"Welcome to MEDAL! We're making it easy to share and search patient health records (HIPAA). We help doctors and their staff get off the fax machine and into the modern age at a fraction of the time and cost. Our work lies at the intersection of patient privacy and authorized secondary use of Electronic Health Records (EHR).
+
+MEDAL is hiring a BioMedical Data Scientist to analyze relevant patient health information and public knowledge sources.
+In this role, you will:Prepare datasets relevant for health data analysis
+Recommend instances for human expert review
+Match personal identifiers using statistical methods
+Develop analytical methods for administrative and clinical care use cases
+Research and compare machine learning approaches, methodologies, and datasets
+
+REQUIRED
+Python or Java
+Naive Bayes Classifiers (NBC)
+Domain Specific Languages (DSL) / concept dictionaries
+Regular expressions (RegEx) and other pattern matching techniques
+Text indexing, such as ElasticSearch/SOLR/Lucene
+Data analysis / data science experience
+Ability to manage and format your datasets is a must
+Bachelor's degree in Computer Science or a related degree
+
+Familiarity or Willingness to Learn
+Deep Learning (or simple Markov models is fine)
+Relevance (such as Vector Space Modeling)
+Concept recognition and similarity searches
+Graph matching problems and methods (structure learning)
+
+Very Nice to Have
+Knowledge of BioMedical databases and dictionaries
+Experience with health data
+Experience with statistics and data visualization (dataviz) tools (matplotlib, MatLab, R)
+"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=2c3a1565bc4b19d5"	"Machine Learning/Data Science Intern"	"Pathrise"	"-"	"InternshipWhat is Pathrise?
+Pathrise (YC W18) invests in undervalued university students or young professionals by coaching them to get a competitive internship or job. The program is completely free upfront. In exchange, Pathrise fellows agree to pay back a share of their first year's salary if and only if they get hired.
+Pathrise is looking for early team members that will work closely with the founders on every aspect of the business. As an early team member, you will help shape the company's vision and culture from the ground up and will have the opportunity to learn about and tackle all aspects of a thriving business.
+Most importantly, you will be helping students and young professionals through one of the most crucial periods of their lives, supporting them in finding their dream job.
+Our Mission
+We seek to uplift and provide guidance for undervalued students and young professionals in their early career. Read more about why we’re driven to do this in our manifesto.
+At Pathrise, we seek to uplift and provide guidance for undervalued students and young professionals in their early career. Our product, platform and team seek to achieve this mission at every turn. We’re looking for a small group of students that are as excited about our mission as we are for our inaugural summer technology internship program of 8-12 weeks in our Daly City, CA office.
+The Pathrise internship program is a great opportunity to work with our tight knit engineering, product, and design teams to improve the future of career services by helping to build the education platform and curriculum that supports our fellows. Our interns will truly be an indispensable part of a fast growing engineering team at a Y Combinator backed company. Our interns will be expected to deliver in an agile environment while building, breaking, and bringing world class web and mobile products into production.
+We are seeking interns with the following qualifications for three of our technology teams:
+Machine Learning & Data Science
+Experience in machine learning and data mining, Python, and with the R statistical package
+Familiarity with some of following technologies: collaborative filtering, decision trees (and automatic tree generation)
+Bayesian methods, clustering techniques (principal components analysis, k-means, etc.) probabilistic graphical models, and neural networks
+Interest in applying data science and machine learning techniques to the job search process.
+Ability to adapt and pick up new techniques
+Coursework in machine learning, statistics, and advanced mathematic
+Passion and enthusiasm for building scalable systems that analyze large data sets and make actionable recommendations
+Benefits include:
+Strong mentoring company culture
+Team lunch in the office
+Access to Pathrise’s world class career accelerator curriculum
+Commuter Reimbursement
+We do not discriminate on the basis of race, religion, sex, gender identity, sexual orientation, age, disability, national origin, veteran status or any other basis covered by law. If you need assistance or an accommodation due to a disability, please let us know.
+If you are also interested in the fellowship, please apply here: https://www.pathrise.com/apply."	"4 days ago"	"Internship"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=1812d3d17b016949"	"c(\"Data Scientist - Machine Learning\", \"What You'll Do\", \"What We Look For\")"	"Affirm"	"4 reviews"	"What You'll Do
+Build production fraud and credit machine learning models; your models will decide who we lend to in real time
+Conduct ad-hoc data analyses; your analyses will decide which policies we adopt, where we expand our business, and whom our partners will be
+What We Look For
+Passion and drive to change consumer banking for the better
+5+ years industry experience or PhD in a related field and 2+ years experience
+Deep understanding of and experience with machine learning and data analysis
+Strong programming ability, preferably in python
+Advanced degree preferred
+About Affirm
+Affirm is reinventing credit to make it more honest and friendly. Started by PayPal co-founder Max Levchin, Affirm gives consumers the flexibility to buy now and make simple monthly payments. Unlike other credit options, Affirm offers transparent payment terms (no fees or compounding interest), and employs advanced technology to reach a broader consumer population.
+#LI-EC1"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=babedfdfdf9a540c"	"c(\"Data Scientist\", \"You will:\", \"Ideally you’d have:\", \"Nice to haves:\n\")"	"Scaleapi"	"-"	"About Scale
+Scale is a rapidly growing post-Series B startup. Our mission is to accelerate the development of AI applications. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include Alphabet (Google), Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more, and we've become an industry standard for the self-driving car market.
+About the role
+As Scale’s first data scientist, you will lead the charge on building our analytical infrastructure and driving insights that lead to step-function improvements in how we operate. We handle millions of tasks for businesses looking to scale their ML development, and we’re looking for a talented data scientist to help us understand it all in the service of building better products. In this role, you will apply statistical models, design and interpret experiments, build mission-critical dashboards, and help structure and order our data in the pursuit of transparency over how we operate and how we can improve.
+
+You will:
+Work closely with product, marketing, business, and ML teams to identify and answer important questions
+Set up, maintain, and scale our data analytics infrastructure
+Build critical dashboards that will guide day-to-day operations, planning, and strategic decision-making
+Iterate on your work and analyses to generate ever-better questions to answer
+Apply statistical models to identify root causes and predict the future performance of tasks, users, and products
+Design, run, and analyze experiments
+Build machine-learning models that power core operations, such as quality assessment and fraud detection
+Ideally you’d have:
+3+ years of industry experience in data science broadly
+Expert knowledge of a scientific computing language (*e.g. *R, Python) and SQL
+Strong knowledge of statistics (clustering, regression, etc.) and experimental design
+Comfort setting up and using BI tools
+Experience with ETL tools and building / maintaining a data warehouse
+Nice to haves:
+A PhD or MS in a quantitative field
+Scale is an equal opportunity employer. We aim for every person at Scale to feel like they matter, belong, and can be their authentic selves so they can do their best work. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=9bf3c4c0dfde1717"	"Data Scientist"	"Advanced Microgrid Solutions"	"-"	"Advanced Microgrid Solutions (AMS) is an energy services platform company pioneering the deployment and optimization of clean energy assets. Our software-as-a-service solution enables the simultaneous optimization of distributed energy resources, including storage, on-site generation, and traditional demand response, providing both consumer benefits and grid services. Check us out at www.advmicrogrid.com.AMS is seeking a data scientist to expand the advanced analytics capabilities of our platform. You will work on the growing Data Science team, along side software developers, product managers, and subject matter experts to shape the evolution of our company and the future of the electricity grid.RESPONSIBILITIES INCLUDE: Working within the data science team to design, develop, evaluate, deploy, monitor, and iterate on our optimization and learning systemsEffectively distilling and communicating your solutionsPromote analytical rigor and empower data-driven decision support throughout the companyUse your expertise to inform our product roadmap and your creativity to tell us how we can better leverage our existing data systemsMINIMUM QUALIFICATIONS: 3+ years of experience building models and developing machine learning algorithms for production systemsBS in Computer Science, Mathematics, Engineering, Operations Research (STEM fields)Strong analytical, problem-solving, and algorithm/software development skillsKnowledge of machine learning, statistical models, and best practices in model validationExperience with data visualization toolsStrong programming experience in at least one of the following languages: Python, R, JavaFamiliarity with relational and non-relational databasesFlexible, self-motivated, detail-oriented character with a strong sense of product ownershipEnjoys collaborating with software developers, product managers, and internal stakeholdersElectricity industry knowledge or an eagerness to learnPREFERRED EXPERIENCE: MS or PhD in Computer Science, Mathematics, Engineering, Operations Research (STEM fields)Developing production-quality time series forecasting modelsStrong technical understanding of various machine learning algorithms and the tradeoffs amongst themExperience with distributed databases and processing large data setsData modeling and pipeline development (ETL)Understanding of software engineering best practices and modern development techniques (e.g., version control, unit testing, continuous integration)Familiarity with numerical programming solvers and solution techniques for large scale optimization problemsExperience using AWSContribution to open source projectsPERKS AND HIRING DETAILS: Perks include Medical, dental, and vision coverage, 401K plan, wellness and commuter benefits, 10 company paid holidays, flexible working hours, generous vacation policy, and working with a team of talented and motivated data scientists to support youFull-time permanent position with title and compensation package (including equity) commensurate with experienceOpen-office space (new office located at 6th & Mission). Equipped with snacksTo apply, email resume (cover letter optional) directed to Corey NooneJob Type: Full-timeWork authorization:United States (Required)"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=bd2504d7c47aea88"	"Data Scientist Machine Learning"	"Chime"	"12 reviews"	"Chime is dedicated to helping our members lead healthy financial lives. That’s why we offer an award-winning bank account that doesn’t charge unnecessary fees, gives members early access to their paychecks, and helps them save money automatically. Hundreds of thousands of people use the Chime mobile app and debit card to make purchases, track spending, save for the future, and more. Our members love Chime and use it daily.
+We believe that the big banks fail to help their members achieve financial health - and in many cases work against it, charging hundreds of dollars in hidden fees and pushing products that drive people into debt. We don’t think it needs to be this way, so we’re out to beat them.
+We have one of the most experienced management teams in Fintech and just raised a $70M Series C funding round, led by Menlo Ventures, to fuel our growth. If you’re looking to join a small but fast-growing company with a beloved, daily-use product and an authentic mission that puts people first, we want to meet you.
+Chime is a technology and data-driven finance startup. We are mining vast amounts of data to protect our members and ourselves from fraudsters. Our Data Scientists play an absolutely pivotal role in the company, creating the models that allow us to evaluate the risk of various types of banking transactions in realtime in unprecedentedly holistic, efficient, and accurate ways.
+What You'll Do
+Build production fraud and transaction based machine learning models; your models will decide which transactions we will approve or decline in real time.
+Work very closely with the Data Engineering team to ensure that we have the data needed by your models instantly available at scale in real time.
+Qualifications & Requirements
+Passion and drive to change consumer banking for the better
+3+ years industry experience or PhD in related field (Computer Science, Statistics, Machine Learning)
+Deep understanding of and experience with machine learning, data analytics, and statistical models
+Strong programming ability
+Advanced degree (MS/PhD) strongly preferred
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Chime is proud to be an equal opportunity employer."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=24d374d5c72ddb42"	"Biostatistician"	"Buck Institute for Research on Aging"	"12 reviews"	"ABOUT US
+The Buck Institute (www.buckinstitute.org) was the pioneer and is now the global leader in health span research. We are seeking a more comprehensive understanding of the biology of aging itself. Since 1999, the Buck Institute has succeeded in its mission by bringing the most capable and most passionate scientific minds together from a spectrum of disciplines. Located in Novato, California, the Buck Institute offers a rich scientific environment with renowned scientist in the field of aging research. We offer a competitive benefits package.
+THE POSITION
+Biostatistician, Scientist or Senior Postdoctoral Fellow. The Schilling and Campisi laboratories are seeking biostatistical support and help with data analysis as part of a translational ‘Biomarker of Aging Study’. Human study samples will be received from the ‘Baltimore Longitudinal Study of Aging’ (BLSA), and the ‘Heart and Soul’ study (UCSF).
+RESPONSIBILITIES
+Biostatistical support for study design, cohort size determination
+Biostatistical analysis of data processing from big data sets
+Data interpretation and presentation
+Data analysis for biomarkers and multi-panel biomarker
+Correlations of Biomarkers of Aging with disease phenotypes and clinical data
+Epidemiological Studies
+QUALIFICATIONS & EXPERIENCE
+Advanced Experience in Biostatistical Methodology
+Collaborative interactions with multiple Principal Investigators at the Buck Institute"	"12 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=446c0a2d807a7a65"	"Signal processing and data scientist"	"GraphWear Technologies Inc."	"-"	"$120,000 - $150,000 a yearSIGNAL PROCESSING AND DATA SCIENTISTINTRODUCTIONAt GraphWear we are on a mission to index human health and physiology for the masses without the need for blood or urine. Medical diagnosis should be available on demand and continuously, not by appointment.Headquartered in San Francisco, GraphWear is first addressing the global diabetic pandemic. We are eliminating painful and expensive blood glucose monitoring systems with a continuous non-invasive sweat glucose monitoring technology.OUR CORE VALUESYour personal healthCaring for your loved onesProblem analysis, debug, invent, test, deploy, and repeatWe never forget to focus on the first two, because without those, the third becomes insignificantJOB OVERVIEWGraphWear Technologies Inc. is seeking a Signal Processing and Data Analysis Scientist with excellent programming skills and a strong background in statistics to be a part of the team that designs, implements, and tests algorithms, and conducts data analysis for GraphWear’s novel bio sensor platform.MINIMUM JOB REQUIREMENTSExperience in statistical modeling, time-series analysis, and signal processing (i.e., digital filtering, spectral analysis, probability, multi-dimensional random processes)Expertise using a variety of classical and modern methods of statistical inference and learning (i.e., regression, point and interval estimation, hypothesis testing, classification, Markov-modeling, clustering, etc.) for solving practical problemsExpertise in Python (pandas, numpy, scipy, matplotlib) or R is a must including best practices/methodologies (i.e., revision control, test-based development)Excellent written and verbal communication skillsSystematic thinker who displays a blend of theoretical rigor and practical, deadline driven task completionMasters or Ph.D. in Engineering, Physics, Computational biology, Mathematics, Statistics, or related field required with 2+ years of direct, relevant industry experienceWHAT YOU WILL BE DOINGSignal processing, time series analysis, and mathematical modelling of real-time stochastic human physiological data collected using state-of-the-art wearable sweat sensorsProcess and analyze in-vitro and in-vivo experimental data, fit data to biochemical and physical models, perform regression analysis, T tests, correlation analysis, etc.Develop and implement signal processing and correlation algorithms using advanced statistical, machine learning, and AI techniques for rapid development and production of high quality cloud-based softwareStatistical analysis of user trial data - starting with ETL (extract, transform and load), including computation of confidence intervals, p-values, t-tests, etc.Contribute to the design of experiments intended to isolate error sources. Statistically analyze the impact of errors on performanceYOU WILL STAND OUT IF YOU HAVEExperience with nanotechnology, biosensors, experimental and real-time data analysisExperience with Ruby on Rails and real-time database systemsJob Type: Full-timeSalary: $120,000.00 to $150,000.00 /yearExperience:data science: 2 years (Required)Education:Master's (Required)Work authorization:United States (Required)"	NA	"$120,000 - $150,000 a year"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=7cf3ae88333ef82f"	"Data Scientist / Machine Learning Engineer - Classification Science"	"Rakuten Intelligence"	"-"	"Rakuten Intelligence is looking for a Data Scientist / Machine Learning Engineer to join our Classification Science team.
+
+To create one of the world's richest commerce data sets and help deliver never-been-seen insights on customer purchase behavior, the Classification Science team is responsible for building systems to semantically classify and normalize billions of products across thousands of retailers. This includes building highly accurate machine learning models, engineering scalable systems, and incorporating crowdsourcing to have continuously improving human-in-the-loop systems. We leverage existing open source technologies and established machine learning approaches, but also innovate and research new techniques.
+
+As a data scientist / machine learning engineer, you will spend a mix of your time researching new solutions for product classification as well as productionizing these solutions to make sure they work at scale. You will work with world-class data scientists who hold MS/PhD degrees from top global schools such as Stanford University, University of Washington, Carnegie Mellon University, and National Taiwan University, and veterans from companies such as Microsoft, AOL, Yahoo!, and Twitter.
+
+Rakuten Intelligence was founded by proven entrepreneurs and, as a Rakuten group company, offers the best of both worlds: a start­up environment with the backing of an established global enterprise that is revolutionizing the internet services landscape.
+
+This position will be located in San Mateo or New York.
+Responsibilities:Research and experiment with different machine learning algorithms and techniques for item classification, product recognition and matching, attribute extraction
+Conduct design and code reviews
+Productionize the developed Machine Learning solutions
+Work with engineers to make sure the engines scale well on high volumes of data
+Requirements:MS/PhD in Computer Science or a related field
+3+ years of industry experience in data science and machine learning preferred
+Expertise in Machine Learning
+Strong CS fundamentals, such as algorithms and data structures
+Expertise in Python
+Proficiency with relational databases such as MySQL
+Experience with cloud computing stacks such as Amazon Web Services preferred
+Excellent written and verbal communication skills
+Enthusiasm for working hard and having fun in a dynamic environment
+Who we are:
+Rakuten Intelligence is online shopping, smarter. Rakuten Intelligence is transforming e-commerce by unveiling never-before-seen e-commerce insights via its market research products, which are powered by our popular consumer applications, Rakuten Slice and Unroll.Me.
+
+Rakuten Intelligence has developed a technology that extracts commerce data from emails to make it actionable for businesses and consumers. With the largest panel of online shoppers under measurement, Rakuten Intelligence provides the most detailed, accurate, and actionable e-commerce data available, and is the most cited source on e-commerce by the media. Learn more about Rakuten Intelligence at www.rakutenintelligence.com ( http://%C2%A0www.rakutenintelligence.com )and on twitter @RakutenIntel.
+
+Rakuten Intelligence was incubated as a research project at Stanford, where the best and brightest minds in machine learning set forth on how to extract business value from the vast amount of unstructured purchase data in inboxes. When we took that project out of the lab and to the market, we retained the culture of excellence and personal growth, with respect for a healthy work-life balance. Because we love what we do and care about the people we work with.
+Values:Start­Up Environment – Work is fun, roles are challenging. Always prioritize the company's success over egos. We innovate, take risks, move quickly and fail fast.
+Hire smart and develop talent – ­ We are entrepreneurial self-starters who ignite/inspire growth on an individual, team and company level.
+Say it like it is – We create a transparent, respectful environment within our company and for our users and partners. We give and receive prompt honest feedback.
+Get it done ­ – We measure our success based on results rather than activity. We use the 80/20 rule. ­Perfect is the enemy of good.
+Customer success is our own – We treat our customers and partners with respect. We are easy to do business with.
+Benefits & Perks:Competitive compensation package including base salary, bonus and Rakuten stock
+Medical, dental, vision and basic life insurance
+Flexible Spending Account (health care and dependent day care)
+401K plan
+Unlimited Paid Time Off
+Paid Parental Leave: Maternity (up to 22 weeks off / 16 weeks paid) and Paternity (up to 8 paid weeks off)
+Free Caltrain Go Pass for unlimited train travel
+Onsite secured bike storage and $20/month bike reimbursement through WageWorks
+$10,000 / $5,000 employee referral program
+$2,000 towards professional development (annually)
+
+Healthy and Fun Work Environment at our San Mateo, CA headquarters:
+Daily catered breakfast and lunch
+Various drinks and snacks
+Ping-pong table, air hockey table, corn hole and board games
+Adjustable sit/stand desks
+Fully-equipped nursing mom rooms with hospital grade pumps and fridges
+Onsite gym with showers and lockers
+Partnership with YMCA for discounted membership. YMCA is 2 blocks from the office
+Company social and volunteer events
+"	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=c9bdb952f06e70a5"	"Data Scientist, Product analytics"	"eBay Inc."	"1,505 reviews"	"Position: Data Scientist, Product Analytics
+Organization: StubHub, www.stubhub.com (an eBay company NASDAQ: EBAY)
+The Opportunity
+We are looking for an experienced Data scientist with exceptional product sense to help champion the use of data in product decision-making. In this role you will work closely with our Engineering, Product, Ops, and Design teams to evaluate product opportunities, track product metrics, develop and analyze experiments, and drive deep-dive studies to identify new opportunities.
+You will:
+Apply data & analytical skills to help understand how our customers use our products
+Partner closely with product leadership to define, measure and report on core product and feature metrics
+Design customer-facing experiments (A/B tests) and distill their results into actionable outcomes
+Execute cohort studies and drive analyses to understand customer behavior and identify opportunities for improving our product(s)
+Collaborate with data and business intelligence teams to develop reports and visualization dashboards
+Build financial models to project key business metrics - Traffic, conversion, Engagement - and develop KPIs to measure initiative performanceYou have:
+Strong quantitative background with Product analytics experience. Proven track record in solving business problems through fact based and scientific analytics
+Excellent technical skills - including the ability to query databases (SQL, Hive etc.), leveraging R/Python to analyze complex data, and using Tableau (or other visualization tools) to deliver insights at scale
+Deep understanding of statistics, experimental design, and causal inference
+The ability to translate analytical insights into clear recommendations and effectively deliver it to technical and non-technical stakeholders
+Worked in cross-functional and cross-cultural teams, and are able to communicate technically intricate concepts/results in business terms
+Passion for technology and consumer productsWhy StubHub?
+StubHub is the world's largest ticket marketplace, enabling fans to buy and sell tickets to tens of thousands of sports, concert, theater and other live entertainment events. StubHub reinvented the ticket resale market in 2000 and continues to lead it through innovation. The company's unique online marketplace, dedicated solely to tickets, provides all fans the choice to buy or sell their tickets in a safe, convenient and highly reliable environment. All transactions are processed and delivered by StubHub and backed by the company's FanProtect Guarantee™ processing a ticket every second today with billions of ticket sales each year globally. Company partners MLB, AEG, ESPN and many leading teams such as the San Francisco Giants and University of Texas, along with over 60 other teams in MLB, NBA, NHL and NCAA.
+Our Values
+StubHub One – We act as one team in pursuit of connecting people through inspiring event experiences.
+At StubHub, we are:
+Driven – We strive for excellence – constantly improving our game
+Courageous – We are bold & not afraid to challenge the status quo
+Inventive – We see what others don’t & pioneer new paths
+Richly Diverse – We recognize & respect everyone as a unique individual
+Brand – We experience the world through StubHub.This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies
+View our privacy policy
+View our accessibility info
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+For more information see:
+EEO is the Law Poster
+EEO is the Law Poster Supplement"	"2 days ago"	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80
+"https://www.indeed.com/viewjob?jk=d0d18093d324cca4"	"c(\"Data Scientist - Insurance\", \"Job requirements\", \"More details\")"	"Blue Owl"	"2 reviews"	"A million people a year die in car collisions around the world and we want that number to be zero. We invite you to help us build an InsurTech company that uses rich customer insights, advanced technology and data science to save lives by preventing car collisions before they happen. To this end, we recently helped launch our first product, hiroad.com, a cloud native insurance solution that rewards people for the act of driving well.
+With impressive funding, a compelling vision, and a world-class team, we're poised to re-engineer a trillion-dollar category from the ground up- and that's just where we're beginning. Longer term, we're out to change behavior and promote mindful living at a societal level.
+We're seeking someone to build and support critical backend systems and services that are core to our business. This includes the rewards system that will be used to increase driver safety, designing APIs, creating/managing databases, and writing automated test suites.
+General tools you build will be open sourced and will ideally be consumed by the greater community.
+Job requirements
+This role will require the candidate to be extremely hands on with building models and data driven tools. Past experience implementing complex data-driven solutions is required.
+Advanced Python skills. Should be familiar with Python’s scientific computing ecosystem.
+Advanced SAS skills. Should be familiar with SAS best practices.
+Deep experience with GLMs as well as modern machine learning methods.
+Actuarial science is a plus, but is not required.
+More details
+Salary: We invest in first-rate people and pay top-of-market salaries for most positions, factoring in experience and talent. We are unable to offer equity.
+Benefits: Full medical, dental, vision coverage, 401k, daily catered lunch, wellness reimbursement & on-site shower, four weeks of vacation, six weeks of parental leave, panoramic views, and more.
+Location: Near Montgomery Street BART station, San Francisco, California. Locals preferred, but relocation within the US considered for outstanding candidates.
+All are welcome at Blue Owl. We are an equal opportunity and affirmative action employer who values diversity and inclusion and looks for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records."	NA	"character(0)"	2018-10-15	"San+Francisco%2C+CA"	80

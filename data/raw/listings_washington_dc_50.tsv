@@ -1,0 +1,435 @@
+"url"	"title"	"company_name"	"company_score"	"description"	"time_posted"	"metadata"	"date_scraped"	"city"	"page"
+"https://www.indeed.com/viewjob?jk=e56f2ca7f206b275"	"c(\"Data Scientist\", \"\nPrimary Goals\", \"\nEducation and Experience\")"	"FourthWall Media"	"-"	"Do you want to build your personal brand with an industry-leading innovator that is always thinking outside the box? Does the box bore you? Do you want to leverage your analytic skills to tackle and solve difficult, seemingly impossible problems in a dynamic and growing industry? FourthWall Media is seeking junior to mid-level data analysts to expand its data analytics products and services.
+This vital role works closely with data scientists and developers to discover insights within massive demographic, TV viewing, and advertising datasets and translate those insights into analytics products and business intelligence for FourthWall’s clients.
+This non-traditional data analyst role requires inquisitiveness bound by pragmatism and cross-disciplinary skills to translate mathematical and statistical exploration into hands-on interaction with existing data systems. Perfectionism and attention to detail are required. Communication with co-workers, both to understand and to explain, is paramount.
+Primary Goals
+Exploration, analysis, modeling, mining, profiling and cleansing of large and interesting datasets
+Searching for key insights, trends, flaws, and value in the data
+Working with the data flow team to enhance quality and coverage
+Working with R&D to develop new analytics processes and prototypes
+Education and Experience
+Excellent written and verbal communication skills are required
+Self-motivating inquisitiveness, the ability to focus on complexity, and the tenacity to tackle seemingly impossible problems are required
+Bachelor’s degree (B.S.) from four-year college or university with a preference in computer science, mathematics or statistics
+Experience with Python is required
+Experience with Hadoop, Hive, SQL, Theano, Tensorflow, Keras, Pandas, Scikit-Learn, R and Mathematica are preferred
+xperience with television and/or advertising data ecosystems (DMPs, DSPs, media buying platforms, analytics platforms) is a plus
+A minimum of 1 years experience in a professional, technical workplace"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=0d5c8c140803b08d"	"Data Scientist - Privacy Specialist"	"Immuta"	"-"	"You'll work on the Research Team investigating state of the art privacy preserving analytics and applying this research to Immuta. This will include studying latest technologies and computational techniques relevant to data integration, virtualization, privacy, and analysis. You'll evaluate the utility of the technology or technique, it's relevance to Immuta, and, when relevant, build prototype integrations or demonstrations. The members of this team have deep knowledge of distributed systems and backgrounds in applied math.
+Beyond your team, you’ll work closely with the Applied Data Science and Customer Success teams to understand customer use cases, usage patterns, and feedback. You’ll work closely with the Legal Engineering team to understand trends in regulations and best practices on a variety of regulatory & privacy related topics. Finally, you’ll work closely with the Product Team to ensure successful hand off and productization of research prototypes that transition to product features.
+There is a great variety to the projects you’ll work on, but a common theme is that they are groundbreaking work in this field, suitable for publishing and/or patenting. Some examples of current projects include differential privacy and enhancements to Immuta’s implementation of it, mathematical techniques to fingerprint data and graphically represent to non-technical users changes in said fingerprint due to policy-driven data transformation, techniques for transforming streaming data based on data access policies.
+With your background in privacy-preserving machine learning, you’ll specifically focus on the aspects of Immuta focused on privacy. You’ll work to enhance our Differential Privacy implementation, you’ll work to ensure Immuta’s approach to model risk management leads the field with respect to privacy, and you’ll research machine learning explainability with respect to privacy.
+
+WE’RE LOOKING FOR DATA SCIENTISTS WHO...are experts in the field of privacy-preserving machine learninghave a strong background in mathematics & statisticsare outstanding problem solvers, can understand tradeoffs without becoming stuck in analysis paralysis, can tackle tough challenges with innovative thinking and determination,have excellent communication skills and can effectively convey the results of investigation for productization and convey the results of analysis / investigations at conferences, in papers, and in other media such as blog posts,have expertise in R or Python or can easily leverage their experience with other tools to become experts in those
+TECHNOLOGIES YOU'LL USEImmuta's Data PlatformJupyterPython, Pandas, PySparkRHadoop, Spark, SparkSQLVarious Distributed Data Processing FrameworksDockerVarious Machine Learning FrameworksVarious Business Intelligence Tools
+WE VALUESQL expertiseProficiency in at least one programming language and associated libraries suited to data science, preferably Python or R,Familiarity with version control softwareExperience with distributed or high performance computingA strong statistics & math backgroundExperience building predictive modelsUnderstanding of privacy and working in regulated environments"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=ef0e99db8eb52506"	"Data Scientist"	"CORMAC Corporation"	"4 reviews"	"Title: Data Scientist
+Job Location : Columbia MD [SF1]
+FLSA Status: Exempt
+Date: October 2018
+POSITION PURPOSE:
+The right candidate will have a chance to help us define world-class data architecture, with open source software, and bleeding-edge data trends and technologies. Apply technical and advanced analytical expertise to explore and examine data from multiple disparate sources with the goal of discovering patterns and previously hidden insights, which in turn can provide a competitive advantage or address a pressing business problem. Leverage expertise in machine learning, data mining, statistical, and graph based algorithms in data analysis, solution development, analytic workflow processes, and complex data visualizations. Provide support at all levels of the organization to develop deliverables and implement change initiatives. Help senior-level decision makers to build their agenda, develop effective implementation strategies, and implement them to achieve sustainable results.
+REPORTING RELATIONSHIPS:
+Reports To: Project Manager
+Primary Working Relationships: Internal and External Customers
+RESPONSIBILITIES:
+On any given day in the Lab you’ll be:Using Hadoop and/or SAS and related tools to manage the analysis of billions of data records.Writing software to clean and investigate large amounts of numerical and textual data sets.Designing rich data visualizations to communicate complex ideas to customers or company leadersInvestigating the impact of new technologies on the future of health informatics of tomorrow
+The Ideal Candidate will be…Curious. You ask why, you exploreWrangler. You know how to move data around, from a database or an API, through a transformation or two, a model and into human-readable form (ROC curve, Excel chart, map, d3 visualization, Tableau, etc.).Do-er. You have a bias toward action, you are willing to try things, and you share both your successes and failures openlyFearless. Big, undefined problems and petabytes don't frighten you. You can work at a tiny crack until you've broken open the whole nut.
+POSITION QUALIFICATIONS:
+Bachelor’s or Master's Degree in Statistics or Computer Science.
+3-5 years experience in the statistical tools and actuarial analysis.
+Experience with relational databases, SQL and distributed systems such as Hadoop
+Experience in applied statistics and exploratory analysis of large-scale datasets
+Experience in one or more of the following tools and languages is a plus. R, Java, C++, Python, SAS or other statistical tools.
+Exposure to Health care systems is a plus
+Ability to communicate effectively both orally and written"	"11 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=5fe414a0b71ed138"	"Data Scientist"	"CGH Technologies, Inc."	"-"	"CGH Technologies, Inc. (CGH) is a business solutions firm, specializing in Data Management, Software Engineering, and Business Intelligence solutions. Located within the Washington corridor, CGH has worked successfully with Government, Commercial and International sectors, providing management, development and maintenance, and support of large and complex environments. CGH has an exciting opportunity for a seasoned Data Scientist to join the CGH Team.
+Purpose:
+The Data Scientist will support projects under the guidance of the Chief Technical Officer to help define and support long-term, enterprise-level data analytics and management strategies. The qualified candidate will have proven abilities in developing data solutions for large scale enterprise applications.
+Responsibilities:
+Work closely with business analysts, subject matter experts and development teams to design, develop, test, implement, and support master data management (MDM) and/or Big Data projects.
+Participate in meetings with both technology and business teams to facilitate the understanding, clarification, and implementation of data requirements.
+Integrates and prepares large, varied datasets for analysis. Identify and assess data attributes using statistical software packages in order to develop recommendations and analytical processes based on customer requirements.
+Researches, develops, implements and utilizes statistical methods and strategies to address tactical and strategic problem sets, while working with a technical team.
+Interprets and analyze sdata collected from a variety of sources using exploratory and statistical techniques, validating findings using an experimental and iterative approach.
+Coordinates multifaceted scientific research and analytic activities and provide scientific and technical consultation about applicable best practices and new techniques.
+Models complex problem sets to help discover insights and identify opportunities through the use of statistical, algorithmic, mining and visualization techniques.
+Designs and implements or coordinates systematic and rigorous scientific procedures for determining reliability, validity and statistical confidence associated with specific technologies and methodologies.
+Presents key findings and methodology to team members, customers, and management.
+Plan/Execute data analysis, system development, prototyping and deployment utilizing agile and project management best practices.
+Create and execute project plan; plan and track cost, schedule and technical quality performance requirements; provide weekly status reports to customer and to contract Program Manager; and ensure task is completed on schedule and within budget.
+Conduct Technical Solutions Assessments and Trade-off Analysis.
+Define the overall customer master data strategy for a portfolio of programs. This will require solving some fundamental and highly challenging issues in terms of what data to capture and how to integrate the data between the business functions, and how to organize it for maximum leverage; what tools and technologies we should deploy; and how we define data governance.
+A key challenge will be to build capabilities that can grow and expand to encompass Software as a Service offerings and an increasing portfolio of support, service, and community web-sites. A core component of the execution is the setup of data stewardship capabilities to implement data governance.
+Work with downstream application designers to integrate MDM into the various workflows. Work with data warehousing, analytics systems to make sure that master data is leveraged appropriately.
+Develop and deliver critical dashboards that described the state of master data health across the organization at the highest level. This will highlight data issues from capture or edge systems.
+Act as an industry thought leader to continue to build up awareness of company as a front-runner SaaS Company across the broader web business community as well as a company that leads in utilizing data as a strategic advantage. This will involve speaking at industry events, sharing best-practices with other companies, building working relationships with key data experts, firms, and consultants, and more.
+The data scientist needs to be able to have an end-to-end vision, and to see how a logical design will translate into one or more physical Databases, and how the Data will flow through the successive Stages involved. He (or she) will need to be able to address issues of Data Migration (Validation, Clean-up and Mapping), and will need to understand the importance of Data Dictionaries.
+QualificationsNumber of Years Experience Required:
+A minimum of 9 years of experience in data mining, machine learning and distributed computing is required
+Minimum Education and Certifications Required:
+Bachelors degree in Statistics, Data Science, Computer Science or Mathematics preferred.
+Technical Skills Required:
+Experience with data modeling, data analysis, data migration tools, data modeling, data integration, data warehousing, database design, and performance tuning on larger databases.
+Experience in various technologies and design.
+Strong experience in integrating services in a MDM mode.
+Computer Skills:
+Other Knowledge, Skills, and Abilities Required:
+U.S. Citizen or person with valid U.S. Work Visa who has lived in the U.S. for three or more years
+Deep mastery of master data management architecture. Must have a mastery of a wide range of data architectures, including Master Data Management (MDM), Big Data, Customer Data Integration (CDI), unstructured data and metadata, data warehouse, real-time database for personalization, in order to best define the appropriate data architecture.
+Experience working with appropriate programming languages, operating systems, hardware and software.
+Experience working with industry specific technologies.
+Strong communication skills.
+Strong interpersonal and presentation skills for interacting with the most senior levels of internal staff, management and clients.
+Strong analytical and problem solving skills.
+Strong leadership skills.
+Good project management skills.
+Candidates selected will be subject to a Government background investigation and must meet eligibility requirements.
+CGH offers a comprehensive benefits package to include medical, dental, short- and long-term disability insurance, life insurance, commuter benefit, and flexible spending account. Other benefits include 401K, paid government holidays, and Paid Time Off (PTO).
+CGH is an Equal Opportunity Employer"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=164a48619bf1d556"	"Data Scientist"	"ByteCubed"	"3 reviews"	"ByteCubed is hiring a Data Scientist/Developer/Engineer to join our Data Science team. Read on to learn more about us, our take on Data Science, the gig, and how to apply!
+
+About ByteCubed
+
+Not so long ago, ByteCubed was a small DC startup founded on the premise that the contracting space was fundamentally broken - as many of us in the DC area know, contracts can be bloated, expensive, and inflexible things, often claiming to provide innovative cure-alls while in fact relying on dated technology stacks. As developers supporting those contracts, we worked in the dark, many degrees of remove from the feedback we needed, and our clients often waited years to see any of the fruits of our labor.
+
+Bytecubed is designed to be different - and while we’re a slightly bigger and more established company now, with a team of about 140 and more than a few awards under our belt, we remain true to the principle that contracts can be lean, agile, focused, innovative, AND profitable enough to keep the lights on and the kids fed.
+
+About this job
+
+People use the words “data science” to mean a lot of different things. At Bytecubed, the data science team mostly does data wrangling, natural language processing, and machine learning. We work with a lot of different kinds of data: unstructured text from the wild web, relational datasets from commercial providers, semi-structured data from public APIs. On a practical level, whether we’re working with social media data or corporate entity data, we’re generally looking for ways to make it easier for client-side folks to do what they already do - look up data, draw connections, anticipate shifts and changes, make hard business decisions - but make it faster, easier, smarter, and more scalable. We leverage libraries from Python and R, tools like Spark and Hadoop, and a range of different SQL and noSQL databases to do that, though we’re fairly open-minded in terms of stack (well, we do have a strong preference for open source).
+
+Who we’re looking for
+First off, you’re a U.S. Citizen and able to work in the U.S. (sorry - this one is non-negotiable because of the contracts we work on). It would be great if you are in the DC/MD/VA commuting area, but we can make a remote thing work if necessary.
+You have a lot of experience working with data, and you’re comfortable with structured and unstructured data (HTML, XML, JSON, CSV).
+You don’t have a dog in the SQL/noSQL fight - you believe in picking the best tool for the job, and you’ve used enough of both to have good instincts about what will work best to solve the problem at hand.
+You’ve been doing object-oriented programming for a while (4+ years), and you know Python/R well enough to hit the ground running on Day One.
+You have a grasp of machine learning and you’re game to help us find smart ways to implement/integrate data science features (e.g. machine learning models) within a Java- and Angular-based software application.
+You have experience with agile software development, know about sprints, scrum, and all that stuff, and you aren’t squeamish about code reviews or rubber ducking.
+You understand why version control is important to data science and are willing to using git branching conventions in a routine, methodical, communicative, and participatory way.Things that are not important to us, But nice to have
+ A PhD or some other advanced degree. If you have one, that’s cool (some of us do, too).
+ Other fancy credentials, certificates, badges, HackerRank or Kaggle scores, etc.
+ Your ability to implement a binary search tree or fizzbuzz on a whiteboard while an interviewer stands behind you.
+ Being “full stack” - yes, experience with a range of tools is nice, but we’re more interested in depth than breadth.
+ A GitHub profile commit calendar that’s lit up like a Christmas tree. We would like to hear about the projects you’ve worked on in the past, but we understand if they aren’t open source. (Also, if you come work with us, you will have an opportunity to work on open source projects.)
+ Working at the office 5 days a week, within an arbitrarily fixed time range every day.
+ Your current or past job titles.How to apply and what to expect
+Please send an email with a paragraph or two about yourself and why you’re interested in this job, along with a link to a publicly-viewable LinkedIn profile or resume. Please use thoughtful, conversational English and proof-read your message. Additionally, please briefly describe one or two projects or products you’ve worked on recently for work, fun, or any other reason. Include the capacity you worked on the project and challenges you faced. (Links to code or live versions are great, but we understand if that’s not possible.)
+If we choose to move forward we’ll invite you to a 30-60 minute phone screen so you can learn more about ByteCubed and this role and we can learn more about you. About half of this call will be dedicated to your questions for us, so you can begin to evaluate if this job might be a good fit for you and if you want to invest more time in this process.
+If that goes well, we’ll give you an at-home coding exercise that involves reading and refactoring some code.
+A half-day of in-person interviews. These will build on the code base from the last step. We’ll do a collaborative code review, brainstorm next steps, and do some pair programming together. You will also have an opportunity to meet a range of folks from our company, and will have ample time to ask us all questions.
+After each stage we’ll let you know whether or not we’d like to continue as quickly as possible. If you’re advancing to the next stage, we may also give you feedback about what we thought you did well and what you could improve on for the next round.
+ByteCubed is an Affirmative Action/Equal Opportunity Employer committed to providing equal employment opportunity without regard to an individual’s race, color, religion, age, gender, sexual orientation, veteran status, national origin or disability."	"28 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=6d8d3c38b3783c7f"	"Data Scientist"	"Society for Human Resource Management"	"73 reviews"	"Overview
+The Data Scientist, Knowledge Development works closely with other departments and organizations as part of a larger strategy and design thinking team which encompasses competencies in social science research, product strategy, data visualization, advanced analytics, and data science. This position will be responsible for applying statistical and data mining tools to develop insight from human capital data and then transforming the insight into compelling stories and info graphics and other data visualization techniques. This position will require the incumbent to think creatively and propose innovative ways to look at data to identify trends and patterns that impact the HR, the workplace and public policy.
+Responsibilities
+YOUR TYPICAL DAY WILL INCLUDE:
+Creating narrative, editorially-guided products including, but not limited to reports, whitepapers, blog posts, web pages, and interactive products that engage diverse audiences with human capital research.
+Designing, managing, coaching and/or conducting research using multiple methods and analytical techniques (statistics, machine learning, natural language processing, etc.) as necessary to answer human capital questions.
+Managing the analytic project lifecycle from initial concept through iteration and final delivery.
+Creating analytic plans, translating business problems/opportunities into analytic approaches. Engaging with internal and external stakeholders to understand each business question. Probes for hidden questions and goals. Brings structure to each research question and translates requirements into an analytic approach.
+Transforming analytic results into graphic visualizations and that can form a story in a glance. The visualizations will range from static graphs depicting traditional statistical analyses to web-enabled interactive graphics.
+Providing insight to other team members on the best analytic and visualization techniques for different types of data, and the limitations of certain techniques.
+Presenting data to internal and external customers and enable audiences to see threads in a way that allows them to ask better questions, leading to improved strategies.Qualifications
+THESE ARE THE SKILLS YOU WILL NEED IN YOUR TOOLBOX:
+Excellent organizational skills; ability to work well under pressure, manage multiple tasks and projects concurrently and meet publishing deadlines
+High attention to detail and ability adhere to strict deadlines and quality requirements
+Exceptional oral and written communication skills
+Comprehensive Microsoft office skills including advanced formulas and macros
+Ability to use creative problem solving and analytical skills to develop effective solutions for problems
+Adapts to change and seeks technologies and methods to improve tools, processes and products
+Smart and curious
+Ability to communicating ideas that inspire, inform, and captivate individuals
+Strong communicator of complex concepts and analysis, able to handle a variety of audience knowledge levels.
+Understanding of and ability to apply design thinking and principles of user experience design to analytic storytelling.
+Strong communicator of complex concepts and analysis, able to handle a variety of audience knowledge levels.
+Understanding of and ability to apply design thinking and principles of user experience design to analytic storytelling.
+Ability to work independently on multiple projects, while also working well with and within teams
+Advanced proficiency in R and/or Python programming, including machine learning and data visualization tools (Scikit-learn, R packages for machine learning & statistical learning, Matplotlib, RShiny, ggplot, knitr, plotly, d3.js).
+Ability to work independently on multiple projects, while also working well with and within teams
+Advanced proficiency in R and/or Python programming, including machine learning and data visualization tools (Scikit-learn, R packages for machine learning & statistical learning, Matplotlib, RShiny, ggplot, knitr, plotly, d3.js).
+LET US KNOW IF YOU ALSO HAVE:
+Proficiency in Tableau, Qlikview, or Power BI supplements but does not replace proficiency with open source tools (Python or R).
+Proficiency with databases (one or more of: SQL, Access, MongoDB, graph databases)
+THIS IS WHAT YOU MUST BRING TO THE TABLE:
+Bachelors degree in Data Science, Business Analytics, Statistics, Quantitative Social Science, or similar quantitative program which includes machine learning and data storytelling/data visualization
+3 years of experience as a data scientist in applied research settings.
+SHRM CP or SCP within one year of employment
+WE ARE ALSO LOOKING FOR THE FOLLOWING (PREFERRED, NOT REQUIRED):
+Master’s degree or Ph.D. in Data Science, Business Analytics, Statistics, Quantitative Social Science, or similar quantitative program which includes machine learning and data storytelling/data visualization
+Demonstrated experience gathering and understanding data, processing it, extracting value from it, visualizing it and communicating it.
+Experience consulting to understand business problems/opportunities and translating needs into analytic projects.
+Experience managing the analytic project lifecycle.
+Experience developing different types of visualizations, including narrative editorially-guided visualizations, visualizations for interactive data exploration, dashboards, and visualizations supporting time series analysis methods.
+Experience using data science methods related to data architecture, data munging, data and feature engineering, and predictive analytics.
+APPLICANTS MUST BE CURRENTLY AUTHORIZED TO WORK IN THE UNITED STATES ON A FULL-TIME BASIS. SHRM WILL NOT SPONSOR EMPLOYMENT VISAS.
+PHYSICAL DEMANDS
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Regularly required to sit; talk and hear, use hands to type, file, handle or feel. The employee is frequently required to reach with hands and arms. Occasionally required to stand; walk and stoop, kneel, crouch, or crawl. Visual acuity to use a keyboard, prepare and analyze data and figures; transcribing, viewing a computer terminal; extensive reading.
+WORK ENVIRONMENT
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Work is regularly performed in a professional office environment and routinely uses standard office equipment. This job requires limited travel 0-10%.
+The Society for Human Resource Management is an equal opportunity employer (Minority/Female/Disabled/Veteran).
+ACCESSIBILITY NOTICE: If you need a reasonable accommodation for any part of the employment process due to a physical or mental disability, please send an email to: accessibility@shrm.org or TDD (703) 548-6990."	"9 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=804bbb0f041d1994"	"Data Scientist III"	"Carney"	"5 reviews"	"Data Scientist III
+Scientist/Research
+Washington, District Of Columbia
+Position Overview
+The Data Scientist will provide hands on advanced data analytics and project management as well as apply innovative techniques to large claims datasets to analyze a wide array of training-related issues and challenges.
+This position is located on-site with the client at Joint-Base Anacostia-Bolling in Washington, DC.
+Responsibilities
+Develop and maintain spreadsheets, tracking databases, reports, and presentations
+Communicate finding and conclusions to lay audiences
+Analyze data to identify trends, issues, and opportunities to improve
+Recommend solutions based on finding/conclusions
+Act as subject-matter expert in data science
+May serve as team lead and assist with administrative functions
+Demonstrate superior oral and written communication skills
+Be self-directed, highly professional, and collaborative
+Minimum Requirements
+High School diploma and specialized training
+Ten (10) years of experience
+Bachelor's degree in related field can be included for up to 4 years of experience
+Master's degree in related field can be included for an additional two years of experience
+TS/SCI clearance
+Excellent problem-solving skills
+Desired Qualification
+Military experience
+Favorable DoD Polygraph
+Benefits
+**New Benefit: Beginning January 2018, Carney will offer a student loan repayment benefit to help employees reduce their student debt
+Carney offers a full suite of benefits to its employees. These include common benefits, such as:
+Multiple medical options (CareFirst), dental (Lincoln Financial), and vision insurance (EyeMed)
+Carney-paid life and disability (life/AD&D are two times salary)
+401k with match (20% of the first 10% contributed)
+Flexible Spending Accounts and Health Spending Accounts
+Paid time off starting at 15 days per year plus 10 paid holidays
+Education Assistance
+Aflac plans (seven options)
+Employee Assistance Program (EAP)
+Carney also offers additional benefits as part of our commitment to valuing employees and these include:
+Parental leave (six weeks)
+Student loan repayment
+Legal services plan
+Get Out and Learn (up to $200 annually to learn almost anything!)
+Get Out and Run (up to $200 annually to participate in fitness events!)
+Ad hoc training/professional development access"	"12 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=4118746c262d39c9"	"Data Scientist"	"Dutch Ridge"	"-"	"Dutch Ridge Consulting Group, LLC is a Veterans Affairs (VA) certified, Service-Disabled Veteran-Owned Small Business (SDVOSB) with offices in Beaver, Pennsylvania and Ashburn, Virginia. We deliver subject matter expertise in insider threat, critical IT services, federal law enforcement programs, criminal investigations, counter-terrorism, force protection, fraud investigation, and security background investigation. Our technical approach optimizes client investments by leveraging our expertise in managing growth and transformation of existing IT environments toward greater security.
+Minimum Security Required: Top Secret with SCI
+Primary Function:
+Dutch Ridge seeks an experienced Data Scientist for full time employment in Washington, DC. Dutch Ridge offers a competitive benefits package and offers internal growth with our company.
+Requirements:
+Analyze and model structured data using advanced statistical methods and implement algorithms and software needed to perform analyses
+Examples of development include; Build recommendation engines, spam classifiers,
+sentiment analyzers and classifiers for unstructured and semi-structured data
+Cluster large amount of user generated content and process data in large-scale environments using Amazon EC2, Storm, Hadoop and Spark
+Perform machine learning, natural language, and statistical analysis methods, such as
+classification, collaborative filtering, association rules, sentiment analysis, topic modeling, time-series analysis, regression, statistical inference, and validation methods
+Participate in client engagements focused on big data and advanced business analytics, in diverse domains such as product development, marketing research, public policy, optimization, and risk management; communicate results and educate others through reports and presentations
+IT and Cybersecurity and Threat Intelligence Analysis
+Perform explanatory data analyses, generate and test working hypotheses, prepare and analyze historical data and identify patterns
+Qualifications:
+Master's degree or PhD from an
+accredited college/university in Computer Science, Statistics, Mathematics, Engineering,
+Bioinformatics, Physics, Operations Research, or related fields, preferred with a strong
+mathematical background and ability to understand algorithms and methods from a mathematical viewpoint and an intuitive viewpoint
+8-10 years of experience may be substituted for degree.
+Demonstrated professional experience working as a Data Scientist
+Strong knowledge in at least one of the following fields: machine
+learning, data visualization, statistical modeling, data mining, or information retrieval
+Strong data extraction and processing
+TS with SCI Required
+http://www.drcg.us
+EEO"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=ca2c583f443e1e96"	"Data Scientist"	"IT Concepts Inc."	"-"	"The Role: The Data Scientist is responsible for researching and developing statistical learning models for data analysis, as well as collaborate with customers and stakeholders to devise possible solutions. The Data Scientist keeps up-to-date with latest technology trends, communicates results and ideas to key decision makers, and implements new statistical or other mathematical methodologies as needed for specific models or analysis. Optimize joint development efforts through appropriate database use and project design.
+The Company:
+We opened our doors in 2003 and have developed long-standing relationships with our customers, both public and private
+We’re an SBA 8(a) and CVE certified Service Disabled Veteran Owned Small Business
+We’re ISO 27001:2013, ISO 20000-1:2011, and ISO 9001:2015 certified and have CMMI DEV and SVC ML3 ratings
+We’ve been named part of: Inc 5000’s Fastest Growing Private Companies in 2016; Washington Business Journal’s Fastest Growing Companies in 2015, 2016 and 2017; Washington Business Journal’s Best Places to Work in 2015, 2016 and 2017
+The Employer:
+We offer great benefits - Paid Time Off, Medical, Dental and Vision Insurance, 401(k) with company matching
+We invest in our employees – We offer an annual training budget to our employees and opportunities for growth within the organization
+We work hard, we play hard – We value work/life balance. We hold seasonal company events and a Washington Nationals Season Tickets lottery
+What will you be doing?:
+Research and develop statistical learning models for data analysis
+Collaborate with customers and stakeholders to devise possible solutions for data warehousing/data sharing environments
+Keep up-to-date with the latest technology trends, communicating results and ideas to key decision makers
+Implement new statistical or other mathematical methodologies as needed for specific models or analysis
+Support synergizing data solutions with IT requirements management products for new initiatives to include data modeling
+Communicate and coordinate with program stakeholders
+You meet our “must haves” if:
+You have
+Master’s Degree in Computer Science, Statistics, Applied Math or related field, and 7+ years’ practical experience with SAS, ETL, data processing, database programming and data analytics.
+Ability to understand various data structures and common methods in data transformation.
+Your experience includes
+Extensive background in data mining and statistical analysis
+Excellent pattern recognition and predictive modeling skills
+Excellent verbal and written communication skills
+Experience interfacing directly with clients and managing customer relationships
+You value teamwork, demonstrate integrity and honesty, are passionate, innovative and strive for excellence
+Clearance requirements:
+Must have an active Secret Clearance at the time of hire
+IT Concepts is an Affirmative Action/Equal Opportunity Employer. As such, any personnel decisions (hire, promotion, job status, etc.) on applicants and/or employees are based on merit, qualifications, competence and business needs, not on race, color, citizenship status, national origin, ancestry, gender, sexual orientation, gender identity, age, religion, creed, physical or mental disability, pregnancy, childbirth or related medical condition, genetic information of the employee or family member of the employee, marital status, veteran status, political affiliation, or any other factor protected by federal, state or local law.
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable Accommodations may be made to enable qualified individuals with disabilities to perform the essential functions."	"6 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=e2122550ce0d1081"	"Junior Data Scientist"	"Logistics Management Institute"	"44 reviews"	"Position is on the staff of a not-for-profit government consulting firm located in Tysons, VA. The Junior Data Scientist position will be embedded within our LMI Data Analytics Practice and leverage your curiosity and problem solving skills to explore, discover, and predict patterns contained within data sets for a wide range of government clients. This includes the derivation of clear narratives that help our clients understand their data and how those insights address their specific research questions.
+Responsibilities
+Demonstrate the ability to frame and scale data problems to effectively analyze, visualize and find data solutions.
+Possess the ability to work with and manipulate common data formats, including comma-delimited, text files, and JSON.
+Analyst must be able to transform data and analysis into informative data visualizations and/or interactive dashboards using open source and commercially available visualization and dashboard tools.
+Demonstrate the ability to derive insights and analytic narratives from data and visualizations for effective storytelling and clear communication in response to specific research questions.
+Ability to work in a fast-paced, solutions oriented environment focused on client deliverables, analysis and reporting.
+Possess the ability to work in teams and independently.Qualifications
+Bachelor’s degree in data science, mathematics, statistics, economics, computer science, engineering, or other related business or quantitative discipline is required.
+Experience working with tools including object-oriented programming (Python, Java), computational analysis tools (R, MATLAB), and associated data science libraries (scikit-learn).
+Experience creating meaningful data visualizations and/or interactive dashboards that communicate your findings and relate them back to how your insights create business impact using platforms such as Tableau, Qlik, Power BI, RShiny, plotly, and d3.js.
+Working knowledge of databases and SQL is desired. Preferred qualifications include linking analytic and data visualization products to database connections.
+Preferred experience with data science methods related to data architecture, data munging, data and feature engineering, and predictive analytics. Additional preferred qualifications include working with unstructured text and natural language processing.
+Superior communication skills, both oral and written.
+Applicants for this position may be subjected to a government security investigation and must meet eligibility requirements for access to classified information. Please note that only US Citizens are eligible to obtain security clearances."	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=cd1a2c83ec95023e"	"Systems Analyst/Data Scientist"	"Radiant Solutions"	"24 reviews"	"Responsibilities
+Got a head for numbers? Like turning real world problems into mathematical representations and checking to see if you did it right? If you like that, you’ll love developing algorithms with us! Our customers have some of the most interesting needs and hardest challenges to resolve. Our solutions require integrated models based on large and varied datasets. Our simulations feed analytic applications so that we can extract patterns and behaviors obscured within the data. We need systems analysts/data scientists of all experience levels to staff positions supporting the defense and intelligence communities.
+Radiant Solutions is currently staffing multiple projects with analysts who have diverse backgrounds and experiences from the open source, defense and intelligence communities, and commercial industry.
+Note: US citizenship and an active TS/SCI clearance is mandatory for this position and required for consideration.
+Why us?We build advanced algorithms to gain analytic insights from imagery and geospatial data.We enable machine learning systems, automate workflow, and design and develop custom applications for unique national-security missionsWe provide training to expand your skills and challenges to develop themOur client’s missions are vital to national security, so we’re mission-first alwaysOur work environment is relaxed business casualBecause at our core we believe and practice social responsibility.
+
+Qualifications
+You have to have these:
+- US citizenship and an active TS/SCI clearance - if you have a current polygraph, even betterBachelor's degree, or higher in Engineering, Math, Physics, Computer Science, or equivalentDevelopment experience in a Linux/Unix/Windows environmentExperience in at least one of these languages: R, VBA, Java, C++, SQL, PythonExperience developing and testing modelsCapability to work effectively in a geographically distributed development team
+We’d really like it if you had:Master’s degree, or higher in Engineering, Math, Physics, Computer Science, or equivalentGraduate experience working with probabilistic and stochastic statistical analysis or computational intelligenceExperience conducting model feasibility research and algorithm development for machine learningExperience with distributed datasets and experience analyzing both relational and NoSQL data structuresLeading and mentoring small teams from project inception through deploymentExperience working in an Agile environment, especially SAFe
+#cjpost
+Overview
+Join our company whose purpose is to help national security and commercial organizations understand and navigate our changing planet. Radiant Solutions provides multi-source data collection, enrichment, and analytic capabilities that reveal unique geospatial information and insights where and when it matters most.
+No other company has such strong roots in geospatial with our level of scale and a strong commercial mindset. We are well known for delivering innovative capabilities across the entire geospatial intelligence value chain. Our combined team of over 1,000 aerospace engineers, geospatial analysts, weather and ocean experts, software developers, data scientists, and DevOps engineers apply disruptive technologies and our unique intellectual property to both national security and commercial problems.
+We offer an excellent comprehensive benefits package including medical, dental, life, and short/long-term disability insurance, vacation and sick leave, 401(k) retirement plan, flexible spending account, and tuition assistance.
+Radiant Solutions values diversity in the workplace and is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law."	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=736360e793529a0f"	"Data Scientist/Data Engineer"	"General Dynamics Mission Systems"	"262 reviews"	"Basic Qualifications
+KNOWLEDGE SKILLS AND ABILITIES:
+Experience with software development (i.e., Integrated Development Environments (IDE), build automation, version control, dependency management, application lifecycle management, integrated testing, unit testing, software development methodologies, and operating systems) (e.g., Eclipse, IntelliJ IDEA, Maven, Git, Spring Boot, JIRA, Jenkins, Junit, Scrum, Windows, or Red Hat Linux)
+Experience with data management/flow (e.g., NiFi or Logstash)
+Experience with Programming Paradigms (i.e., Functional and Object-Oriented) (e.g., Scala, Java, or R)
+Experience with visualization (e.g., Kibana)
+Experience in Signals Intelligence (SIGINT)
+Experience with databases systems (i.e., NoSQL column and document-oriented) (e.g., Accumulo, MongoDB, or Elasticsearch)
+Experience in machine learning (i.e., Linear Discriminant Analysis, Classification and Regression Trees, K-Nearest Neighbors, Support Vector Machines, and Random Forest) (e.g., R or MapReduce)
+Education Requirements:
+Bachelor's degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 10 years of relevant experience; or Master's degree plus a minimum of 8 years of relevant experience. Agile experience preferred.
+Clearance Requirements:
+Department of Defense TS/SCI with Polygraph security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+Responsibilities for this Position
+General Dynamics Mission Systems has an immediate opening for a Data Scientist/Data Engineer. This position provides an opportunity to further advance the cutting-edge technology that supports some of our nation’s core defense/intelligence services and systems. General Dynamics Mission Systems employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.
+REPRESENTATIVE DUTIES AND TASKS:
+The Data Scientist will be part of a team, forward deployed within the customer space in support of the system. The candidate will have hybrid experience in software development and data science, ideally with subject matter expertise in Signals Intelligence (SIGINT).
+Must have experience in design, development, and troubleshooting of analytics. Various mission areas require assistance in determining the value of their products and workflow. The candidate will forward deploy to work with mission subject matter experts and create analytics that will feed the application, a data-driven tool that enriches and visualizes outcomes.
+Tasking will include developing and evolving analytics for situational awareness, trending, and change detection. The work will involve identifying source data, combination methods, and visualization needs.
+The candidate will work mostly independently on site, but must also be able to work with software engineer(s) in getting the data to the application and participate in incorporating code into the application’s codebase.
+#CJ3
+Company Overview
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=5901fbd81e3119f4"	"Senior Data Scientist"	"American Nurses Association, Inc"	"45 reviews"	"Business Unit: American Nurses Credentialing Center
+
+Department: Measurement Services
+
+Salary Grade: 14
+
+Employee Referral Bonus Amount: $500.00
+
+TO APPLY: Apply online or email resume to chet.reisler@ana.orgKey technical expert, accountable for exam performance and psychometrics, resolution of data issues, and research addressing ANCC strategic goals. Leads efforts and provides consultation for MS staff to resolve data problems and establish data quality standards; develops presentations and publications for departments, Board of Directors, Commission on Certification, and other stakeholders; and proposes resources to support MS research activity. Serves as an expert in test development, scoring, research, and quantitative analyses. Develops software applications, programming, and syntax for report generation, statistical analyses, and graphic representations. Conducts quality assurance on scores, item functioning, and psychometric properties of exams. Drafts research reports. Ensures validity, reliability, and psychometric soundness of certification exams, using established industry and best practices.DUTIES:Conduct ongoing analysis of data systems. Review data management plans, revisions, and specifications and provide feedback. Plan and lead research (e.g., job analysis, validation, survey sampling, speededness and readability, test security, calibration, equating) to enhance exam performance, customer services, and product line as well as inform strategic planning. Monitor and evaluate item performance, differential item functioning, item drift, and exam psychometrics.
+Program for advanced statistical analyses using software programs (e.g., SAS, SPSS, Winsteps, R, SQL). Create and implement report generation, data collection, and sampling plans; develop conceptual frameworks for research and analyses; and recommend and adapt analytical and statistical methods. Identify strategies to generate useful feedback for examinees. Draw conclusions from research and make recommendations. Provide results, conclusions, and visuals and present to internal and external stakeholders (e.g., Executive Leadership, Boards of Directors, Commissions/Councils, program staff, governmental agencies, members of credentialed organizations). Travel as needed to deliver presentations at various venues or to meet with potential or current stakeholders.
+Plan and lead test development activities (e.g., standard setting, item and exam performance, exam field testing, form building). Facilitate focus groups, prepare meeting materials, review materials created by colleagues, analyze data, and write technical research reports and summaries. Coordinate with colleagues, subject matter experts, and vendors.
+Ensure compliance with industry best practice and accreditation requirements of ANCC certification programs. Maintain all necessary documentation in support of accreditation requirements. Establish data quality standards in collaboration with program staff. Troubleshoot issues and data errors. Consult with program staff on data preparation and data coding problems and assist in developing means for correcting the problems. Propose tools and resources to support research activity and enhance data system operations. Collaborate with ANA IT staff to evaluate and implement potential enhancements, to resolve quality assurance issues, and to ensure data systems are operational. Perform functional, cost-benefit, and risk analysis to support design changes. Assess risks and recommend mitigation strategies.
+Perform other duties as assigned to support the department’s objectives and strategic goals.QUALIFICATIONS REQUIREDEducationMaster’s degree (Ph.D. preferred) in industrial-organizational (I/O) psychology, testing and measurement, psychometrics, mathematics, research and statistics, or related field, with emphasis on quantitative analyses.Related Work ExperienceFive years of professional experience. Two years of assessment development, psychometrics, data management and analyses, and technical report writing.SkillsResearch design and completion
+Data collection, utilization, validation, security
+Data management and visualization
+Advanced data analysis (e.g., scaling and equating [CTT or IRT], simulation, sampling)
+Choosing and applying appropriate analysis techniques
+Test construction, development of alternative items, and test validation
+Meeting facilitation
+Oral and written communication
+Advanced use of office computer software (e.g., Microsoft Word, Excel, PowerPoint) and database and statistical software (e.g., SAS, SPSS, R, SQL)
+Analytical thinking
+Technical documentation and report writing
+Producing concise, high-level summaries and briefings to non-technical audiences
+Identifying and using emerging technologies"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=d85de6a45ca9f5b7"	"Data Analytics Specialist"	"PCAOB"	"15 reviews"	"PCAOB oversees the audit of public companies and SEC registered brokers and dealers in order to protect investors and further public interest in the preparation of informative, accurate and independent audit reports.Play a significant role in PCAOB's increasing focus on data analytics, using predictive data analytics to improve the effectiveness and efficiency of our inspection process and continuous monitoring. The individual in this role will work closely with other divisions, inspection teams, data scientists, key management and collaborate with the IT Division.Qualifications for this role:Eligible to work in the US without sponsorship now or in the futureBachelor's Degree in Math, Computer Science, Information Management, Statistics or related fieldMinimum of 7 years experience in a relevant role, understanding of relational databases and associated query/extraction languagesKnowledge of Python and/or R, SAS and SQLStrong organizational, time management skills, a team playerAbility to build credibility, solve problems quickly and communicate clearlyDemonstrated ability to think strategically, including the ability to translate long-term goals and objectives into short-term tactical plans and operational activitiesJob Type: Full-timeExperience:data analysis, quantitative: 7 years (Required)Python, and/or R, SAS and SQL: 5 years (Required)Education:Bachelor's (Required)Location:Washington, DC (Required)Work authorization:United States (Required)"	"11 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=9e82a077147c7d5e"	"Data Scientist with Polygraph"	"Deloitte"	"7,146 reviews"	"Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your analytical skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our GPS Strategy and Analytics teams bring deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client’s most complex business problems. Join our team, and play a key role in helping to design our clients’ roadmap to the future and help transform the marketplace.
+Work you’ll do
+As a Sr. Consultant within our S&A team, you will:
+Perform project tasks independently, and may direct the efforts of others
+
+Participate in and/or lead the development of deliverable content that meets the needs of the client and contract
+
+Anticipate client needs and formulate solutions to client issues
+
+Review deliverables for accuracy and quality
+
+Provides coaching to junior staff
+
+Contribute to new business proposals and proposal development
+
+Manages own personal and professional development; seeks opportunities for professional growth and expansion of consulting skills and experiencesThe Team
+Transparency, innovation, collaboration, sustainability: these are the hallmark issues shaping government initiatives today. Deloitte’s GPS practice is passionate about making an impact with lasting change. Carrying out missions in the GPS practice requires fresh thinking and a creative approach. We collaborate with teams from across our organization in order to bring the full breadth of Deloitte, its commercial and public sector expertise, to best support our clients. Our aspiration is to be the premier integrated solutions provider in helping to transform the marketplace.
+By offering client-tailored services and deep industry insight, the Analytics team helps clients to seize new growth opportunities, maximize operational effectiveness, elevate their quality of service delivery, and stay ahead of customer demand. Consider a career where you’ll thrive on helping government clients to execute on their strategic visions and improve mission performance.
+Qualifications
+Required:
+Bachelor's degree in Computer Science, Engineering, Mathematics or other business-related field
+
+3+ years of relevant consulting or industry experience
+
+Experience working independently with minimal guidance
+
+Strong problem solving and troubleshooting skills with experience exercising mature judgment
+
+Proven experience effectively prioritizing workload to meet deadlines and work objectives
+
+Demonstrated ability to write clearly, succinctly, and in a manner that appeals to a wide audience
+
+Proficiency in word processing, spreadsheet, and presentation creation tools, as well as Internet research tools
+
+Active TS/SCI Security Clearance with Polygraph is requiredPreferred:
+Prior professional services or federal consulting experience
+
+Experience with: SQL; Python; R; VBA, HadoopHow you’ll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career. Explore Deloitte University, The Leadership Center.Benefits
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.Deloitte’s culture
+Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives. Learn more about Life at Deloitte.
+Corporate citizenship
+Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities. We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities. Learn more about Deloitte’s impact on the world.
+Recruiter tips
+We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you’re applying to. Check out recruiting tips from Deloitte professionals.
+
+#LI:PTY
+#IND:PTYAs used in this posting, “Deloitte” means Deloitte Consulting LLP, a subsidiary of Deloitte LLP. Please see www.deloitte.com/us/about for a detailed description of the legal structure of Deloitte LLP and its subsidiaries. Certain services may not be available to attest clients under the rules and regulations of public accounting.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law."	"10 days ago"	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=cce2551bd3997441"	"Data Scientist"	"Radiant Solutions"	"24 reviews"	"Responsibilities
+Radiant Solutions is growing and we are looking for motivated data evangelists who are passionate about delivering new and innovative solutions for our customers. The ideal candidate needs limited direction, is passionate about technology and is curious about earth sensing and the new space economy.
+We are seeking a data scientist for our applied modeling team.
+You will be applying the latest machine learning techniques to extract insights from geospatial data.
+You will have access to an enormous corpus of training data and will work to build the best models through bake-offs, hyperparameter searching, and incremental learning techniques.
+You will quantitatively assess model performance and document the overall life-cycle.
+You will work with other members of the data science and engineering teams to improve data science products and experiences.
+Additionally, you will be developing rapid prototype solutions as needed for the focused collection, parsing, managing, analyzing, and visualizing large sets of disparate data to extract meaningful insights.Qualifications
+2-5 years experience designing, implementing, training, evaluating, and optimizing algorithms based on state-of-the-art machine learning techniques
+Experience with applying deep learning for computer vision and natural language processing.
+Experience with major deep learning framework such as Caffe, CNTK, Theano, Torch, and Tensorflow.
+TS/SCI with active poly
+#cjpost
+Overview
+Join our company whose purpose is to help national security and commercial organizations understand and navigate our changing planet. Radiant Solutions provides multi-source data collection, enrichment, and analytic capabilities that reveal unique geospatial information and insights where and when it matters most.
+We are a new organization but no company has such strong roots in geospatial with our level of scale and a strong commercial mindset. Our heritage companies, MDA Information Systems, RadiantBlue, DigitalGlobe Intelligence Solutions, and HumanGeo are well known for delivering innovative capabilities across the entire geospatial intelligence value chain. Our combined team of over 1,000 aerospace engineers, geospatial analysts, weather and ocean experts, software developers, data scientists, and DevOps engineers apply disruptive technology and our unique intellectual property to both national security and commercial problems.
+We offer an excellent comprehensive benefits package including medical, dental, life, and short/long-term disability insurance, vacation and sick leave, 401(k) retirement plan, flexible spending account, and tuition assistance. Radiant Solutions values diversity in the work place and is an Equal Opportunity Employer."	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
+"https://www.indeed.com/viewjob?jk=82371ed22d8a1538"	"Data Scientist"	"Unisys"	"1,897 reviews"	"We are currently seeking a motivated, career and customer-oriented Data Scientist to join our team in Northern Virginia and begin an exciting and challenging career with Unisys Federal Systems. The ideal candidate is an individual with broad understanding of the Department of Homeland Security (DHS) based on experience gained from supporting several components. Applicants should have the functional knowledge and ability to support our client's data challenges by providing data solution architecture, data engineering, data science, and data analysis support that analyzes, synthesizes, and integrates large quantities of structured and unstructured data that will be used to enhance the tools and features of the client information technology applications.
+Working with our DHS clients, you will use your knowledge of DHS's data collection and management capabilities, end-to-end data and work flows, and data warehouses and lakes to enhance mission performance and improve Departmental and Component efficiency. You will implement data analysis using machine learning, predictive analytics, data mining, pattern recognition, data modeling, and statistical methods to solve large scale optimization problems and identify meaning derived from large data sets. You will perform data analytics at on-premise data centers and in cloud environments, including AWS and Azure. You will develop architectures and approaches for addressing information siloes and systems of records that do not facilitate data sharing and reuse. You will apply your expertise on multiple complex work assignments which are broad in nature, requiring originality and innovation in determining how to accomplish tasks. You will apply your comprehensive knowledge across key tasks and high impact assignments, evaluate performance results and recommend changes as necessary to achieve project success. Your primary responsibility will be working with teams designing, testing and building applications to meet DHS customer requirements and goals, which may include using Big Data Analytics and a Continuous Integration/Continuous Delivery (CI/CD) approach to optimize data flows and provide meaningful and actionable information. You will support our customers and enhance the experience of their clients and users by designing, developing, and deploying tools for public users of many types. Potential tasks include expanding existing client models to present relevant information to users including: developing and deploying personalized processing models; adding integration points for the intelligent automated help agents to connect with external applications or data sources to increase its effectiveness and accuracy; creating and implementing scrubbing strategies to ensure unstructured data is appropriate to present to the end user; analyzing customer data and biometrics to identify key data points for confirming a customer's identity; and analyzing, validating, and creating process to transition from a transaction based model to a customer centric model. You will also prepare technical papers and playbooks, responses to acqusitions, and conduct white board sessions within Unisys and with customers.
+Requirements
+Must have experience working for or supporting the Department of Homeland Security and its components. You must be familiar with Agile methodology and be able to work collaboratively in a team environment. Excellent written and oral communications skills are essential. Other requirements include:Expert in enterprise data tranformation including data warehouse and data lake rationalization.Proven expertise in using combinations of supervised and unsupervised machine learning algorithms, predictive models, and statistical algorithms to provide insights into client datasets.Must be familiar with current link analysis and risk analysis tools.Deep knowledge of Data Science including Google Analytics and metrics, statistical analysis, machine learning and natural language processing, and data science, analytics, modeling and integration.Experience planning, organizing, facilitating, and collecting data from focus group and research/usability testing sessions.Data segmentation and data flow modeling.Knowledge of and experience working with Hadoop and Cloudera.Executing descriptive analyses, ranging from identifying product opportunities to understanding user behaviorExperience/expertise with Natural Language Processing (NLP), graph theory, Scala, and machine learning.Demonstrated ability building innovative data products (e.g., Artificial Intelligence, real-time services, such as personalization and commerce graphing using Big Data platforms with real-time data ingestion and processing).Establishing big data reporting and enterprise analytics platforms to analyze increasingly larger and more complex data sets.Skills at Identifying and correcting data quality issues and establishing a data governance framework to enforce data standards and improve accuracy using integrated internal and external disparate data sources.
+Familiarity and experience with the following is highly desirable:Developing machine-learning algorithms to improve predictions.Develop highly optimized, scalable automatic case matching logic on microservice/container technology.
+U.S. CITIZENSHIP REQUIRED
+Master’s Degree in Computer Science, Computational Mathematics, Statistics, Engineering or related field degree or higher and a minimum of 15 years of related experience. Applicable advance certifications and education and specific skills can be substituted for Master's degree or years of experience. Current DHS Clearance is a bonus.
+Local candidates only. Work location: Northern Virginia
+About Unisys
+Do you have what it takes to be mission critical?
+Your skills and experience could be mission critical for our Unisys team supporting the Federal Government in their mission to protect and defend our nation, and transform the way government agencies manage information and improve responsiveness to their customers. As a member of our diverse team, you’ll gain valuable career-enhancing experience as we support the design, development, testing, implementation, training, and maintenance of our federal government’s critical systems.
+Apply today to become mission critical and help our nation meet the growing need for IT security, improved infrastructure, big data, and advanced analytics.
+Unisys is a global information technology company that solves complex IT challenges at the intersection of modern and mission critical. We work with many of the world's largest companies and government organizations to secure and keep their mission-critical operations running at peak performance; streamline and transform their data centers; enhance support to their end users and constituents; and modernize their enterprise applications. We do this while protecting and building on their legacy IT investments. Our offerings include outsourcing and managed services, systems integration and consulting services, high-end server technology, cybersecurity and cloud management software, and maintenance and support services. Unisys has more than 23,000 employees serving clients around the world.
+Unisys offers a very competitive benefits package including health insurance coverage from first day of employment, a 401k with an immediately vested company match, vacation and educational benefits. To learn more about Unisys visit us at www.Unisys.com.
+Unisys is an Equal Opportunity Employer (EOE) - Minorities, Females, Disabled Persons, and Veterans.
+#FED#"	NA	"character(0)"	2018-10-15	"Washington%2C+DC"	50
