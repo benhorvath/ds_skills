@@ -50,7 +50,9 @@ extract_listing_data_ <- function(page_url) {
     
     description <- html_nodes(page_html, 
                               '.jobsearch-JobComponent-description') %>% 
-        html_text
+        html_text %>%
+        str_replace('\\s+|\\r\\n|\\n|\\t', ' ') %>%
+        str_squish
     
     time_posted <- html_nodes(page_html, '.jobsearch-JobMetadataFooter') %>%
         html_text %>%
@@ -70,33 +72,30 @@ extract_listing_data_ <- function(page_url) {
 }
 
 
-# Function wraps extract_listing_data_() with tryCatch to handle weird errors
+# Function wraps extract_listing_data_() with tryCatch to handle weird errors.
+# If an error or warning is caught, it returns an empty structure.
 extract_listing_data <- function(page_url) {
+    
+    na_result <- list(url=page_url,
+                      title=NA,
+                      company_name=NA,
+                      company_score=NA,
+                      description=NA,
+                      time_posted=NA,
+                      metadata=NA)
     
     job_data <- tryCatch({
         extract_listing_data_(page_url)
     }, warning = function(w) {
-        list(url=page_url,
-             title=NA,
-             company_name=NA,
-             company_score=NA,
-             description=NA,
-             time_posted=NA,
-             metadata=NA)
+        na_result
     }, error = function(e) {
-        list(url=page_url,
-             title=NA,
-             company_name=NA,
-             company_score=NA,
-             description=NA,
-             time_posted=NA,
-             metadata=NA)
+        na_result
     })
     return(job_data)
 }
 
 
-# Produces an output file path, given city and page
+# Produces an output file path by concatening a city and page results
 create_output_filepath <- function(city, page, ext='tsv') {
     base <- './data/raw/listings'
     
@@ -141,7 +140,7 @@ for (city in cities) {
         page_listing <- sapply(job_listing_urls, extract_listing_data) 
         # *** Extraction End ***
         
-        # Prepare data for export as TSV
+        # Prepare data for export as TSV -- no lists!
         listing_df <- as.data.frame(t(as.data.frame(page_listing))) %>% 
             mutate(date_scraped=Sys.Date(),
                    city=city,

@@ -337,8 +337,22 @@ library(stringr)</code></pre>
 <p>Indeed.com was chosen because of it’s simple and clear query string method. <em>EXPAIN MORE</em></p>
 <p>Although the individual job listings were not as structured as we would like, we were able to put some structure to it. Our final data frame had columns: url, job title, company name, Indeed users’ score of the comapny, job description, how long the posting had been up, metadata (often salary information), the date of scraping, city, and page number of results.</p>
 <p>The actual scrape algorithm is pretty simple blah blah blah:</p>
-<p>1.For each <code>city</code> in the list of <code>cities</code>: 1. Get some page of results, <code>seq(0, 100, 10) = (0, 10, 20, ..., 100)</code>. 2. For each <code>page</code> in <code>pages</code>: 1. Assemble a URL of job results, e.g., <code>https://www.indeed.com/jobs?q=data+scientist&amp;l=Seattle%2C+WA&amp;start=100</code> 2. Read the HTML of the resulting page: <code>read_html(results_url)</code> 3. Extract the approximately 15 links for job postings contained in the HTML: <code>extract_listing_urls(results_page_html)</code> 4. Use <code>sapply</code> to <code>extract_listing_data()</code> from each of these links 5. Transforming these results into a data.frame, save it to a TSV file</p>
+<ol style="list-style-type: decimal">
+<li>For each <code>city</code> in the list of <code>cities</code>:
+<ol style="list-style-type: decimal">
+<li>Get some page of results, <code>seq(0, 100, 10) = (0, 10, 20, ..., 100)</code>.</li>
+<li>For each <code>page</code> in <code>pages</code>:
+<ol style="list-style-type: decimal">
+<li>Assemble a URL of job results, e.g., <code>https://www.indeed.com/jobs?q=data+scientist&amp;l=Seattle%2C+WA&amp;start=100</code></li>
+<li>Read the HTML of the resulting page: <code>read_html(results_url)</code></li>
+<li>Extract the approximately 15 links for job postings contained in the HTML: <code>extract_listing_urls(results_page_html)</code></li>
+<li>Use <code>sapply</code> to <code>extract_listing_data()</code> from each of these links</li>
+<li>Transforming these results into a data.frame, save it to a TSV file</li>
+</ol></li>
+</ol></li>
+</ol>
 <p><strong>GO INTO <code>extract_listing_urls()</code> and <code>extract_listing_data()</code> IN MORE DEPTH HERE</strong> particularly noting the <code>tryCatch</code> wrapping technique</p>
+<p>Challenge: Saving long stings of text in CSV format. Got around it by 1. using TSV instead of CSV, 2. replacing all whitespace characters like <code>\n</code> and <code>\t</code> with simple spaces, and 3. using <code>stringr::str_squish</code>. In retrospect, I probably should’ve stored this data in JSON rather than character delimited files.</p>
 </div>
 <div id="data-cleaning" class="section level1">
 <h1>Data Cleaning</h1>

@@ -35,7 +35,7 @@ Although the individual job listings were not as structured as we would like, we
 
 The actual scrape algorithm is pretty simple blah blah blah:
 
-1.For each `city` in the list of `cities`:
+1. For each `city` in the list of `cities`:
     1. Get some page of results, ` seq(0, 100, 10) = (0, 10, 20, ..., 100)`.
     2. For each `page` in `pages`:
         1. Assemble a URL of job results, e.g., ` https://www.indeed.com/jobs?q=data+scientist&l=Seattle%2C+WA&start=100`
@@ -45,6 +45,9 @@ The actual scrape algorithm is pretty simple blah blah blah:
         5. Transforming these results into a data.frame, save it to a TSV file
         
 **GO INTO `extract_listing_urls()` and `extract_listing_data()` IN MORE DEPTH HERE** particularly noting the `tryCatch` wrapping technique
+
+Challenge: Saving long stings of text in CSV format. Got around it by 1. using TSV
+instead of CSV, 2. replacing all whitespace characters like `\n` and `\t` with simple spaces, and 3. using `stringr::str_squish`. In retrospect, I probably should've stored this data in JSON rather than character delimited files.
 
 
 
