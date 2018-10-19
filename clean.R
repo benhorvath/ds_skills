@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyr)
 
 #Getting a list if files in a Directory
-RAW_DATA_DIR <- './data/raw/'
+RAW_DATA_DIR <- file.path(c('.', 'data', 'raw'))
 file_list <- list.files(RAW_DATA_DIR)
 
 #Merging the Files into a Single Dataframe
@@ -52,6 +52,8 @@ dataset$hardskill_Web_Architecture_and_Development_Framework <- str_detect(datas
 dataset$hardskill_risk_assessment <- str_detect(dataset$description, "risk.+?assessment")
 dataset$hardskill_iOS_App_Development <- str_detect(dataset$description, "ios.+?development")
 
+# Save cleaned data
+export_filepath <- file.path(c('.', 'data', 'clean', 'clean.csv'))
 write.csv(dataset, './data/clean/clean.csv', row.names=FALSE)
 
 #From wide to long
