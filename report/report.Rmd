@@ -65,6 +65,85 @@ instead of CSV, 2. replacing all whitespace characters like `\n` and `\t` with s
 
 # Analysis
 
+Load clean data:
+
+```{r}
+# THIS NEEDS TO BE IMPORTED FROM SQL TABLE!
+df <- read.csv('../data/clean/clean.tsv', sep='\t', stringsAsFactors=FALSE)
+```
+
+[Joel section]
+
+
+
+## Analysis: By Salary
+
+Another way we might evaluate the relative worth of data science skills is by comparing the salaries of these job offers. Unfortunately, most of these listings do not provide salaries, so we'll have to use a sample much smaller than the original.
+
+First, we'll need to standardize the `metadata` column that seems to exist only for conveying salaries. To begin, we'll subset the dataset to only contain data with salary information. 
+
+Most of the observations are blank, represented by `character(0)` or an empty string `''`. Those empty observations will be filtered out, as well as metadata that does not refer to salary (operationalized by _contains the dollar sign $_) as well as those offering only an hourly wage:
+
+```{r}
+del <- df$metadata[1]
+salary <- df %>% filter(metadata != del, 
+                        metadata != '',
+                        str_detect(metadata, '\\$') == TRUE,
+                        str_detect(metadata, 'hour') == FALSE)
+```
+
+This leaves a total of `r nrow(salary)` observations with salary information. It is presented in a variety of formats that will need to be cleaned:
+
+```{r}
+head(salary$metadata)
+```
+
+We'll use a function to extract the important data and discard the rest. Note that this function will convert ranges into their averages, e.g., '$100,000 - $110,000' will be converted to '$105,000'.
+
+First, determine if the input string is a valid input. The function is designed to handle common textual representations of salaries, which most often include a dollar sign. If the string does not include a dollar sign, the function assumes the input is invalid and returns `NA`. Otherwise, the function determines if the string contains a salary range or a single salary, via the presence of ` - `. From there, it strips out unnecessary characters, and returns a numeric data type for salary.
+
+```{r}
+
+extract_salary <- function(s) {
+    has_dollar_sign <- str_detect(s, '\\$')
+    if (has_dollar_sign == FALSE) {
+        return(NA)
+    } else {
+        
+        contains_range <- str_detect(s, ' - ')
+        
+        if (contains_range == TRUE) {
+            text_range <- unlist(str_extract_all(s, '\\$[0-9,]+'))
+            numeric_range <- as.numeric(str_remove_all(text_range, ',|\\$'))
+            return(mean(c(numeric_range[1], numeric_range[2])))
+        } else {
+            as_text <- str_extract_all(s, '\\$[0-9,]+')
+            as_numeric <- as.numeric(str_remove_all(as_text, ',|\\$'))
+            return(as_numeric)
+        }
+    }
+}
+```
+
+Run a few tests:
+
+```{r}
+extract_salary('This is not a salary')
+extract_salary('$150,000 (depending on experience)')
+extract_salary('$100,000 - $135,000')
+```
+
+Apply to our data frame with sapply:
+
+```{r}
+salary$salary <- lapply(salary$metadata, extract_salary)
+head(salary$salary)
+```
+
+### Exploratoy Analysis
+
+With our salary data now available, we can begin examining the distribution of salary and its variation variation across various dimensions.
+
 
 
 # Conclusion

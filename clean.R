@@ -3,13 +3,13 @@ library(dplyr)
 library(tidyr)
 
 #Getting a list if files in a Directory
-RAW_DATA_DIR <- file.path(c(".", "data", "raw"))
+RAW_DATA_DIR <- file.path(".", "data", "raw")
 file_list <- list.files(RAW_DATA_DIR)
 
 #Merging the Files into a Single Dataframe
 
 for (file in file_list) {
-    filepath <- paste(RAW_DATA_DIR, file, sep='')
+    filepath <- paste(RAW_DATA_DIR, file, sep='/')
     #If the merged dataset doesn't exist, create it
     if(!exists("dataset")){
         dataset <- read.table(filepath, header = TRUE, sep = "\t")
@@ -24,8 +24,10 @@ for (file in file_list) {
 }
 
 # Remove NAs from the dataframe
+dataset <- dataset[complete.cases(dataset),]   # Fixed :) -- bh
 
-na.omit(dataset, cols="title") #This code didn't work
+# Dedupe dataset on URL -- the scraper collected several of the same job
+dataset <- dataset[!duplicated(dataset$url), ]
 
 #Identify soft skills within job postings
 dataset$softskill_communication <- str_detect(dataset$description, "communication")
@@ -68,7 +70,7 @@ dataset$hardskill_shell <- str_detect(dataset$description, "[s|S]hell|[b|B]ash")
 
 # Save cleaned data
 dataset$description <- NULL
-export_filepath <- file.path(c(".", "data", "clean", "clean.tsv"))
+export_filepath <- file.path(".", "data", "clean", "clean.tsv")
 write.table(dataset, export_filepath, sep='\t', row.names=FALSE)
 
 #From wide to long
