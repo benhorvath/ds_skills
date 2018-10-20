@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyr)
 
 #Getting a list if files in a Directory
-RAW_DATA_DIR <- file.path(c('.', 'data', 'raw'))
+RAW_DATA_DIR <- file.path(c(".", "data", "raw"))
 file_list <- list.files(RAW_DATA_DIR)
 
 #Merging the Files into a Single Dataframe
@@ -52,9 +52,24 @@ dataset$hardskill_Web_Architecture_and_Development_Framework <- str_detect(datas
 dataset$hardskill_risk_assessment <- str_detect(dataset$description, "risk.+?assessment")
 dataset$hardskill_iOS_App_Development <- str_detect(dataset$description, "ios.+?development")
 
+dataset$hardskill_python <- str_detect(dataset$description, "Python")
+dataset$hardskill_r <- str_detect(dataset$description, "\\s+R\\s+")
+dataset$hardskill_hadoop <- str_detect(dataset$description, "Hadoop")
+dataset$hardskill_spark <- str_detect(dataset$description, "Spark")
+dataset$hardskill_c <- str_detect(dataset$description, "\\s+C\\s+|\\s+C\\+\\+\\s+")
+dataset$hardskill_java <- str_detect(dataset$description, "Java")
+dataset$hardskill_aws <- str_detect(dataset$description, "AWS")
+dataset$hardskill_tensorflow <- str_detect(dataset$description, "Tensorflow")
+dataset$hardskill_hive <- str_detect(dataset$description, "Hive")
+dataset$hardskill_pig <- str_detect(dataset$description, "Pig")
+dataset$hardskill_sql <- str_detect(dataset$description, "SQL")
+dataset$hardskill_bd <- str_detect(dataset$description, "[b|B]ig [d|D]ata")
+dataset$hardskill_shell <- str_detect(dataset$description, "[s|S]hell|[b|B]ash")
+
 # Save cleaned data
-export_filepath <- file.path(c('.', 'data', 'clean', 'clean.csv'))
-write.csv(dataset, './data/clean/clean.csv', row.names=FALSE)
+dataset$description <- NULL
+export_filepath <- file.path(c(".", "data", "clean", "clean.tsv"))
+write.table(dataset, export_filepath, sep='\t', row.names=FALSE)
 
 #From wide to long
 datalong <- gather(dataset, condition, skills,softskill_communication:hardskill_iOS_App_Development, factor_key = TRUE)
