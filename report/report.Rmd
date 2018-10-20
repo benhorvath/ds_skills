@@ -15,8 +15,9 @@ Load libraries:
 
 ```{r, warning=FALSE, message=FALSE}
 library(dplyr)
-library(rvest)
+library(ggplot2)
 library(stringr)
+library(tidyr)
 ```
 
 # Introduction
@@ -136,14 +137,138 @@ extract_salary('$100,000 - $135,000')
 Apply to our data frame with sapply:
 
 ```{r}
-salary$salary <- lapply(salary$metadata, extract_salary)
+salary$salary <- as.numeric(lapply(salary$metadata, extract_salary))
 head(salary$salary)
 ```
 
 ### Exploratoy Analysis
 
-With our salary data now available, we can begin examining the distribution of salary and its variation variation across various dimensions.
+With our salary data now available, we can begin examining the distribution of salary and its variation across various dimensions.
 
+```{r}
+ggplot(salary, aes(salary)) + 
+    geom_histogram(binwidth=10000)
+```
+
+The salary distribution has a clear central tendancy, though the distribution is pretty wide. We believe the data suggests that a larger sample size would raise several observations further to the right of the above distribution.
+
+The 50th percentile data scientist salary is around $115,000. The minimum paying job is a Data Scientist position for Biz2Credit Inc. in New York City, while the max paying job is for a Senior Data Scientist position for Octane Lending, also in New York City.
+
+```{r}
+quantile(salary$salary, c(0, .1, .25, .5, .75, .9, .95, .99))
+```
+
+
+
+### Skills by Salary
+
+With clean salary and skills data, we are now equipped to examine the relative value each skill in an exact dollar amount. First, we'll look at soft skills, then hard skills, then we'll compare them in aggregate.
+
+Rearrange skills data to be amenable to analysis:
+
+```{r}
+skills_long <- salary %>%
+    select(url, salary, city, softskill_communication:hardskill_shell) %>%
+    gather(skill_name, skill, softskill_communication:hardskill_shell, factor_key=TRUE) %>%
+    filter(skill == TRUE) %>%
+    select(url, salary, city, skill_name)
+```
+
+#### Soft Skills
+
+Further rearrange for soft-skills:
+
+```{r}
+soft_skills <- skills_long %>% 
+    filter(str_detect(skill_name, 'softskill') == TRUE) %>%
+    mutate(skill_name = str_remove(skill_name, 'softskill_')) %>%
+    arrange(desc(salary))
+```
+
+Graphically represent this data with a box plot:
+
+```{r}
+ggplot(soft_skills, aes(skill_name, salary)) +
+    geom_boxplot() +
+    theme(axis.text.x=element_text(angle=45, hjust=1))
+```
+
+The graph gives a sense of the distribution of salaries corresponding to each skill. Below gives the mean value. We see time management appears to be most highly prized, with a mean salary of $120,500. 
+
+```{r}
+soft_skills %>% 
+    group_by(skill_name) %>% 
+    summarize(avg_salary=mean(salary)) %>%
+    arrange(desc(avg_salary))
+```
+
+Surprisingly, leadership---a ubiquitous and often obnoxious buzzword of the corporate world---does not appear to be so highly valued for data scientists, with a mean salary of $90,000, and a 'lower distribution' than all the other soft skills.
+
+
+
+#### Hard Skills
+
+Duplicating this same analysis for hard skills:
+
+```{r}
+hard_skills <- skills_long %>% 
+    filter(str_detect(skill_name, 'hardskill') == TRUE) %>%
+    mutate(skill_name = str_remove(skill_name, 'hardskill_')) %>%
+    arrange(desc(salary))
+
+ggplot(hard_skills, aes(skill_name, salary)) +
+    geom_boxplot() +
+    theme(axis.text.x=element_text(angle=45, hjust=1))
+```
+
+The table gives the mean salary of each hard skill:
+
+```{r}
+hard_skills %>% 
+    group_by(skill_name) %>% 
+    summarize(avg_salary=mean(salary)) %>%
+    arrange(desc(avg_salary))
+```
+
+Although the larger number of hard skills make the graph harder to read, there are perhaps three identifiable groups of higher-, medium-, and lesser-valued skills.
+
+Among the top five most highly valued skills include Tensforflow, SQL, data mining, Hive, and Python. This makes sense to me---Tensorflow and deep learning are probably the greatest trend in data science today. Python and SQL are mainstays in data science, and Hive is probably the easiest way to access big data (in a SQL-like language) available today.
+
+We are not unsurprised to see that Pig is among the lowest paid hard skill. Pig was Yahoo!'s answer to Hive, and never really caught on as well. Neither are we unsurprised that 'pivot table' is not valued so highly---data scientists are not Excel jockeys.
+
+More surprising is that the average salary for R is less than $100,000. Though perhaps not---as Python catches up and (arguably) surpasses R as the langauge of choice for datas science, R would be valued less. Perhaps a flood of new R-trained data science and statistics graduates are depressing its price in the market!
+
+
+
+#### Hard Skills v. Soft Skills
+
+The following section is a small experiment to compare the value of soft and hard skills to employers. We will collect all soft skills and hard skills together, and examine their respective mean salaries.
+
+```{r}
+hard_soft <- skills_long %>%
+    mutate(skill_type = ifelse(str_detect(skills_long$skill_name, 'softskill_') == TRUE, 'soft', 'hard')) %>%
+    arrange(desc(salary))
+
+ggplot(hard_soft, aes(skill_type, salary)) +
+    geom_boxplot() +
+    theme(axis.text.x=element_text(angle=45, hjust=1))
+```
+
+Although the mean salary for hard skills is slightly higher than soft skills, the distributions are effectively the same (at least for this low $n = 22$), both in terms of central tendency and variance.
+
+```{r}
+hard_soft %>% 
+    group_by(skill_type) %>% 
+    summarize(avg_salary=mean(salary)) %>%
+    arrange(desc(avg_salary))
+```
+
+According to this data, we have to conclude that soft and hard skills are valued about equally by employers.
 
 
 # Conclusion
+
+[Sum conclusions]
+
+[Note that these conclusions are based on a small sample size, and could be validated by collecting more data and re-running the analysis]
+
