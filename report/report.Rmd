@@ -25,7 +25,7 @@ library(tidyr)
 
 The purpose of this document is to answer the question, "Which are the most valued data science skills?" We collected a sample $n = 136$ of data scientist job postings from Indeed.com via web scraping.
 
-After data collection and cleaning, we employed two strategies to value each skill: using salary information from the job listings, and using raw counts. Postings that included salary information were a minority of postings.
+After data collection and cleaning, we employed two strategies to value each skill: using salary information from the job listings, and using raw counts. Postings that included salary information were the minority of postings.
 
 
 
