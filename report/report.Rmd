@@ -1,7 +1,7 @@
 ---
 title: "DATA 607---Data Science Job Skills"
-author: "Joel & Ben"
-date: "October 14, 2018"
+author: "Joel G. & Ben H."
+date: "October 21, 2018"
 output:
   html_document:
     toc: true
@@ -23,7 +23,7 @@ library(tidyr)
 
 # Introduction
 
-The purpose of this document is to answer the question, "Which are the most valued data science skills?" We collected a sample of data scientist job postings from Indeed.com via web scraping.
+The purpose of this document is to answer the question, "Which are the most valued data science skills?" We collected a sample $n = 136$ of data scientist job postings from Indeed.com via web scraping.
 
 After data collection and cleaning, we employed two strategies to value each skill: using salary information from the job listings, and using raw counts. Postings that included salary information were a minority of postings.
 
@@ -56,12 +56,19 @@ One challenge in the cleaning process was how to store the long string of text i
 
 # Data Cleaning
 
+The data was cleaned using the procedure below: 
+
+1. The data was extracted from a GitHub directory and imported into R as a single data frame. 
+2. The data had some NAs, which were removed to ensure an accurate count of soft and hard skills. 
+3. Duplicate entries were removed so the final counts of skills were not skewed. 
+4.  Columns were created for each of the soft and hard skills identified from resume genius.com. When a soft or hard skill appeared within a job posting a "TRUE" value was generated. 
+5. The data was transformed from wide to long. A condition column was created so each soft and hard skill would be a row in the said column.  The skills column had Boolean values that need to be converted to a numeric value. True was modified to 1 and False to 0. 
 
 
 
 # Data Storage
 
-(SQL etc.)
+A SQL script was developed to transfer the indeed data frame to tables in MYSQL Workbench. 
 
 
 
@@ -83,7 +90,53 @@ df$`NA` <- NULL
 
 ## Analysis: By Count
 
-[Joel section]
+```{r}
+#Convert data from wide to long
+datalong <- gather(df, condition, skills,softskill_communication:hardskill_shell, factor_key = TRUE)
+
+# Convert True to 1 and False to 0
+datalong$skills[datalong$skills == "TRUE"] <- 1
+datalong$skills[datalong$skills == "FALSE"] <- 0
+
+#Convert NA to 0
+
+datalong$skills[is.na(datalong$skills)] <- 0
+
+#Count of soft and hard skills for job posting advertised on Indeed.com
+count_df <- datalong %>% group_by(condition) %>%
+  summarise(count = sum(as.numeric(skills))) %>%
+  arrange(desc(count))
+head(count_df,10)
+tail(count_df,10)
+
+#PLot Data
+ggplot(count_df, aes(x=condition, y=count)) +
+  geom_bar(stat='identity') +
+  coord_flip()
+
+
+#Count of soft and hard skills for job posting in Indeed
+df.1 <- count_df
+
+soft_skills <-   df.1[1:10,] %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+soft_skills
+
+hard_skills <- df.1[11:34,]  %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+hard_skills
+```
+
+According to resume genius.com, soft skills are the character traits or interpersonal skills that affect your ability to work and in interact with others.  Ten (10) soft skills were selected from the following website -  https://resumegenius.com . A search was a conducted through Data Scientist job postings that were advertised on Indeed.com. The soft skills:  communication, problem solving, time management, leadership, and attention to detail are found more frequently on job postings advertised on Indeed.com. Based on the number of occurrences of the foregoing soft skills, it can be assumed that these soft skills are most sought after by employers of data scientist positions. 
+
+According to resume genius.com, hard skills are the specific knowledge and abilities that are learned through education and training.  Similarly to the soft skills, twenty three (23) hard skills were selected from Indeed.com . The hard skills python, spark, R, hadoop, SQL, Big Data, Java are found more frequently on job postings advertised on Indeed.com. These hard skills it can also be assumed that these hard skills are most sought after by employers of data scientist positions. 
+
+Note that the python, spark, R, hadoop, SQL are programming languages. Python was present more frequently on job postings for Data Scientist positions.  This analysis would encourage Data scientists to highlight Python experience on their resumes or learn Python if they haven't done so already.     
+
+
+
 
 
 
@@ -212,7 +265,7 @@ soft_skills %>%
     arrange(desc(avg_salary))
 ```
 
-Surprisingly, leadership---a ubiquitous and often obnoxious buzzword of the corporate world---does not appear to be so highly valued for data scientists, with a mean salary of $90,000, and a 'lower distribution' than all the other soft skills.
+
 
 
 
@@ -272,15 +325,12 @@ According to this data, we have to conclude that soft and hard skills are valued
 
 # Conclusion
 
-[Sum conclusions]
-
-
-Among the top five most highly valued skills include Tensforflow, SQL, data mining, Hive, and Python. This makes sense to me---Tensorflow and deep learning are probably the greatest trend in data science today. Python and SQL are mainstays in data science, and Hive is probably the easiest way to access big data (in a SQL-like language) available today. We were unsurprised that 'pivot table' is not valued so highly---data scientists are not Excel jockeys. More surprising is that the average salary for R is less than $100,000. Though perhaps not---as Python catches up and (arguably) surpasses R as the langauge of choice for datas science, R would be valued less. Perhaps a flood of new R-trained data science and statistics graduates are depressing its price in the market!
+Among the top five most highly valued skills include Tensforflow, SQL, data mining, Hive, and Python. Python knowledge was especially emphasized in the count analysis. Much of this made sense to us. Tensorflow and deep learning are probably the greatest trend in data science today. Python and SQL are mainstays in data science, and Hive is probably the easiest way to access big data (in a SQL-like language) available today. We were unsurprised that 'pivot table' is not valued so highly---data scientists are not Excel jockeys. More surprising is that the average salary for R is less than $100,000. Though perhaps not---as Python catches up and (arguably) surpasses R as the langauge of choice for datas science, R would be valued less. Perhaps a flood of new R-trained data science and statistics graduates are depressing its price in the market!
 
 The soft skills were more surprising. Leadership---a ubiquitous and often obnoxious buzzword of the corporate world---does not appear to be so highly valued for data scientists, with a mean salary of $90,000, and a 'lower distribution' than all the other soft skills. Data science projects often lack a discrete beginning and end, so time management was the most prized soft skill. Communication was also highly valued, which is a sensible desire for technical skilled workers who oftne have to provide non-technical management with recommendations and analyses.
 
 Hard skills and soft skills in general appear to be equally prized by employers.
 
-[last paragraph]Caution is warranted, however. These results are based on a small sample size. Further work could validate them by collecting much more job listings with more geographical diversity. Although we included geography in this data set, we did not explore this variation.
+Caution is warranted, however. These results are based on a small sample size. Further work could validate them by collecting much more job listings with more geographical diversity. Although we included geography in this data set, we did not explore this variation.
 
 
