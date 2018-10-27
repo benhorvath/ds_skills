@@ -1,0 +1,110 @@
+---
+title: "Estimating Value of Data Science Skills by Internet Scraping"
+author: "Joel G. & Ben H."
+date: "October 21, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+## Purpose:
+
+"Which are the most valued data science skills?""
+
+
+
+## Analytic Strategy
+
+1. Scrape many job listings for data scientists from an online job web site
+
+2. Prepare and clean data for analysis
+
+3. Develop a list of data science hard and soft skills
+
+4. Analyze:
+
+    - Find the most commonly listed skills
+    
+    - Where salary information is available, compute the mean salary for each skill
+    
+    
+    
+# Preparation
+
+## Data Collection
+
+* Source: Indeed.com
+
+* 'data scientist' job postings across five cities:
+    
+    - New York
+    - Chicago
+    - LA
+    - 
+    - 
+    
+* Scraped about 500 listings, but due to duplication, final $n = 137$
+
+
+## Scraping: Query Strings
+
+
+## Scraping Algorithm
+
+
+
+
+
+
+## Data Cleaning
+
+
+
+
+
+
+## Data Storage
+
+
+
+
+
+# Analysis
+
+
+
+
+
+## Analysis: By Count
+
+
+
+## Analysis: By Salary
+
+
+
+
+
+# Conclusion
+
+#S Further Work
+
+
+
+
+## Challenges
+
+
+
+## Lessons
+
+
+
+## Team Responsibilities
+
+
