@@ -3120,7 +3120,7 @@ if (document.readyState !== "loading" &&
 </article></slide><slide class=""><hgroup><h2>Analytic Strategy</h2></hgroup><article  id="analytic-strategy">
 
 <ol>
-<li><p>Scrape many job listings for data scientists from an online job web site</p></li>
+<li><p>Scrape job listings for data scientists from a jobs posting web site</p></li>
 <li><p>Prepare and clean data for analysis</p></li>
 <li><p>Develop a list of data science hard and soft skills</p></li>
 <li><p>Analyze:</p>
@@ -3140,38 +3140,134 @@ if (document.readyState !== "loading" &&
 <li><p>&lsquo;data scientist&rsquo; job postings across five cities:</p>
 
 <ul>
-<li>New York</li>
+<li>New York City</li>
+<li>San Francisco</li>
 <li>Chicago</li>
-<li>LA</li>
-<li></li>
-<li></li>
+<li>Washington, D.C.</li>
+<li>Seattle</li>
 </ul></li>
-<li><p>Scraped about 500 listings, but due to duplication, final \(n = 137\)</p></li>
+<li>Scraped ~500 listings
+
+<ul>
+<li>But due to duplication, final \(n = 137\)</li>
+</ul></li>
 </ul>
 
 </article></slide><slide class=""><hgroup><h2>Scraping: Query Strings</h2></hgroup><article  id="scraping-query-strings">
 
+<ul>
+<li>We chose to scrape Indeed.com, due to their easy and clean query strings</li>
+</ul>
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="left">element</th>
+<th align="left">example</th>
+</tr>
+<tr class="odd">
+<td align="left">base URL</td>
+<td align="left"><a href='https://www.indeed.com/jobs' title=''>https://www.indeed.com/jobs</a>?</td>
+</tr>
+<tr class="even">
+<td align="left">search query</td>
+<td align="left">q=data+scientist</td>
+</tr>
+<tr class="odd">
+<td align="left">location</td>
+<td align="left">l=New+York%2C+NY</td>
+</tr>
+<tr class="even">
+<td align="left">page</td>
+<td align="left">start=10</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Scraping: Concatenating Query Strings</h2></hgroup><article  id="scraping-concatenating-query-strings">
+
+<p>Putting it altogether:</p>
+
+<p><code>https://www.indeed.com/jobs?q=data+scientist&amp;l=New+York%2C+NY&amp;start=10</code></p>
+
+<p>Returns the second page of job listings for <code>data scientist</code> located in New York</p>
+
 </article></slide><slide class=""><hgroup><h2>Scraping Algorithm</h2></hgroup><article  id="scraping-algorithm">
+
+<ol>
+<li>For each <code>city</code> in the list of <code>cities</code>:
+
+<ol>
+<li>Get some page of results, <code>pages = seq(0, 100, 10) = (0, 10, 20, ..., 100)</code>.</li>
+<li>For each <code>page</code> in <code>pages</code>:
+
+<ol>
+<li>Assemble a URL of job results</li>
+<li>Read the HTML of the resulting page: <code>read_html(results_url)</code></li>
+<li>Extract the approximately 15 links for job postings contained in the HTML: <code>extract_listing_urls(results_page_html)</code></li>
+<li>Use <code>sapply</code> to <code>extract_listing_data()</code> from each of these links</li>
+<li>Convert to data frame, save it as TSV</li>
+</ol></li>
+</ol></li>
+</ol>
+
+</article></slide><slide class=""><hgroup><h2>Scraping Algorithm: Results</h2></hgroup><article  id="scraping-algorithm-results">
+
+<p>50 TSVs saved in the <code>./data/raw/</code> directory</p>
 
 </article></slide><slide class=""><hgroup><h2>Data Cleaning</h2></hgroup><article  id="data-cleaning">
 
+<p>[JOEL]</p>
+
+</article></slide><slide class=""><hgroup><h2>Data Cleaning: Salary Information</h2></hgroup><article  id="data-cleaning-salary-information">
+
+<ul>
+<li>Salaray data from Indeed comes in various formats</li>
+<li><code>extract_salary()</code> uses <code>stringr</code> and Regular expressions to extract this information, depending on if its a range of salaries or a single salary</li>
+</ul>
+
+<pre >if (contains_range == TRUE) {
+    text_range &lt;- unlist(str_extract_all(s, &#39;\\$[0-9,]+&#39;))
+    numeric_range &lt;- as.numeric(str_remove_all(text_range, &#39;,|\\$&#39;))
+    return(mean(c(numeric_range[1], numeric_range[2])))
+} else {
+    as_text &lt;- str_extract_all(s, &#39;\\$[0-9,]+&#39;)
+    as_numeric &lt;- as.numeric(str_remove_all(as_text, &#39;,|\\$&#39;))
+    return(as_numeric)
+}</pre>
+
 </article></slide><slide class=""><hgroup><h2>Data Storage</h2></hgroup><article  id="data-storage">
+
+<p>[Joel]</p>
 
 </article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Analysis</h2></hgroup><article  id="analysis">
 
+<p>[Two analyses]</p>
+
 </article></slide><slide class=""><hgroup><h2>Analysis: By Count</h2></hgroup><article  id="analysis-by-count">
+
+<p>[Joel]</p>
 
 </article></slide><slide class=""><hgroup><h2>Analysis: By Salary</h2></hgroup><article  id="analysis-by-salary">
 
+<p>[Ben]</p>
+
 </article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Conclusion</h2></hgroup><article  id="conclusion">
 
-<p>#S Further Work</p>
+</article></slide><slide class=""><hgroup><h2>Further Work</h2></hgroup><article  id="further-work">
+
+<p>[larger sample size]</p>
 
 </article></slide><slide class=""><hgroup><h2>Challenges</h2></hgroup><article  id="challenges">
 
+<p>[git, scraping duplication, windows v. mac]</p>
+
 </article></slide><slide class=""><hgroup><h2>Lessons</h2></hgroup><article  id="lessons">
 
-</article></slide><slide class=""><hgroup><h2>Team Responsibilities</h2></hgroup><article  id="team-responsibilities"></article></slide>
+</article></slide><slide class=""><hgroup><h2>Team Responsibilities</h2></hgroup><article  id="team-responsibilities">
+
+<ul>
+<li><p><em>Joel</em>:</p></li>
+<li><p><em>Ben</em>:</p></li>
+</ul></article></slide>
 
 
   <slide class="backdrop"></slide>

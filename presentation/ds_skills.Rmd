@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Analytic Strategy
 
-1. Scrape many job listings for data scientists from an online job web site
+1. Scrape job listings for data scientists from a jobs posting web site
 
 2. Prepare and clean data for analysis
 
@@ -42,19 +42,57 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * 'data scientist' job postings across five cities:
     
-    - New York
+    - New York City
+    - San Francisco
     - Chicago
-    - LA
-    - 
-    - 
+    - Washington, D.C.
+    - Seattle
     
-* Scraped about 500 listings, but due to duplication, final $n = 137$
+* Scraped ~500 listings
+    - But due to duplication, final $n = 137$
 
 
 ## Scraping: Query Strings
 
+* We chose to scrape Indeed.com, due to their easy and clean query strings
+
+| element      | example                      |
+|--------------|------------------------------|
+| base URL     | https://www.indeed.com/jobs? |
+| search query | q=data+scientist             |
+| location     | l=New+York%2C+NY             |
+| page         | start=10                     |
+
+
+
+## Scraping: Concatenating Query Strings
+
+Putting it altogether:
+
+`https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY&start=10`
+
+Returns the second page of job listings for `data scientist` located in New York
+
+
 
 ## Scraping Algorithm
+
+1. For each `city` in the list of `cities`:
+    1. Get some page of results, ` pages = seq(0, 100, 10) = (0, 10, 20, ..., 100)`.
+    2. For each `page` in `pages`:
+        1. Assemble a URL of job results
+        2. Read the HTML of the resulting page: `read_html(results_url)`
+        3. Extract the approximately 15 links for job postings contained in the HTML: `extract_listing_urls(results_page_html)`
+        4. Use `sapply` to `extract_listing_data()` from each of these links
+        5. Convert to data frame, save it as TSV
+        
+        
+        
+## Scraping Algorithm: Results
+
+50 TSVs saved in the `./data/raw/` directory
+        
+        
 
 
 
@@ -63,42 +101,67 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Data Cleaning
 
+[JOEL]
 
+
+
+
+## Data Cleaning: Salary Information
+
+* Salaray data from Indeed comes in various formats
+* `extract_salary()` uses `stringr` and Regular expressions to extract this information, depending on if its a range of salaries or a single salary
+
+```
+if (contains_range == TRUE) {
+    text_range <- unlist(str_extract_all(s, '\\$[0-9,]+'))
+    numeric_range <- as.numeric(str_remove_all(text_range, ',|\\$'))
+    return(mean(c(numeric_range[1], numeric_range[2])))
+} else {
+    as_text <- str_extract_all(s, '\\$[0-9,]+')
+    as_numeric <- as.numeric(str_remove_all(as_text, ',|\\$'))
+    return(as_numeric)
+}
+```
 
 
 
 
 ## Data Storage
 
+[Joel]
 
 
 
 
 # Analysis
 
+[Two analyses]
 
 
 
 
 ## Analysis: By Count
 
+[Joel]
+
 
 
 ## Analysis: By Salary
 
-
+[Ben]
 
 
 
 # Conclusion
 
-#S Further Work
+## Further Work
 
-
+[larger sample size]
 
 
 ## Challenges
 
+[git, scraping duplication, windows v. mac]
 
 
 ## Lessons
@@ -106,5 +169,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ## Team Responsibilities
+
+* _Joel_: 
+
+* _Ben_: 
 
 
