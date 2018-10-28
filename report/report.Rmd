@@ -48,23 +48,140 @@ The actual scrape algorithm is pretty simple blah blah blah:
 
 Challenge: Saving long stings of text in CSV format. Got around it by 1. using TSV
 instead of CSV, 2. replacing all whitespace characters like `\n` and `\t` with simple spaces, and 3. using `stringr::str_squish`. In retrospect, I probably should've stored this data in JSON rather than character delimited files.
+```{r}
+#Getting a list if files in a Directory
+RAW_DATA_DIR <- file.path(".", "data", "raw")
+file_list <- list.files(RAW_DATA_DIR)
+
+#Merging the Files into a Single Dataframe
+
+for (file in file_list) {
+  filepath <- paste(RAW_DATA_DIR, file, sep='/')
+  #If the merged dataset doesn't exist, create it
+  if(!exists("dataset")){
+    dataset <- read.table(filepath, header = TRUE, sep = "\t")
+  }
+  # If the merged dataset does exist, append it
+  if(exists("dataset")) {
+    temp_dataset <- read.table(filepath, header = TRUE, sep = "\t")
+    dataset <- rbind(dataset, temp_dataset)
+    rm(temp_dataset)
+  }
+  
+}
+```
 
 
 
 # Data Cleaning
+```{r}
+# Remove NAs from the dataframe
+dataset <- dataset[complete.cases(dataset),]   # Fixed :) -- bh
+
+# Dedupe dataset on URL -- the scraper collected several of the same job
+dataset <- dataset[!duplicated(dataset$url), ]
+
+#Identify soft skills within job postings on Indeed.com
+dataset$softskill_communication <- str_detect(dataset$description, "communication")
+dataset$softskill_teamwork <- str_detect(dataset$description, "teamwork")
+dataset$softskill_adaptability <- str_detect(dataset$description, "adaptability")
+dataset$softskill_problem_solving <- str_detect(dataset$description, "p.+?solving")
+dataset$softskill_interpersonal  <- str_detect(dataset$description, "interpersonal")
+dataset$softskill_time_management  <- str_detect(dataset$description, "t.+?management")
+dataset$softskill_leadership  <- str_detect(dataset$description, "leadership")
+dataset$softskill_attention_to_detail  <- str_detect(dataset$description, "a.+?detail")
+dataset$softskill_creativity <- str_detect(dataset$description, "creativity")
+dataset$softskill_work_ethic <- str_detect(dataset$description, "w.+?ethic")
+
+####Identify hard Skills within job postings on Indeed.com 
+dataset$hardskill_HTML <- str_detect(dataset$description, "html")
+dataset$hardskill_Analytics <- str_detect(dataset$description, "analytics")
+dataset$hardskill_pivot_table <- str_detect(dataset$description, "pable")
+dataset$hardskill_digital_communication <- str_detect(dataset$description, "digital communication")
+dataset$hardskill_data_mining <- str_detect(dataset$description, "data mining")
+dataset$hardskill_data_engineering <- str_detect(dataset$description, "data.+?engineering")
+dataset$hardskill_database_management <- str_detect(dataset$description, "d,+?management")
+dataset$hardskill_User_Interface_Design <- str_detect(dataset$description, "user.+?interface.+?design")
+dataset$hardskill_Web_Architecture_and_Development_Framework <- str_detect(dataset$description, "web.+?architecture.+?development framework")
+dataset$hardskill_risk_assessment <- str_detect(dataset$description, "risk.+?assessment")
+dataset$hardskill_iOS_App_Development <- str_detect(dataset$description, "ios.+?development")
+
+dataset$hardskill_python <- str_detect(dataset$description, "Python")
+dataset$hardskill_r <- str_detect(dataset$description, "\\s+R\\s+")
+dataset$hardskill_hadoop <- str_detect(dataset$description, "Hadoop")
+dataset$hardskill_spark <- str_detect(dataset$description, "Spark")
+dataset$hardskill_c <- str_detect(dataset$description, "\\s+C\\s+|\\s+C\\+\\+\\s+")
+dataset$hardskill_java <- str_detect(dataset$description, "Java")
+dataset$hardskill_aws <- str_detect(dataset$description, "AWS")
+dataset$hardskill_tensorflow <- str_detect(dataset$description, "Tensorflow")
+dataset$hardskill_hive <- str_detect(dataset$description, "Hive")
+dataset$hardskill_pig <- str_detect(dataset$description, "Pig")
+dataset$hardskill_sql <- str_detect(dataset$description, "SQL")
+dataset$hardskill_bd <- str_detect(dataset$description, "[b|B]ig [d|D]ata")
+dataset$hardskill_shell <- str_detect(dataset$description, "[s|S]hell|[b|B]ash")
+
+# Save cleaned data
+dataset$description <- NULL
+export_filepath <- file.path(".", "data", "clean", "clean.tsv")
+write.table(dataset, export_filepath, sep='\t', row.names=FALSE)
+
+#Convert data from wide to long
+datalong <- gather(dataset, condition, skills,softskill_communication:hardskill_shell, factor_key = TRUE)
+
+# Convert True to 1 and False to 0
+datalong$skills[datalong$skills == "TRUE"] <- 1
+
+#Convert NA to 0
+
+datalong$skills[is.na(datalong$skills)] <- 0
+```
 
 
+The data was cleaned using the procedure below: 
 
+1. The data was extracted from a GitHub directory and imported into R as a single data frame. 
+2. The data had some NAs, which were removed to ensure an accurate count of soft and hard skills. 
+3. Duplicate entries were removed so the final counts of skills were not skewed. 
+4.  Columns were created for each of the soft and hard skills identified from resume genius.com. When a soft or hard skill appeared within a job posting a "TRUE" value was generated. 
+5. The data was transformed from wide to long. A condition column was created so each soft and hard skill would be a row in the said column.  The skills column had Boolean values that need to be converted to a numeric value. True was modified to 1 and False to 0. 
 
 # Data Storage
 
-(SQL etc.)
+A SQL script was developed to transfer the indeed data frame to tables in MYSQL Workbench. 
 
 
+# Analysis bu Count
+
+```{r}
+#Count of soft and hard skills for job posting advertised on Indeed.com
+df <- datalong %>% group_by(condition) %>%
+  summarise(count = sum(skills))
+head(df,10)
+tail(df,10)
+
+#PLot Data
+ggplot(df, aes(x=condition, y=count)) +
+  geom_bar(stat='identity') +
+  coord_flip()
 
 
-# Analysis
+#Count of soft and hard skills for job posting in Indeed
+df.1 <- df
 
+soft_skills <-   df.1[1:10,] %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+soft_skills
+
+hard_skills <- df.1[11:34,]  %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+hard_skills
+```
+
+According to resume genius.com, soft skills are the character traits or interpersonal skills that affect your ability to work and in interact with others.  Ten (10) soft skills were selected from the following website -  https://resumegenius.com . A search was a conducted through Data Scientist job postings that were advertised on Indeed.com. The soft skills:  communication, problem solving, time management, leadership, and attention to detail are found more frequently on job postings advertised on Indeed.com. Based on the number of occurrences of the foregoing soft skills, it can be assumed that these soft skills are most sought after by employers of data scientist positions. 
+According to resume genius.com, hard skills are the specific knowledge and abilities that are learned through education and training.  Similarly to the soft skills, twenty three (23) hard skills were selected from Indeed.com . The hard skills python, spark, R, hadoop, SQL, Big Data, Java are found more frequently on job postings advertised on Indeed.com. These hard skills it can also be assumed that these hard skills are most sought after by employers of data scientist positions. 
+Note that the python, spark, R, hadoop, SQL are programming languages. Python was present more frequently on job postings for Data Scientist positions.  This analysis would encourage Data scientists to highlight Python experience on their resumes or learn Python if they haven't done so already.     
 
 
 # Conclusion
