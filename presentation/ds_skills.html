@@ -3121,7 +3121,7 @@ if (document.readyState !== "loading" &&
 
 <ol>
 <li><p>Scrape job listings for data scientists from a jobs posting web site</p></li>
-<li><p>Prepare and clean data for analysis</p></li>
+<li><p>Prepare, clean, and store data for analysis</p></li>
 <li><p>Develop a list of data science hard and soft skills</p></li>
 <li><p>Analyze:</p>
 
@@ -3184,11 +3184,11 @@ if (document.readyState !== "loading" &&
 
 </article></slide><slide class=""><hgroup><h2>Scraping: Concatenating Query Strings</h2></hgroup><article  id="scraping-concatenating-query-strings">
 
-<p>Putting it altogether:</p>
+<p>Putting it altogether, e.g.:</p>
 
 <p><code>https://www.indeed.com/jobs?q=data+scientist&amp;l=New+York%2C+NY&amp;start=10</code></p>
 
-<p>Returns the second page of job listings for <code>data scientist</code> located in New York</p>
+<p>returns the second page of job listings for <code>data scientist</code> located in New York.</p>
 
 </article></slide><slide class=""><hgroup><h2>Scraping Algorithm</h2></hgroup><article  id="scraping-algorithm">
 
@@ -3201,9 +3201,9 @@ if (document.readyState !== "loading" &&
 
 <ol>
 <li>Assemble a URL of job results</li>
-<li>Read the HTML of the resulting page: <code>read_html(results_url)</code></li>
-<li>Extract the approximately 15 links for job postings contained in the HTML: <code>extract_listing_urls(results_page_html)</code></li>
-<li>Use <code>sapply</code> to <code>extract_listing_data()</code> from each of these links</li>
+<li>Read the HTML of the resulting page: <code>rvest::read_html(results_url)</code></li>
+<li>Extract the approximately 15 links for job postings contained in the HTML: <strong><code>extract_listing_urls(results_page_html)</code></strong></li>
+<li>Use <code>sapply</code> to <strong><code>extract_listing_data()</code></strong> from each of these links</li>
 <li>Convert to data frame, save it as TSV</li>
 </ol></li>
 </ol></li>
@@ -3220,11 +3220,11 @@ if (document.readyState !== "loading" &&
 </article></slide><slide class=""><hgroup><h2>Data Cleaning: Salary Information</h2></hgroup><article  id="data-cleaning-salary-information">
 
 <ul>
-<li>Salaray data from Indeed comes in various formats</li>
-<li><code>extract_salary()</code> uses <code>stringr</code> and Regular expressions to extract this information, depending on if its a range of salaries or a single salary</li>
+<li>Salary data from Indeed comes in various formats</li>
+<li><code>extract_salary()</code> uses <code>stringr</code> and Regular expressions to extract this information, depending on if it’s a range of salaries or a single salary</li>
 </ul>
 
-<pre >if (contains_range == TRUE) {
+<pre class = 'prettyprint lang-r'>if (contains_range == TRUE) {
     text_range &lt;- unlist(str_extract_all(s, &#39;\\$[0-9,]+&#39;))
     numeric_range &lt;- as.numeric(str_remove_all(text_range, &#39;,|\\$&#39;))
     return(mean(c(numeric_range[1], numeric_range[2])))
@@ -3240,7 +3240,22 @@ if (document.readyState !== "loading" &&
 
 </article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Analysis</h2></hgroup><article  id="analysis">
 
-<p>[Two analyses]</p>
+</article></slide><slide class=""><hgroup><h2>Soft and Hard Skills</h2></hgroup><article  id="soft-and-hard-skills">
+
+<ul>
+<li>Assembled from reviewing literature on the Internet</li>
+<li>Soft skills:
+
+<ul>
+<li>Attention to detail</li>
+<li>Communication</li>
+<li>Interpersonal abilities</li>
+<li>Leadership</li>
+<li>Problem solving</li>
+<li>Time management</li>
+</ul></li>
+<li>Hard skills included technical skills, like R, Python, data engineering, Java, etc.</li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Analysis: By Count</h2></hgroup><article  id="analysis-by-count">
 
@@ -3248,25 +3263,192 @@ if (document.readyState !== "loading" &&
 
 </article></slide><slide class=""><hgroup><h2>Analysis: By Salary</h2></hgroup><article  id="analysis-by-salary">
 
-<p>[Ben]</p>
+<ul>
+<li><p>Only 22 of the original 134 job listings contained salary information, or about 16 percent</p></li>
+<li><p>Job listings were made &lsquo;long&rsquo; in the form of <code>(job_id, skill, salary)</code></p></li>
+<li><p>Then: Use <code>dplyr::summarize()</code> to find the average salary for each skill</p></li>
+</ul>
+
+</article></slide><slide class=""><hgroup><h2>Analysis: Soft Skill Salaries</h2></hgroup><article  id="analysis-soft-skill-salaries">
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="right">rank</th>
+<th align="left">skill</th>
+<th align="right">avg. salary ($)</th>
+</tr>
+<tr class="odd">
+<td align="right">1</td>
+<td align="left">time management</td>
+<td align="right">120,500</td>
+</tr>
+<tr class="even">
+<td align="right">2</td>
+<td align="left">communication</td>
+<td align="right">118,278</td>
+</tr>
+<tr class="odd">
+<td align="right">3</td>
+<td align="left">problem solving</td>
+<td align="right">110,700</td>
+</tr>
+<tr class="even">
+<td align="right">4</td>
+<td align="left">attention to detail</td>
+<td align="right">109,500</td>
+</tr>
+<tr class="odd">
+<td align="right">5</td>
+<td align="left">interpersonal</td>
+<td align="right">106,000</td>
+</tr>
+<tr class="even">
+<td align="right">6</td>
+<td align="left">leadership</td>
+<td align="right">90,000</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Analysis: Hard Skill Salaries (Top 5)</h2></hgroup><article  id="analysis-hard-skill-salaries-top-5">
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="right">rank</th>
+<th align="left">skill</th>
+<th align="right">avg. salary ($)</th>
+</tr>
+<tr class="odd">
+<td align="right">1</td>
+<td align="left">tensorflow (deep learning)</td>
+<td align="right">132,250</td>
+</tr>
+<tr class="even">
+<td align="right">2</td>
+<td align="left">SQL</td>
+<td align="right">122,281</td>
+</tr>
+<tr class="odd">
+<td align="right">3</td>
+<td align="left">data mining</td>
+<td align="right">122,000</td>
+</tr>
+<tr class="even">
+<td align="right">4</td>
+<td align="left">Hive</td>
+<td align="right">121,300</td>
+</tr>
+<tr class="odd">
+<td align="right">5</td>
+<td align="left">Python</td>
+<td align="right">120,417</td>
+</tr>
+<tr class="even">
+<td align="right">…</td>
+<td align="left">…</td>
+<td align="right">…</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Analysis: Hard Skill Salaries (Bottom 5)</h2></hgroup><article  id="analysis-hard-skill-salaries-bottom-5">
+
+<table class = 'rmdtable'>
+<tr class="header">
+<th align="right">rank</th>
+<th align="left">skill</th>
+<th align="right">avg. salary ($)</th>
+</tr>
+<tr class="odd">
+<td align="right">…</td>
+<td align="left">…</td>
+<td align="right">…</td>
+</tr>
+<tr class="even">
+<td align="right">14</td>
+<td align="left">Pig</td>
+<td align="right">110,000</td>
+</tr>
+<tr class="odd">
+<td align="right">15</td>
+<td align="left">Java</td>
+<td align="right">105,375</td>
+</tr>
+<tr class="even">
+<td align="right">16</td>
+<td align="left">R</td>
+<td align="right">101,700</td>
+</tr>
+<tr class="odd">
+<td align="right">17</td>
+<td align="left">Shell/bash</td>
+<td align="right">93,750</td>
+</tr>
+<tr class="even">
+<td align="right">18</td>
+<td align="left">pivot table</td>
+<td align="right">57,500</td>
+</tr>
+</table>
+
+</article></slide><slide class=""><hgroup><h2>Analysis: Soft v. Hard Skills</h2></hgroup><article  id="analysis-soft-v.-hard-skills">
+
+<ul>
+<li>We calculated the average value of soft skills altogether and hard skills algother
+
+<ul>
+<li>Average hard skill salary: $116,432</li>
+<li>Average soft skill salary: $112,328</li>
+</ul></li>
+<li>Given the small difference in average salaries and small sample size, we were unable to find evidence that either hard or soft skills are valued more by employers</li>
+</ul>
 
 </article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Conclusion</h2></hgroup><article  id="conclusion">
 
+</article></slide><slide class=""><hgroup><h2>Conclusions</h2></hgroup><article  id="conclusions">
+
+<p>[JOEL]</p>
+
+<ul>
+<li><p>Deep learning is the most highly valued hard skill</p></li>
+<li>Time management and communication are the most valued hard skills
+
+<ul>
+<li>Whereas &lsquo;leadership&rsquo; is the least valued</li>
+</ul></li>
+<li><p>Python skill is valued by around $20,000 greater than R skill</p></li>
+<li><p>Accessing small and large data—SQL and Hive, respectively—remain an import skill for data scientists</p></li>
+</ul>
+
 </article></slide><slide class=""><hgroup><h2>Further Work</h2></hgroup><article  id="further-work">
 
-<p>[larger sample size]</p>
+<ul>
+<li><p>Larger sample size!</p></li>
+<li><p>With only 22 listings with salaries, that analysis especially cannot be considered definitive</p></li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Challenges</h2></hgroup><article  id="challenges">
 
-<p>[git, scraping duplication, windows v. mac]</p>
+<ul>
+<li><p>Scraper duplicated a lot of job postings, drastically decreasing our sample size</p></li>
+<li><p>Windows and Mac OS use different conventions for file paths</p></li>
+<li><p>Not all team members were able to use Git</p></li>
+<li><p>Difficulty of storing data with long strings of text in character delimited files</p></li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Lessons</h2></hgroup><article  id="lessons">
+
+<ul>
+<li><p>Working off the same repository is critical</p></li>
+<li><p>URL query strings can make scraping loads easier!</p></li>
+<li><p>Rvest is a very straightforward package for scraping in R</p></li>
+<li><p>Use <code>file.path()</code> when specifying file locations to make code OS-independent</p></li>
+<li><p>When dealing with long strings of text, consider JSON for storage</p></li>
+</ul>
 
 </article></slide><slide class=""><hgroup><h2>Team Responsibilities</h2></hgroup><article  id="team-responsibilities">
 
 <ul>
-<li><p><em>Joel</em>:</p></li>
-<li><p><em>Ben</em>:</p></li>
+<li><p><em>Joel</em>: Data cleaning, data storage and SQL, analysis by count, some writing, graphics</p></li>
+<li><p><em>Ben</em>: Scraping, analysis by salary, graphics, some writing</p></li>
 </ul></article></slide>
 
 

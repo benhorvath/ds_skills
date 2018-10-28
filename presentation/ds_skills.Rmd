@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 1. Scrape job listings for data scientists from a jobs posting web site
 
-2. Prepare and clean data for analysis
+2. Prepare, clean, and store data for analysis
 
 3. Develop a list of data science hard and soft skills
 
@@ -67,11 +67,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Scraping: Concatenating Query Strings
 
-Putting it altogether:
+Putting it altogether, e.g.:
 
 `https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY&start=10`
 
-Returns the second page of job listings for `data scientist` located in New York
+returns the second page of job listings for `data scientist` located in New York.
 
 
 
@@ -81,9 +81,9 @@ Returns the second page of job listings for `data scientist` located in New York
     1. Get some page of results, ` pages = seq(0, 100, 10) = (0, 10, 20, ..., 100)`.
     2. For each `page` in `pages`:
         1. Assemble a URL of job results
-        2. Read the HTML of the resulting page: `read_html(results_url)`
-        3. Extract the approximately 15 links for job postings contained in the HTML: `extract_listing_urls(results_page_html)`
-        4. Use `sapply` to `extract_listing_data()` from each of these links
+        2. Read the HTML of the resulting page: `rvest::read_html(results_url)`
+        3. Extract the approximately 15 links for job postings contained in the HTML: **`extract_listing_urls(results_page_html)`**
+        4. Use `sapply` to **`extract_listing_data()`** from each of these links
         5. Convert to data frame, save it as TSV
         
         
@@ -91,11 +91,6 @@ Returns the second page of job listings for `data scientist` located in New York
 ## Scraping Algorithm: Results
 
 50 TSVs saved in the `./data/raw/` directory
-        
-        
-
-
-
 
 
 
@@ -108,10 +103,10 @@ Returns the second page of job listings for `data scientist` located in New York
 
 ## Data Cleaning: Salary Information
 
-* Salaray data from Indeed comes in various formats
-* `extract_salary()` uses `stringr` and Regular expressions to extract this information, depending on if its a range of salaries or a single salary
+* Salary data from Indeed comes in various formats
+* `extract_salary()` uses `stringr` and Regular expressions to extract this information, depending on if it's a range of salaries or a single salary
 
-```
+```{r, eval=FALSE, echo=TRUE}
 if (contains_range == TRUE) {
     text_range <- unlist(str_extract_all(s, '\\$[0-9,]+'))
     numeric_range <- as.numeric(str_remove_all(text_range, ',|\\$'))
@@ -135,8 +130,17 @@ if (contains_range == TRUE) {
 
 # Analysis
 
-[Two analyses]
+## Soft and Hard Skills
 
+* Assembled from reviewing literature on the Internet
+* Soft skills:
+    - Attention to detail
+    - Communication
+    - Interpersonal abilities
+    - Leadership
+    - Problem solving
+    - Time management
+* Hard skills included technical skills, like R, Python, data engineering, Java, etc.
 
 
 
@@ -148,30 +152,120 @@ if (contains_range == TRUE) {
 
 ## Analysis: By Salary
 
-[Ben]
+* Only 22 of the original 134 job listings contained salary information, or about 16 percent
+
+* Job listings were made 'long' in the form of `(job_id, skill, salary)`
+
+* Then: Use `dplyr::summarize()` to find the average salary for each skill
+
+
+
+## Analysis: Soft Skill Salaries
+
+| rank | skill               | avg. salary ($) |
+|-----:|---------------------|----------------:|
+|    1 | time management     |         120,500 |
+|    2 | communication       |         118,278 |
+|    3 | problem solving     |         110,700 |
+|    4 | attention to detail |         109,500 |
+|    5 | interpersonal       |         106,000 |
+|    6 | leadership          |          90,000 |
+
+
+
+## Analysis: Hard Skill Salaries (Top 5)
+
+| rank | skill                      | avg. salary ($) |
+|-----:|----------------------------|----------------:|
+|    1 | tensorflow (deep learning) |         132,250 |
+|    2 | SQL                        |         122,281 |
+|    3 | data mining                |         122,000 |
+|    4 | Hive                       |         121,300 |
+|    5 | Python                     |         120,417 |
+|  ... | ...                        |             ... |
+
+
+
+## Analysis: Hard Skill Salaries (Bottom 5)
+
+| rank | skill       | avg. salary ($) |
+|-----:|-------------|----------------:|
+|  ... | ...         |             ... |
+|   14 | Pig         |         110,000 |
+|   15 | Java        |         105,375 |
+|   16 | R           |         101,700 |
+|   17 | Shell/bash  |          93,750 |
+|   18 | pivot table |          57,500 |
+
+
+
+## Analysis: Soft v. Hard Skills
+
+* We calculated the average value of soft skills altogether and hard skills algother
+    - Average hard skill salary: $116,432
+    - Average soft skill salary: $112,328
+    
+* Given the small difference in average salaries and small sample size, we were unable to find evidence that either hard or soft skills are valued more by employers
+
+
 
 
 
 # Conclusion
 
+## Conclusions
+
+[JOEL]
+
+* Deep learning is the most highly valued hard skill
+
+* Time management and communication are the most valued hard skills
+    - Whereas 'leadership' is the least valued
+    
+* Python skill is valued by around $20,000 greater than R skill
+
+* Accessing small and large data---SQL and Hive, respectively---remain an import skill for data scientists
+
+
+
 ## Further Work
 
-[larger sample size]
+* Larger sample size!
+
+* With only 22 listings with salaries, that analysis especially cannot be considered definitive
+
 
 
 ## Challenges
 
-[git, scraping duplication, windows v. mac]
+* Scraper duplicated a lot of job postings, drastically decreasing our sample size
+
+* Windows and Mac OS use different conventions for file paths
+
+* Not all team members were able to use Git
+
+* Difficulty of storing data with long strings of text in character delimited files
+
 
 
 ## Lessons
+
+* Working off the same repository is critical
+
+* URL query strings can make scraping loads easier!
+
+* Rvest is a very straightforward package for scraping in R
+
+* Use `file.path()` when specifying file locations to make code OS-independent
+
+* When dealing with long strings of text, consider JSON for storage
 
 
 
 ## Team Responsibilities
 
-* _Joel_: 
+* _Joel_: Data cleaning, data storage and SQL, analysis by count, some writing, graphics
 
-* _Ben_: 
+* _Ben_: Scraping, analysis by salary, graphics, some writing
 
 
