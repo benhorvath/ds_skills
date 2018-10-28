@@ -1,0 +1,278 @@
+---
+title: "Estimating Value of Data Science Skills by Internet Scraping"
+author: "Joel G. & Ben H."
+date: "October 21, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+## Purpose:
+
+"Which are the most valued data science skills?""
+
+
+
+## Analytic Strategy
+
+1. Scrape job listings for data scientists from a jobs posting web site
+
+2. Prepare, clean, and store data for analysis
+
+3. Develop a list of data science hard and soft skills
+
+4. Analyze:
+
+    - Find the most commonly listed skills
+    
+    - Where salary information is available, compute the mean salary for each skill
+    
+    
+    
+# Preparation
+
+## Data Collection
+
+* Source: Indeed.com
+
+* 'data scientist' job postings across five cities:
+    
+    - New York City
+    - San Francisco
+    - Chicago
+    - Washington, D.C.
+    - Seattle
+    
+* Scraped ~500 listings
+    - But due to duplication, final $n = 137$
+
+
+## Scraping: Query Strings
+
+* We chose to scrape Indeed.com, due to their easy and clean query strings
+
+| element      | example                      |
+|--------------|------------------------------|
+| base URL     | https://www.indeed.com/jobs? |
+| search query | q=data+scientist             |
+| location     | l=New+York%2C+NY             |
+| page         | start=10                     |
+
+
+
+## Scraping: Concatenating Query Strings
+
+Putting it altogether, e.g.:
+
+`https://www.indeed.com/jobs?q=data+scientist&l=New+York%2C+NY&start=10`
+
+returns the second page of job listings for `data scientist` located in New York.
+
+
+
+## Scraping Algorithm
+
+1. For each `city` in the list of `cities`:
+    1. Get some page of results, ` pages = seq(0, 100, 10) = (0, 10, 20, ..., 100)`.
+    2. For each `page` in `pages`:
+        1. Assemble a URL of job results
+        2. Read the HTML of the resulting page: `rvest::read_html(results_url)`
+        3. Extract the approximately 15 links for job postings contained in the HTML: **`extract_listing_urls(results_page_html)`**
+        4. Use `sapply` to **`extract_listing_data()`** from each of these links
+        5. Convert to data frame, save it as TSV
+        
+        
+        
+## Scraping Algorithm: Results
+
+50 TSVs saved in the `./data/raw/` directory
+
+
+
+## Data Cleaning
+
+1. Remove NA values from the data frame.
+2.  Remove duplicate job entries. 
+3. Extract selected soft skills and hard skills obtained from reviewing literature.
+4. Create a column for each soft and hard skill. When one of the keywords appeared on a job posting a TRUE value will be reflected in the corresponding column and row. 
+4. Using the gather function to convert data from wide to long.
+5. Convert True to 1 and False to 0 to count True values. 
+6. Group the soft and hard skills and count how many times each soft and hard skill was found in each of the job postings. 
+
+
+
+
+
+## Data Cleaning: Salary Information
+
+* Salary data from Indeed comes in various formats
+* `extract_salary()` uses `stringr` and Regular expressions to extract this information, depending on if it's a range of salaries or a single salary
+
+```{r, eval=FALSE, echo=TRUE}
+if (contains_range == TRUE) {
+    text_range <- unlist(str_extract_all(s, '\\$[0-9,]+'))
+    numeric_range <- as.numeric(str_remove_all(text_range, ',|\\$'))
+    return(mean(c(numeric_range[1], numeric_range[2])))
+} else {
+    as_text <- str_extract_all(s, '\\$[0-9,]+')
+    as_numeric <- as.numeric(str_remove_all(as_text, ',|\\$'))
+    return(as_numeric)
+}
+```
+
+
+
+
+## Data Storage
+
+A SQL file was created with the table names.  The date scraped field did not load initially so the date field needed to be formatted to '%m/%d/%Y'. The soft skills and hard skills were also stored in the SQL database. 
+
+
+# Analysis
+
+
+
+## Soft and Hard Skills
+
+* Assembled from reviewing literature on the Internet
+* Soft skills:
+    - Attention to detail
+    - Communication
+    - Interpersonal abilities
+    - Leadership
+    - Problem solving
+    - Time management
+* Hard skills included technical skills, like R, Python, data engineering, Java, etc.
+
+
+
+## Analysis: By Count
+
+[Joel]
+
+
+
+## Analysis: By Salary
+
+* Only 22 of the original 134 job listings contained salary information, or about 16 percent
+
+* Job listings were made 'long' in the form of `(job_id, skill, salary)`
+
+* Then: Use `dplyr::summarize()` to find the average salary for each skill
+
+
+
+## Analysis: Soft Skill Salaries
+
+| rank | skill               | avg. salary ($) |
+|-----:|---------------------|----------------:|
+|    1 | time management     |         120,500 |
+|    2 | communication       |         118,278 |
+|    3 | problem solving     |         110,700 |
+|    4 | attention to detail |         109,500 |
+|    5 | interpersonal       |         106,000 |
+|    6 | leadership          |          90,000 |
+
+
+
+## Analysis: Hard Skill Salaries (Top 5)
+
+| rank | skill                      | avg. salary ($) |
+|-----:|----------------------------|----------------:|
+|    1 | tensorflow (deep learning) |         132,250 |
+|    2 | SQL                        |         122,281 |
+|    3 | data mining                |         122,000 |
+|    4 | Hive                       |         121,300 |
+|    5 | Python                     |         120,417 |
+|  ... | ...                        |             ... |
+
+
+
+## Analysis: Hard Skill Salaries (Bottom 5)
+
+| rank | skill       | avg. salary ($) |
+|-----:|-------------|----------------:|
+|  ... | ...         |             ... |
+|   14 | Pig         |         110,000 |
+|   15 | Java        |         105,375 |
+|   16 | R           |         101,700 |
+|   17 | Shell/bash  |          93,750 |
+|   18 | pivot table |          57,500 |
+
+
+
+## Analysis: Soft v. Hard Skills
+
+* We calculated the average value of soft skills altogether and hard skills algother
+    - Average hard skill salary: $116,432
+    - Average soft skill salary: $112,328
+    
+* Given the small difference in average salaries and small sample size, we were unable to find evidence that either hard or soft skills are valued more by employers
+
+
+
+
+
+# Conclusion
+
+## Conclusions
+
+[JOEL]
+
+* Deep learning is the most highly valued hard skill
+
+* Time management and communication are the most valued hard skills
+    - Whereas 'leadership' is the least valued
+    
+* Python skill is valued by around $20,000 greater than R skill
+
+* Accessing small and large data---SQL and Hive, respectively---remain an import skill for data scientists
+
+
+
+## Further Work
+
+* Larger sample size!
+
+* With only 22 listings with salaries, that analysis especially cannot be considered definitive
+
+
+
+## Challenges
+
+* Scraper duplicated a lot of job postings, drastically decreasing our sample size
+
+* Windows and Mac OS use different conventions for file paths
+
+* Not all team members were able to use Git
+
+* Difficulty of storing data with long strings of text in character delimited files
+
+
+
+## Lessons
+
+* Working off the same repository is critical
+
+* URL query strings can make scraping loads easier!
+
+* Rvest is a very straightforward package for scraping in R
+
+* Use `file.path()` when specifying file locations to make code OS-independent
+
+* When dealing with long strings of text, consider JSON for storage
+
+
+
+## Team Responsibilities
+
+* _Joel_: Data cleaning, data storage and SQL, analysis by count, some writing, graphics
+
+* _Ben_: Scraping, analysis by salary, graphics, some writing
+
+
