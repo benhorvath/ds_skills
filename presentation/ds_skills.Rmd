@@ -153,6 +153,21 @@ A SQL file was created with the table names.  The date scraped field did not loa
 
 ## Analysis: By Count
 
+```{r, eval=FALSE, echo=TRUE}
+soft_skills <-   df.1[1:10,] %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+soft_skills
+```
+
+```{r}
+hard_skills <- df.1[11:34,]  %>%
+  mutate(total = sum(count))%>%
+  mutate(job.percentage = count/total)
+hard_skills
+```
+
+
 * Soft skills are the character traits or interpersonal skills that affect your ability to work and in interact with others.  Ten (10) soft skills were selected from the following website - https://resumegenius.com . A search was a conducted through Data Scientist job postings that were advertised on Indeed.com. The soft skills:  communication, problem solving, time management, leadership, and attention to detail are found more frequently on job postings advertised on Indeed.com. Based on the number of occurrences of the foregoing soft skills, it can be assumed that these soft skills are most sought after by employers of data scientist positions. 
 
 * According to resume genius.com, hard skills are the specific knowledge and abilities that are learned through education and training.  Similarly to the soft skills, twenty three (23) hard skills were selected from Indeed.com . The hard skills python, spark, R, hadoop, SQL, Big Data, Java are found more frequently on job postings advertised on Indeed.com. These hard skills it can also be assumed that these hard skills are most sought after by employers of data scientist positions. 
@@ -225,7 +240,7 @@ A SQL file was created with the table names.  The date scraped field did not loa
 
 ## Conclusions
 
-[JOEL]
+*Python, spark, R, hadoop, SQL are programming languages. Python was present more frequently on job postings for Data Scientist positions.  This analysis would encourage Data scientists to highlight Python experience on their resumes or learn Python if they haven't done so already. Employers can utilize the skills identified above as key word searches when parsing through resumes to screen out applicants that to not have the required skills listed on their resumes.   
 
 * Deep learning is the most highly valued hard skill
 
@@ -256,6 +271,9 @@ A SQL file was created with the table names.  The date scraped field did not loa
 
 * Difficulty of storing data with long strings of text in character delimited files
 
+* Job Postings with NA values reduced the sample size as well
+
+* Date fields in SQL file need to be formatted correctly 
 
 
 ## Lessons
@@ -269,7 +287,6 @@ A SQL file was created with the table names.  The date scraped field did not loa
 * Use `file.path()` when specifying file locations to make code OS-independent
 
 * When dealing with long strings of text, consider JSON for storage
-
 
 
 ## Team Responsibilities
